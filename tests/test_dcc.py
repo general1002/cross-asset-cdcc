@@ -3,6 +3,7 @@ import numpy as np
 from src.dcc import (
     covariance_to_correlation,
     filter_correlations,
+    forecast_next_correlation,
     parameters_from_unconstrained,
 )
 
@@ -67,4 +68,66 @@ def test_dcc_filter_shapes() -> None:
             axis2=2,
         ),
         1.0,
+    )
+
+
+def test_forecast_next_correlation() -> None:
+    rng = np.random.default_rng(123)
+
+    residuals = rng.normal(
+        size=(120, 4)
+    )
+
+    target = np.corrcoef(
+        residuals,
+        rowvar=False,
+    )
+
+    a = 0.03
+    b = 0.94
+
+    q_history, r_history = filter_correlations(
+        residuals,
+        a=a,
+        b=b,
+        target=target,
+        corrected=True,
+    )
+
+    result = {
+        "a": a,
+        "b": b,
+        "target": target,
+        "q_history": q_history,
+        "r_history": r_history,
+    }
+
+    forecast = forecast_next_correlation(
+        result=result,
+        latest_standardized_residual=residuals[-1],
+        corrected=True,
+    )
+
+    assert forecast.shape == (4, 4)
+
+    assert np.allclose(
+        forecast,
+        forecast.T,
+    )
+
+    assert np.allclose(
+        np.diag(forecast),
+        1.0,
+    )
+
+    assert np.all(
+        np.linalg.eigvalsh(forecast) > 0
+    )
+
+    assert np.all(
+        forecast <= 1.0 + 1e-10
+    )
+
+    assert np.all(
+        forecast >= -1.0 - 1e-10
     )

@@ -340,3 +340,63 @@ def estimate_dcc(
         "q_history": q_history,
         "r_history": r_history,
     }
+    
+def forecast_next_correlation(
+    result: dict,
+    latest_standardized_residual: np.ndarray,
+    corrected: bool,
+) -> np.ndarray:
+    """
+    Produce the one-step-ahead DCC/cDCC correlation forecast.
+    """
+    latest_standardized_residual = np.asarray(
+        latest_standardized_residual,
+        dtype=float,
+    )
+
+    q = np.asarray(
+        result["q_history"][-1],
+        dtype=float,
+    )
+
+    target = np.asarray(
+        result["target"],
+        dtype=float,
+    )
+
+    a = float(result["a"])
+    b = float(result["b"])
+
+    innovation = (
+        latest_standardized_residual
+    )
+
+    if corrected:
+        q_scale = np.sqrt(
+            np.maximum(
+                np.diag(q),
+                1e-12,
+            )
+        )
+
+        innovation = (
+            q_scale * innovation
+        )
+
+    q_forecast = (
+        (1.0 - a - b) * target
+        + a
+        * np.outer(
+            innovation,
+            innovation,
+        )
+        + b * q
+    )
+
+    q_forecast = 0.5 * (
+        q_forecast + q_forecast.T
+    )
+
+    return covariance_to_correlation(
+        q_forecast
+    )
