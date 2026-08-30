@@ -1,0 +1,104 @@
+start: "2020-05-01"
+end: null
+interval: "1d"
+
+assets:
+  # Equity ETFs: local listing currency returns where practical.
+  Japan Equity:
+    ticker: "1305.T"
+    asset_class: "Equity"
+    currency: "JPY"
+  US Equity:
+    ticker: "SPY"
+    asset_class: "Equity"
+    currency: "USD"
+  Europe Equity:
+    ticker: "VGK"
+    asset_class: "Equity"
+    currency: "USD"
+  Emerging Equity:
+    ticker: "EEM"
+    asset_class: "Equity"
+    currency: "USD"
+
+  # Government bond ETFs. JGB is broad maturity, not a 7-10Y index.
+  Japan Government Bond:
+    ticker: "2561.T"
+    asset_class: "Government Bond"
+    currency: "JPY"
+  US Treasury 7-10Y:
+    ticker: "IEF"
+    asset_class: "Government Bond"
+    currency: "USD"
+  Germany Government Bond:
+    ticker: "IDEU.L"
+    asset_class: "Government Bond"
+    currency: "GBP"
+    candidate: true
+  UK Gilt:
+    ticker: "IGLT.L"
+    asset_class: "Government Bond"
+    currency: "GBP"
+
+  US IG:
+    ticker: "LQD"
+    asset_class: "Credit"
+    currency: "USD"
+  US HY:
+    ticker: "HYG"
+    asset_class: "Credit"
+    currency: "USD"
+  Europe IG:
+    ticker: "IEAC.L"
+    asset_class: "Credit"
+    currency: "GBP"
+    candidate: true
+  Europe HY:
+    ticker: "IHYG.L"
+    asset_class: "Credit"
+    currency: "GBP"
+    candidate: true
+
+  USDJPY:
+    ticker: "JPY=X"
+    asset_class: "FX"
+    currency: "JPY per USD"
+  EURJPY:
+    ticker: "EURJPY=X"
+    asset_class: "FX"
+    currency: "JPY per EUR"
+  GBPJPY:
+    ticker: "GBPJPY=X"
+    asset_class: "FX"
+    currency: "JPY per GBP"
+  AUDJPY:
+    ticker: "AUDJPY=X"
+    asset_class: "FX"
+    currency: "JPY per AUD"
+
+  US REIT:
+    ticker: "VNQ"
+    asset_class: "REIT"
+    currency: "USD"
+  Japan REIT:
+    ticker: "1343.T"
+    asset_class: "REIT"
+    currency: "JPY"
+  Europe REIT:
+    ticker: "IPRP.L"
+    asset_class: "REIT"
+    currency: "GBP"
+    candidate: true
+
+  Crude Oil:
+    ticker: "CL=F"
+    asset_class: "Commodity"
+    currency: "USD"
+  Gold:
+    ticker: "GC=F"
+    asset_class: "Commodity"
+    currency: "USD"
+  Copper:
+    ticker: "HG=F"
+    asset_class: "Commodity"
+    currency: "USD"
