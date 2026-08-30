@@ -1,0 +1,130 @@
+start: "2020-05-01"
+end: null
+interval: "1d"
+base_currency: "JPY"
+
+assets:
+  Japan Equity:
+    ticker: "1305.T"
+    asset_class: "Equity"
+    trading_currency: "JPY"
+    funded_asset: true
+
+  US Equity:
+    ticker: "SPY"
+    asset_class: "Equity"
+    trading_currency: "USD"
+    funded_asset: true
+
+  Europe Equity:
+    ticker: "VGK"
+    asset_class: "Equity"
+    trading_currency: "USD"
+    funded_asset: true
+
+  Emerging Equity:
+    ticker: "EEM"
+    asset_class: "Equity"
+    trading_currency: "USD"
+    funded_asset: true
+
+  Japan Government Bond:
+    ticker: "2561.T"
+    asset_class: "Government Bond"
+    trading_currency: "JPY"
+    funded_asset: true
+
+  US Treasury 7-10Y:
+    ticker: "IEF"
+    asset_class: "Government Bond"
+    trading_currency: "USD"
+    funded_asset: true
+
+  Germany Government Bond:
+    ticker: "IDEU.L"
+    asset_class: "Government Bond"
+    trading_currency: "GBP"
+    funded_asset: true
+
+  UK Gilt:
+    ticker: "IGLT.L"
+    asset_class: "Government Bond"
+    trading_currency: "GBP"
+    funded_asset: true
+
+  US IG:
+    ticker: "LQD"
+    asset_class: "Credit"
+    trading_currency: "USD"
+    funded_asset: true
+
+  US HY:
+    ticker: "HYG"
+    asset_class: "Credit"
+    trading_currency: "USD"
+    funded_asset: true
+
+  Europe IG:
+    ticker: "IEAC.L"
+    asset_class: "Credit"
+    trading_currency: "GBP"
+    funded_asset: true
+
+  Europe HY:
+    ticker: "IHYG.L"
+    asset_class: "Credit"
+    trading_currency: "GBP"
+    funded_asset: true
+
+  US REIT:
+    ticker: "VNQ"
+    asset_class: "REIT"
+    trading_currency: "USD"
+    funded_asset: true
+
+  Japan REIT:
+    ticker: "1343.T"
+    asset_class: "REIT"
+    trading_currency: "JPY"
+    funded_asset: true
+
+  Europe REIT:
+    ticker: "IPRP.L"
+    asset_class: "REIT"
+    trading_currency: "GBP"
+    funded_asset: true
+
+  Crude Oil:
+    ticker: "USO"
+    asset_class: "Commodity"
+    trading_currency: "USD"
+    funded_asset: true
+
+  Gold:
+    ticker: "GLD"
+    asset_class: "Commodity"
+    trading_currency: "USD"
+    funded_asset: true
+
+  Copper:
+    ticker: "CPER"
+    asset_class: "Commodity"
+    trading_currency: "USD"
+    funded_asset: true
+
+fx_overlays:
+  USDJPY:
+    ticker: "JPY=X"
+    foreign_currency: "USD"
+
+  EURJPY:
+    ticker: "EURJPY=X"
+    foreign_currency: "EUR"
+
+  GBPJPY:
+    ticker: "GBPJPY=X"
+    foreign_currency: "GBP"
+
+  AUDJPY:
+    ticker: "AUDJPY=X"
+    foreign_currency: "AUD"
