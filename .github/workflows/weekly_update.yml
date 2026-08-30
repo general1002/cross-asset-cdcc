@@ -1,0 +1,111 @@
+name: Weekly Cross-Asset Update
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Every Monday at 07:15 JST
+    # GitHub Actions cron is expressed in UTC.
+    - cron: "15 22 * * 0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-cross-asset-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+          python -m pip check
+
+      - name: Run unit tests
+        run: |
+          pytest -q
+
+      - name: Download and diagnose market data
+        run: |
+          python diagnose_data.py
+
+      - name: Build JPY portfolio returns
+        run: |
+          python build_portfolio_returns.py
+
+      - name: Run long-only portfolio backtest
+        run: |
+          python backtest_cdcc_portfolios.py
+
+      - name: Run TSMOM signal backtest
+        run: |
+          python backtest_cdcc_signals.py
+
+      - name: Produce weekly DCC-GARCH forecast
+        run: |
+          python forecast_dcc_garch.py
+
+      - name: Verify dashboard inputs
+        run: |
+          test -f data/processed/long_short_returns_pct.csv
+          test -f outputs/cdcc_signal_weights.csv
+          test -f outputs/cdcc_signal_nav.csv
+          test -f outputs/cdcc_signal_performance.csv
+          test -f outputs/cdcc_portfolio_weights.csv
+          test -f outputs/cdcc_portfolio_nav.csv
+          test -f outputs/cdcc_portfolio_performance.csv
+          test -f outputs/cdcc_walkforward_parameters.csv
+          test -f outputs/dcc_garch_volatility_forecast.csv
+          test -f outputs/dcc_garch_weekly_correlation_forecast.csv
+          test -f outputs/dcc_garch_portfolio_volatility_forecast.csv
+
+      - name: Commit updated outputs
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -f data/processed/long_short_returns_pct.csv
+
+          git add -f outputs/cdcc_signal_weights.csv
+          git add -f outputs/cdcc_signal_nav.csv
+          git add -f outputs/cdcc_signal_performance.csv
+          git add -f outputs/cdcc_signal_diagnostics.csv
+
+          git add -f outputs/cdcc_portfolio_weights.csv
+          git add -f outputs/cdcc_portfolio_nav.csv
+          git add -f outputs/cdcc_portfolio_performance.csv
+          git add -f outputs/cdcc_walkforward_parameters.csv
+
+          git add -f outputs/dcc_garch_volatility_forecast.csv
+          git add -f outputs/dcc_garch_horizon_volatility_forecast.csv
+          git add -f outputs/dcc_garch_next_day_covariance_forecast.csv
+          git add -f outputs/dcc_garch_weekly_covariance_forecast.csv
+          git add -f outputs/dcc_garch_next_day_correlation_forecast.csv
+          git add -f outputs/dcc_garch_weekly_correlation_forecast.csv
+          git add -f outputs/dcc_garch_covariance_forecast.csv
+          git add -f outputs/dcc_garch_correlation_forecast.csv
+          git add -f outputs/dcc_garch_univariate_parameters.csv
+          git add -f outputs/dcc_garch_portfolio_volatility_forecast.csv
+
+          if git diff --cached --quiet; then
+            echo "No market data changes to commit."
+          else
+            git commit -m "Update weekly cross-asset forecasts"
+            git push
+          fi
