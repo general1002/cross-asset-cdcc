@@ -17,78 +17,78 @@ date,strategy,asset,weight
 2022-07-12,Equal Weight,Crude Oil,0.05555555555555555
 2022-07-12,Equal Weight,Gold,0.05555555555555555
 2022-07-12,Equal Weight,Copper,0.05555555555555555
-2022-07-12,Shrinkage Risk Parity,Japan Equity,0.046082614056762464
-2022-07-12,Shrinkage Risk Parity,US Equity,0.02952812996811828
-2022-07-12,Shrinkage Risk Parity,Europe Equity,0.028414756987619697
-2022-07-12,Shrinkage Risk Parity,Emerging Equity,0.02882481986338517
-2022-07-12,Shrinkage Risk Parity,Japan Government Bond,0.19999999999999998
-2022-07-12,Shrinkage Risk Parity,US Treasury 7-10Y,0.08128475105328675
-2022-07-12,Shrinkage Risk Parity,Germany Government Bond,0.06931969173010197
-2022-07-12,Shrinkage Risk Parity,UK Gilt,0.05693942300069486
-2022-07-12,Shrinkage Risk Parity,US IG,0.05888987969531999
-2022-07-12,Shrinkage Risk Parity,US HY,0.050873083643350046
-2022-07-12,Shrinkage Risk Parity,Europe IG,0.05794811482329685
-2022-07-12,Shrinkage Risk Parity,Europe HY,0.048953107599900535
-2022-07-12,Shrinkage Risk Parity,US REIT,0.028403110553316412
-2022-07-12,Shrinkage Risk Parity,Japan REIT,0.07596483378692008
-2022-07-12,Shrinkage Risk Parity,Europe REIT,0.030365116807807093
-2022-07-12,Shrinkage Risk Parity,Crude Oil,0.024827135803519938
-2022-07-12,Shrinkage Risk Parity,Gold,0.050394575395629464
-2022-07-12,Shrinkage Risk Parity,Copper,0.03298685523097041
-2022-07-12,cDCC Risk Parity,Japan Equity,0.047827006858179054
-2022-07-12,cDCC Risk Parity,US Equity,0.03394852084977624
-2022-07-12,cDCC Risk Parity,Europe Equity,0.02899316210238483
-2022-07-12,cDCC Risk Parity,Emerging Equity,0.032105907751294537
+2022-07-12,Shrinkage Risk Parity,Japan Equity,0.04608267301917315
+2022-07-12,Shrinkage Risk Parity,US Equity,0.029528119672793146
+2022-07-12,Shrinkage Risk Parity,Europe Equity,0.028414732771291695
+2022-07-12,Shrinkage Risk Parity,Emerging Equity,0.028824821562122172
+2022-07-12,Shrinkage Risk Parity,Japan Government Bond,0.2
+2022-07-12,Shrinkage Risk Parity,US Treasury 7-10Y,0.08128439997001657
+2022-07-12,Shrinkage Risk Parity,Germany Government Bond,0.06931977119124166
+2022-07-12,Shrinkage Risk Parity,UK Gilt,0.05693948673856904
+2022-07-12,Shrinkage Risk Parity,US IG,0.05888976296753204
+2022-07-12,Shrinkage Risk Parity,US HY,0.05087314398385594
+2022-07-12,Shrinkage Risk Parity,Europe IG,0.05794822384820878
+2022-07-12,Shrinkage Risk Parity,Europe HY,0.04895302757828563
+2022-07-12,Shrinkage Risk Parity,US REIT,0.02840310157176164
+2022-07-12,Shrinkage Risk Parity,Japan REIT,0.07596503338559128
+2022-07-12,Shrinkage Risk Parity,Europe REIT,0.03036514574685637
+2022-07-12,Shrinkage Risk Parity,Crude Oil,0.02482715274376633
+2022-07-12,Shrinkage Risk Parity,Gold,0.05039456245839397
+2022-07-12,Shrinkage Risk Parity,Copper,0.032986840790540574
+2022-07-12,cDCC Risk Parity,Japan Equity,0.04782557603113152
+2022-07-12,cDCC Risk Parity,US Equity,0.03394859170940362
+2022-07-12,cDCC Risk Parity,Europe Equity,0.028994152417376916
+2022-07-12,cDCC Risk Parity,Emerging Equity,0.03210575759209925
 2022-07-12,cDCC Risk Parity,Japan Government Bond,0.2
-2022-07-12,cDCC Risk Parity,US Treasury 7-10Y,0.05480649686206572
-2022-07-12,cDCC Risk Parity,Germany Government Bond,0.05934480704491856
-2022-07-12,cDCC Risk Parity,UK Gilt,0.05116079689836364
-2022-07-12,cDCC Risk Parity,US IG,0.06521862901434612
-2022-07-12,cDCC Risk Parity,US HY,0.03869175022310045
-2022-07-12,cDCC Risk Parity,Europe IG,0.06567948660906169
-2022-07-12,cDCC Risk Parity,Europe HY,0.05199995807779837
-2022-07-12,cDCC Risk Parity,US REIT,0.04219692173938924
-2022-07-12,cDCC Risk Parity,Japan REIT,0.09192865950260673
-2022-07-12,cDCC Risk Parity,Europe REIT,0.02716745770868337
-2022-07-12,cDCC Risk Parity,Crude Oil,0.02109934428866356
-2022-07-12,cDCC Risk Parity,Gold,0.05505273517732822
-2022-07-12,cDCC Risk Parity,Copper,0.03277835929203973
-2022-07-12,Shrinkage Minimum Variance,Japan Equity,0.011221380671832789
-2022-07-12,Shrinkage Minimum Variance,US Equity,3.263276041580403e-17
-2022-07-12,Shrinkage Minimum Variance,Europe Equity,0.0
-2022-07-12,Shrinkage Minimum Variance,Emerging Equity,2.4250684915515474e-17
-2022-07-12,Shrinkage Minimum Variance,Japan Government Bond,0.20000000000000004
+2022-07-12,cDCC Risk Parity,US Treasury 7-10Y,0.054806821211683746
+2022-07-12,cDCC Risk Parity,Germany Government Bond,0.059344873758453646
+2022-07-12,cDCC Risk Parity,UK Gilt,0.05116112323164312
+2022-07-12,cDCC Risk Parity,US IG,0.06521890815636369
+2022-07-12,cDCC Risk Parity,US HY,0.038691944413705305
+2022-07-12,cDCC Risk Parity,Europe IG,0.06567919685162542
+2022-07-12,cDCC Risk Parity,Europe HY,0.051999525340462226
+2022-07-12,cDCC Risk Parity,US REIT,0.04219693446084448
+2022-07-12,cDCC Risk Parity,Japan REIT,0.09192874261929278
+2022-07-12,cDCC Risk Parity,Europe REIT,0.027167478635295728
+2022-07-12,cDCC Risk Parity,Crude Oil,0.021099331854973574
+2022-07-12,cDCC Risk Parity,Gold,0.055052622471764755
+2022-07-12,cDCC Risk Parity,Copper,0.0327784192438802
+2022-07-12,Shrinkage Minimum Variance,Japan Equity,0.011222405117587316
+2022-07-12,Shrinkage Minimum Variance,US Equity,1.1406079405000937e-17
+2022-07-12,Shrinkage Minimum Variance,Europe Equity,1.0196467107710235e-17
+2022-07-12,Shrinkage Minimum Variance,Emerging Equity,0.0
+2022-07-12,Shrinkage Minimum Variance,Japan Government Bond,0.2
 2022-07-12,Shrinkage Minimum Variance,US Treasury 7-10Y,0.2
-2022-07-12,Shrinkage Minimum Variance,Germany Government Bond,0.09612194400211148
+2022-07-12,Shrinkage Minimum Variance,Germany Government Bond,0.09612276495801754
 2022-07-12,Shrinkage Minimum Variance,UK Gilt,0.0
-2022-07-12,Shrinkage Minimum Variance,US IG,0.0034210771954740625
-2022-07-12,Shrinkage Minimum Variance,US HY,0.17781115096896724
-2022-07-12,Shrinkage Minimum Variance,Europe IG,0.10056494909595015
-2022-07-12,Shrinkage Minimum Variance,Europe HY,0.025417858972283602
-2022-07-12,Shrinkage Minimum Variance,US REIT,9.207217226539096e-18
-2022-07-12,Shrinkage Minimum Variance,Japan REIT,0.14738142013298894
+2022-07-12,Shrinkage Minimum Variance,US IG,0.003416737509631015
+2022-07-12,Shrinkage Minimum Variance,US HY,0.17781385614557235
+2022-07-12,Shrinkage Minimum Variance,Europe IG,0.10056865306888785
+2022-07-12,Shrinkage Minimum Variance,Europe HY,0.025413541419398198
+2022-07-12,Shrinkage Minimum Variance,US REIT,1.0057187971950873e-18
+2022-07-12,Shrinkage Minimum Variance,Japan REIT,0.1473825003966027
 2022-07-12,Shrinkage Minimum Variance,Europe REIT,0.0
 2022-07-12,Shrinkage Minimum Variance,Crude Oil,0.0
-2022-07-12,Shrinkage Minimum Variance,Gold,0.02841361664000552
-2022-07-12,Shrinkage Minimum Variance,Copper,0.009646602320386105
-2022-07-12,cDCC Minimum Variance,Japan Equity,0.012250628851028577
+2022-07-12,Shrinkage Minimum Variance,Gold,0.028412818652003843
+2022-07-12,Shrinkage Minimum Variance,Copper,0.009646722732299287
+2022-07-12,cDCC Minimum Variance,Japan Equity,0.012213397290557563
 2022-07-12,cDCC Minimum Variance,US Equity,0.0
-2022-07-12,cDCC Minimum Variance,Europe Equity,4.926109089946992e-17
+2022-07-12,cDCC Minimum Variance,Europe Equity,0.0
 2022-07-12,cDCC Minimum Variance,Emerging Equity,0.0
-2022-07-12,cDCC Minimum Variance,Japan Government Bond,0.2
+2022-07-12,cDCC Minimum Variance,Japan Government Bond,0.20000000000000004
 2022-07-12,cDCC Minimum Variance,US Treasury 7-10Y,0.0
-2022-07-12,cDCC Minimum Variance,Germany Government Bond,0.0
-2022-07-12,cDCC Minimum Variance,UK Gilt,0.0
-2022-07-12,cDCC Minimum Variance,US IG,0.19999999999999998
+2022-07-12,cDCC Minimum Variance,Germany Government Bond,4.6764409610493534e-18
+2022-07-12,cDCC Minimum Variance,UK Gilt,1.527843126496472e-17
+2022-07-12,cDCC Minimum Variance,US IG,0.20000000000000004
 2022-07-12,cDCC Minimum Variance,US HY,0.0
-2022-07-12,cDCC Minimum Variance,Europe IG,0.2
-2022-07-12,cDCC Minimum Variance,Europe HY,0.06102843662214878
-2022-07-12,cDCC Minimum Variance,US REIT,0.02795076468451432
+2022-07-12,cDCC Minimum Variance,Europe IG,0.20000000000000004
+2022-07-12,cDCC Minimum Variance,Europe HY,0.061202598404567946
+2022-07-12,cDCC Minimum Variance,US REIT,0.028048127879159827
 2022-07-12,cDCC Minimum Variance,Japan REIT,0.2
-2022-07-12,cDCC Minimum Variance,Europe REIT,1.4143236701972528e-17
+2022-07-12,cDCC Minimum Variance,Europe REIT,0.0
 2022-07-12,cDCC Minimum Variance,Crude Oil,0.0
-2022-07-12,cDCC Minimum Variance,Gold,0.09053740372808472
-2022-07-12,cDCC Minimum Variance,Copper,0.00823276611422359
+2022-07-12,cDCC Minimum Variance,Gold,0.0902566197079972
+2022-07-12,cDCC Minimum Variance,Copper,0.00827925671771742
 2022-10-03,Equal Weight,Japan Equity,0.05555555555555555
 2022-10-03,Equal Weight,US Equity,0.05555555555555555
 2022-10-03,Equal Weight,Europe Equity,0.05555555555555555
@@ -107,78 +107,78 @@ date,strategy,asset,weight
 2022-10-03,Equal Weight,Crude Oil,0.05555555555555555
 2022-10-03,Equal Weight,Gold,0.05555555555555555
 2022-10-03,Equal Weight,Copper,0.05555555555555555
-2022-10-03,Shrinkage Risk Parity,Japan Equity,0.052966047094890834
-2022-10-03,Shrinkage Risk Parity,US Equity,0.030258900002299072
-2022-10-03,Shrinkage Risk Parity,Europe Equity,0.028614952226618886
-2022-10-03,Shrinkage Risk Parity,Emerging Equity,0.030628080624399024
+2022-10-03,Shrinkage Risk Parity,Japan Equity,0.05296613572820181
+2022-10-03,Shrinkage Risk Parity,US Equity,0.030258884171506902
+2022-10-03,Shrinkage Risk Parity,Europe Equity,0.028614945657740646
+2022-10-03,Shrinkage Risk Parity,Emerging Equity,0.030628066703891774
 2022-10-03,Shrinkage Risk Parity,Japan Government Bond,0.2
-2022-10-03,Shrinkage Risk Parity,US Treasury 7-10Y,0.07453896114975578
-2022-10-03,Shrinkage Risk Parity,Germany Government Bond,0.06754661497615819
-2022-10-03,Shrinkage Risk Parity,UK Gilt,0.05125620916471469
-2022-10-03,Shrinkage Risk Parity,US IG,0.05579077006901879
-2022-10-03,Shrinkage Risk Parity,US HY,0.04937474391880507
-2022-10-03,Shrinkage Risk Parity,Europe IG,0.05749525780094892
-2022-10-03,Shrinkage Risk Parity,Europe HY,0.047913913465017444
-2022-10-03,Shrinkage Risk Parity,US REIT,0.028765418861444535
-2022-10-03,Shrinkage Risk Parity,Japan REIT,0.08392248829147116
-2022-10-03,Shrinkage Risk Parity,Europe REIT,0.028839061387796776
-2022-10-03,Shrinkage Risk Parity,Crude Oil,0.026796600673766095
-2022-10-03,Shrinkage Risk Parity,Gold,0.05034265462420191
-2022-10-03,Shrinkage Risk Parity,Copper,0.03494932566869285
-2022-10-03,cDCC Risk Parity,Japan Equity,0.06988017212059985
-2022-10-03,cDCC Risk Parity,US Equity,0.03374437689170751
-2022-10-03,cDCC Risk Parity,Europe Equity,0.03422309555165118
-2022-10-03,cDCC Risk Parity,Emerging Equity,0.04513461148187076
+2022-10-03,Shrinkage Risk Parity,US Treasury 7-10Y,0.0745386895752873
+2022-10-03,Shrinkage Risk Parity,Germany Government Bond,0.06754667855569915
+2022-10-03,Shrinkage Risk Parity,UK Gilt,0.0512562534816852
+2022-10-03,Shrinkage Risk Parity,US IG,0.05579065763023406
+2022-10-03,Shrinkage Risk Parity,US HY,0.049374763665933984
+2022-10-03,Shrinkage Risk Parity,Europe IG,0.05749532906503147
+2022-10-03,Shrinkage Risk Parity,Europe HY,0.047913894469148
+2022-10-03,Shrinkage Risk Parity,US REIT,0.02876541108600462
+2022-10-03,Shrinkage Risk Parity,Japan REIT,0.08392261110669227
+2022-10-03,Shrinkage Risk Parity,Europe REIT,0.02883907463839235
+2022-10-03,Shrinkage Risk Parity,Crude Oil,0.026796619581421828
+2022-10-03,Shrinkage Risk Parity,Gold,0.0503426513613927
+2022-10-03,Shrinkage Risk Parity,Copper,0.034949333521735904
+2022-10-03,cDCC Risk Parity,Japan Equity,0.06987982246312129
+2022-10-03,cDCC Risk Parity,US Equity,0.03374424712696985
+2022-10-03,cDCC Risk Parity,Europe Equity,0.03422320125931788
+2022-10-03,cDCC Risk Parity,Emerging Equity,0.045134886891914694
 2022-10-03,cDCC Risk Parity,Japan Government Bond,0.2
-2022-10-03,cDCC Risk Parity,US Treasury 7-10Y,0.06330091009472874
-2022-10-03,cDCC Risk Parity,Germany Government Bond,0.05445167625727517
-2022-10-03,cDCC Risk Parity,UK Gilt,0.01693942821161489
-2022-10-03,cDCC Risk Parity,US IG,0.050912307809736365
-2022-10-03,cDCC Risk Parity,US HY,0.04610465569955481
-2022-10-03,cDCC Risk Parity,Europe IG,0.037585293769921285
-2022-10-03,cDCC Risk Parity,Europe HY,0.033934463248927536
-2022-10-03,cDCC Risk Parity,US REIT,0.03206192162896047
-2022-10-03,cDCC Risk Parity,Japan REIT,0.11223272972403883
-2022-10-03,cDCC Risk Parity,Europe REIT,0.01933595408523255
-2022-10-03,cDCC Risk Parity,Crude Oil,0.03462578330580605
-2022-10-03,cDCC Risk Parity,Gold,0.06781141852580555
-2022-10-03,cDCC Risk Parity,Copper,0.04772120159256847
-2022-10-03,Shrinkage Minimum Variance,Japan Equity,0.03680780029363305
-2022-10-03,Shrinkage Minimum Variance,US Equity,1.588344790227438e-17
-2022-10-03,Shrinkage Minimum Variance,Europe Equity,9.911938140036638e-18
+2022-10-03,cDCC Risk Parity,US Treasury 7-10Y,0.06330099919965695
+2022-10-03,cDCC Risk Parity,Germany Government Bond,0.05445162369736662
+2022-10-03,cDCC Risk Parity,UK Gilt,0.01693934467498139
+2022-10-03,cDCC Risk Parity,US IG,0.05091163250417537
+2022-10-03,cDCC Risk Parity,US HY,0.04610428327289878
+2022-10-03,cDCC Risk Parity,Europe IG,0.03758586008267766
+2022-10-03,cDCC Risk Parity,Europe HY,0.033934857343063146
+2022-10-03,cDCC Risk Parity,US REIT,0.03206189559173613
+2022-10-03,cDCC Risk Parity,Japan REIT,0.11223322466524166
+2022-10-03,cDCC Risk Parity,Europe REIT,0.019335952381057155
+2022-10-03,cDCC Risk Parity,Crude Oil,0.03462557385653219
+2022-10-03,cDCC Risk Parity,Gold,0.06781147329483488
+2022-10-03,cDCC Risk Parity,Copper,0.047721121694454346
+2022-10-03,Shrinkage Minimum Variance,Japan Equity,0.036808384821382475
+2022-10-03,Shrinkage Minimum Variance,US Equity,1.823567369606216e-17
+2022-10-03,Shrinkage Minimum Variance,Europe Equity,1.3428969393825239e-17
 2022-10-03,Shrinkage Minimum Variance,Emerging Equity,0.0
-2022-10-03,Shrinkage Minimum Variance,Japan Government Bond,0.2
-2022-10-03,Shrinkage Minimum Variance,US Treasury 7-10Y,0.2
-2022-10-03,Shrinkage Minimum Variance,Germany Government Bond,0.09712036150485256
-2022-10-03,Shrinkage Minimum Variance,UK Gilt,7.562692260826836e-18
-2022-10-03,Shrinkage Minimum Variance,US IG,0.0
-2022-10-03,Shrinkage Minimum Variance,US HY,0.14390858957276836
-2022-10-03,Shrinkage Minimum Variance,Europe IG,0.10644047115207095
+2022-10-03,Shrinkage Minimum Variance,Japan Government Bond,0.19999999999999996
+2022-10-03,Shrinkage Minimum Variance,US Treasury 7-10Y,0.19999999999999996
+2022-10-03,Shrinkage Minimum Variance,Germany Government Bond,0.09711943857538809
+2022-10-03,Shrinkage Minimum Variance,UK Gilt,0.0
+2022-10-03,Shrinkage Minimum Variance,US IG,1.3057418914972172e-17
+2022-10-03,Shrinkage Minimum Variance,US HY,0.14391243208445567
+2022-10-03,Shrinkage Minimum Variance,Europe IG,0.10643861279430802
 2022-10-03,Shrinkage Minimum Variance,Europe HY,0.0
-2022-10-03,Shrinkage Minimum Variance,US REIT,2.6920783237376616e-17
-2022-10-03,Shrinkage Minimum Variance,Japan REIT,0.17386001793630426
-2022-10-03,Shrinkage Minimum Variance,Europe REIT,0.0
-2022-10-03,Shrinkage Minimum Variance,Crude Oil,0.0011002180468368602
-2022-10-03,Shrinkage Minimum Variance,Gold,0.023594033274663997
-2022-10-03,Shrinkage Minimum Variance,Copper,0.017168508218869914
-2022-10-03,cDCC Minimum Variance,Japan Equity,0.10793083403034415
-2022-10-03,cDCC Minimum Variance,US Equity,4.553045032594022e-18
+2022-10-03,Shrinkage Minimum Variance,US REIT,0.0
+2022-10-03,Shrinkage Minimum Variance,Japan REIT,0.17386156710581138
+2022-10-03,Shrinkage Minimum Variance,Europe REIT,2.7390613463417868e-17
+2022-10-03,Shrinkage Minimum Variance,Crude Oil,0.001100282511739426
+2022-10-03,Shrinkage Minimum Variance,Gold,0.023590807000090502
+2022-10-03,Shrinkage Minimum Variance,Copper,0.017168475106824316
+2022-10-03,cDCC Minimum Variance,Japan Equity,0.10793216897107318
+2022-10-03,cDCC Minimum Variance,US Equity,1.482995106597807e-18
 2022-10-03,cDCC Minimum Variance,Europe Equity,0.0
-2022-10-03,cDCC Minimum Variance,Emerging Equity,0.05437605948613142
+2022-10-03,cDCC Minimum Variance,Emerging Equity,0.05437803877622897
 2022-10-03,cDCC Minimum Variance,Japan Government Bond,0.2
-2022-10-03,cDCC Minimum Variance,US Treasury 7-10Y,0.15593840997978375
-2022-10-03,cDCC Minimum Variance,Germany Government Bond,0.07348287909951741
-2022-10-03,cDCC Minimum Variance,UK Gilt,0.0
-2022-10-03,cDCC Minimum Variance,US IG,2.4908940821009367e-17
-2022-10-03,cDCC Minimum Variance,US HY,0.013989355896415557
-2022-10-03,cDCC Minimum Variance,Europe IG,0.0
-2022-10-03,cDCC Minimum Variance,Europe HY,3.821208566166307e-18
-2022-10-03,cDCC Minimum Variance,US REIT,3.604368131669206e-18
+2022-10-03,cDCC Minimum Variance,US Treasury 7-10Y,0.15594318251117212
+2022-10-03,cDCC Minimum Variance,Germany Government Bond,0.07348647433797306
+2022-10-03,cDCC Minimum Variance,UK Gilt,1.62906426731596e-19
+2022-10-03,cDCC Minimum Variance,US IG,0.0
+2022-10-03,cDCC Minimum Variance,US HY,0.01398317368187126
+2022-10-03,cDCC Minimum Variance,Europe IG,3.850954315213063e-18
+2022-10-03,cDCC Minimum Variance,Europe HY,0.0
+2022-10-03,cDCC Minimum Variance,US REIT,0.0
 2022-10-03,cDCC Minimum Variance,Japan REIT,0.2
-2022-10-03,cDCC Minimum Variance,Europe REIT,5.3592475193241015e-20
-2022-10-03,cDCC Minimum Variance,Crude Oil,6.0709280740737285e-18
-2022-10-03,cDCC Minimum Variance,Gold,0.17141688920030065
-2022-10-03,cDCC Minimum Variance,Copper,0.022865572307507142
+2022-10-03,cDCC Minimum Variance,Europe REIT,0.0
+2022-10-03,cDCC Minimum Variance,Crude Oil,3.72722106877769e-18
+2022-10-03,cDCC Minimum Variance,Gold,0.17140989450034597
+2022-10-03,cDCC Minimum Variance,Copper,0.022867067221335483
 2023-01-04,Equal Weight,Japan Equity,0.05555555555555555
 2023-01-04,Equal Weight,US Equity,0.05555555555555555
 2023-01-04,Equal Weight,Europe Equity,0.05555555555555555
@@ -197,78 +197,78 @@ date,strategy,asset,weight
 2023-01-04,Equal Weight,Crude Oil,0.05555555555555555
 2023-01-04,Equal Weight,Gold,0.05555555555555555
 2023-01-04,Equal Weight,Copper,0.05555555555555555
-2023-01-04,Shrinkage Risk Parity,Japan Equity,0.05960428076310897
-2023-01-04,Shrinkage Risk Parity,US Equity,0.029911674459431718
-2023-01-04,Shrinkage Risk Parity,Europe Equity,0.02791377009924255
-2023-01-04,Shrinkage Risk Parity,Emerging Equity,0.03031472240024254
+2023-01-04,Shrinkage Risk Parity,Japan Equity,0.059604375890604404
+2023-01-04,Shrinkage Risk Parity,US Equity,0.029911661938711195
+2023-01-04,Shrinkage Risk Parity,Europe Equity,0.027913754308212694
+2023-01-04,Shrinkage Risk Parity,Emerging Equity,0.03031471170095635
 2023-01-04,Shrinkage Risk Parity,Japan Government Bond,0.2
-2023-01-04,Shrinkage Risk Parity,US Treasury 7-10Y,0.06675456574969384
-2023-01-04,Shrinkage Risk Parity,Germany Government Bond,0.07024823337853409
-2023-01-04,Shrinkage Risk Parity,UK Gilt,0.053667506114103314
-2023-01-04,Shrinkage Risk Parity,US IG,0.05195555978338845
-2023-01-04,Shrinkage Risk Parity,US HY,0.04668352964667077
-2023-01-04,Shrinkage Risk Parity,Europe IG,0.057766084802760236
-2023-01-04,Shrinkage Risk Parity,Europe HY,0.04886757126779333
-2023-01-04,Shrinkage Risk Parity,US REIT,0.02773833720996168
-2023-01-04,Shrinkage Risk Parity,Japan REIT,0.08785506785292117
-2023-01-04,Shrinkage Risk Parity,Europe REIT,0.030543542897816637
-2023-01-04,Shrinkage Risk Parity,Crude Oil,0.028757252489674964
-2023-01-04,Shrinkage Risk Parity,Gold,0.04749000198737039
-2023-01-04,Shrinkage Risk Parity,Copper,0.033928299097285404
-2023-01-04,cDCC Risk Parity,Japan Equity,0.08572865206916157
-2023-01-04,cDCC Risk Parity,US Equity,0.028538389610408502
-2023-01-04,cDCC Risk Parity,Europe Equity,0.029054627405924602
-2023-01-04,cDCC Risk Parity,Emerging Equity,0.02976261416963302
-2023-01-04,cDCC Risk Parity,Japan Government Bond,0.19999999999999996
-2023-01-04,cDCC Risk Parity,US Treasury 7-10Y,0.03984876772619972
-2023-01-04,cDCC Risk Parity,Germany Government Bond,0.05945807742511416
-2023-01-04,cDCC Risk Parity,UK Gilt,0.05460669652972696
-2023-01-04,cDCC Risk Parity,US IG,0.034073311337741656
-2023-01-04,cDCC Risk Parity,US HY,0.031493002225553256
-2023-01-04,cDCC Risk Parity,Europe IG,0.04660671401917519
-2023-01-04,cDCC Risk Parity,Europe HY,0.04749286159889393
-2023-01-04,cDCC Risk Parity,US REIT,0.02650329774783781
-2023-01-04,cDCC Risk Parity,Japan REIT,0.11441288688454272
-2023-01-04,cDCC Risk Parity,Europe REIT,0.03682444479838694
-2023-01-04,cDCC Risk Parity,Crude Oil,0.04502518978077821
-2023-01-04,cDCC Risk Parity,Gold,0.0537027894508198
-2023-01-04,cDCC Risk Parity,Copper,0.03686767722010183
-2023-01-04,Shrinkage Minimum Variance,Japan Equity,0.06127001052443899
-2023-01-04,Shrinkage Minimum Variance,US Equity,9.079962292149026e-18
+2023-01-04,Shrinkage Risk Parity,US Treasury 7-10Y,0.06675439905682896
+2023-01-04,Shrinkage Risk Parity,Germany Government Bond,0.0702483115322723
+2023-01-04,Shrinkage Risk Parity,UK Gilt,0.05366750044534499
+2023-01-04,Shrinkage Risk Parity,US IG,0.0519554983566472
+2023-01-04,Shrinkage Risk Parity,US HY,0.04668357091053746
+2023-01-04,Shrinkage Risk Parity,Europe IG,0.057766150690305114
+2023-01-04,Shrinkage Risk Parity,Europe HY,0.048867524840780295
+2023-01-04,Shrinkage Risk Parity,US REIT,0.027738319774952933
+2023-01-04,Shrinkage Risk Parity,Japan REIT,0.08785510424409544
+2023-01-04,Shrinkage Risk Parity,Europe REIT,0.03054356254223557
+2023-01-04,Shrinkage Risk Parity,Crude Oil,0.028757262914568732
+2023-01-04,Shrinkage Risk Parity,Gold,0.047489989571053985
+2023-01-04,Shrinkage Risk Parity,Copper,0.03392830128189237
+2023-01-04,cDCC Risk Parity,Japan Equity,0.08572689295999286
+2023-01-04,cDCC Risk Parity,US Equity,0.02853815249013846
+2023-01-04,cDCC Risk Parity,Europe Equity,0.02905452968745851
+2023-01-04,cDCC Risk Parity,Emerging Equity,0.02976252533009252
+2023-01-04,cDCC Risk Parity,Japan Government Bond,0.2
+2023-01-04,cDCC Risk Parity,US Treasury 7-10Y,0.03985405319731548
+2023-01-04,cDCC Risk Parity,Germany Government Bond,0.059457727652769896
+2023-01-04,cDCC Risk Parity,UK Gilt,0.05460647425935701
+2023-01-04,cDCC Risk Parity,US IG,0.03407325769005143
+2023-01-04,cDCC Risk Parity,US HY,0.031492865357659924
+2023-01-04,cDCC Risk Parity,Europe IG,0.04660644996205491
+2023-01-04,cDCC Risk Parity,Europe HY,0.04749220845844705
+2023-01-04,cDCC Risk Parity,US REIT,0.02650317932305807
+2023-01-04,cDCC Risk Parity,Japan REIT,0.11441278968493655
+2023-01-04,cDCC Risk Parity,Europe REIT,0.036824013106665776
+2023-01-04,cDCC Risk Parity,Crude Oil,0.045024736768918154
+2023-01-04,cDCC Risk Parity,Gold,0.05370262545583722
+2023-01-04,cDCC Risk Parity,Copper,0.03686751861524619
+2023-01-04,Shrinkage Minimum Variance,Japan Equity,0.06387766301908473
+2023-01-04,Shrinkage Minimum Variance,US Equity,0.0
 2023-01-04,Shrinkage Minimum Variance,Europe Equity,0.0
-2023-01-04,Shrinkage Minimum Variance,Emerging Equity,0.0
-2023-01-04,Shrinkage Minimum Variance,Japan Government Bond,0.19999999999999998
+2023-01-04,Shrinkage Minimum Variance,Emerging Equity,9.06332242454132e-18
+2023-01-04,Shrinkage Minimum Variance,Japan Government Bond,0.2
 2023-01-04,Shrinkage Minimum Variance,US Treasury 7-10Y,0.2
-2023-01-04,Shrinkage Minimum Variance,Germany Government Bond,0.12686015041999252
-2023-01-04,Shrinkage Minimum Variance,UK Gilt,3.718045481021058e-19
-2023-01-04,Shrinkage Minimum Variance,US IG,2.337119622654201e-17
-2023-01-04,Shrinkage Minimum Variance,US HY,0.10702194651520815
-2023-01-04,Shrinkage Minimum Variance,Europe IG,0.09377248549366057
-2023-01-04,Shrinkage Minimum Variance,Europe HY,6.234025637693007e-18
-2023-01-04,Shrinkage Minimum Variance,US REIT,5.41908589411594e-18
-2023-01-04,Shrinkage Minimum Variance,Japan REIT,0.1750060366312178
+2023-01-04,Shrinkage Minimum Variance,Germany Government Bond,0.13133557925072795
+2023-01-04,Shrinkage Minimum Variance,UK Gilt,1.7399376212785503e-17
+2023-01-04,Shrinkage Minimum Variance,US IG,2.4187683320239576e-19
+2023-01-04,Shrinkage Minimum Variance,US HY,0.10029100580982309
+2023-01-04,Shrinkage Minimum Variance,Europe IG,0.09161278220913546
+2023-01-04,Shrinkage Minimum Variance,Europe HY,4.3618450886473126e-18
+2023-01-04,Shrinkage Minimum Variance,US REIT,5.836848420305612e-19
+2023-01-04,Shrinkage Minimum Variance,Japan REIT,0.1728195480786963
 2023-01-04,Shrinkage Minimum Variance,Europe REIT,0.0
-2023-01-04,Shrinkage Minimum Variance,Crude Oil,0.0074594419546649545
-2023-01-04,Shrinkage Minimum Variance,Gold,0.017011545432072114
-2023-01-04,Shrinkage Minimum Variance,Copper,0.011598383028745038
-2023-01-04,cDCC Minimum Variance,Japan Equity,0.15974302477537325
-2023-01-04,cDCC Minimum Variance,US Equity,3.559654555352045e-18
-2023-01-04,cDCC Minimum Variance,Europe Equity,1.0525200646452729e-17
-2023-01-04,cDCC Minimum Variance,Emerging Equity,6.0493957627202624e-18
-2023-01-04,cDCC Minimum Variance,Japan Government Bond,0.19999999999999996
+2023-01-04,Shrinkage Minimum Variance,Crude Oil,0.007792581240802382
+2023-01-04,Shrinkage Minimum Variance,Gold,0.019948245723804766
+2023-01-04,Shrinkage Minimum Variance,Copper,0.012322594667925253
+2023-01-04,cDCC Minimum Variance,Japan Equity,0.15974421764569985
+2023-01-04,cDCC Minimum Variance,US Equity,0.0
+2023-01-04,cDCC Minimum Variance,Europe Equity,2.753894205608279e-18
+2023-01-04,cDCC Minimum Variance,Emerging Equity,1.2244949980123769e-17
+2023-01-04,cDCC Minimum Variance,Japan Government Bond,0.2
 2023-01-04,cDCC Minimum Variance,US Treasury 7-10Y,0.0
-2023-01-04,cDCC Minimum Variance,Germany Government Bond,0.15575504183766775
-2023-01-04,cDCC Minimum Variance,UK Gilt,0.00019994315382400153
+2023-01-04,cDCC Minimum Variance,Germany Government Bond,0.15575607480760992
+2023-01-04,cDCC Minimum Variance,UK Gilt,0.00020166193405292139
 2023-01-04,cDCC Minimum Variance,US IG,0.0
-2023-01-04,cDCC Minimum Variance,US HY,1.0878841218941638e-17
-2023-01-04,cDCC Minimum Variance,Europe IG,7.922731768326405e-19
-2023-01-04,cDCC Minimum Variance,Europe HY,0.0502521719583914
-2023-01-04,cDCC Minimum Variance,US REIT,2.3941973930719905e-18
-2023-01-04,cDCC Minimum Variance,Japan REIT,0.19999999999999993
-2023-01-04,cDCC Minimum Variance,Europe REIT,0.0
-2023-01-04,cDCC Minimum Variance,Crude Oil,0.041712312755472276
-2023-01-04,cDCC Minimum Variance,Gold,0.19233750551927128
-2023-01-04,cDCC Minimum Variance,Copper,0.0
+2023-01-04,cDCC Minimum Variance,US HY,0.0
+2023-01-04,cDCC Minimum Variance,Europe IG,0.0
+2023-01-04,cDCC Minimum Variance,Europe HY,0.05025111521272891
+2023-01-04,cDCC Minimum Variance,US REIT,1.847561992097788e-19
+2023-01-04,cDCC Minimum Variance,Japan REIT,0.2
+2023-01-04,cDCC Minimum Variance,Europe REIT,4.918789381760406e-18
+2023-01-04,cDCC Minimum Variance,Crude Oil,0.041712671902485746
+2023-01-04,cDCC Minimum Variance,Gold,0.1923342584974226
+2023-01-04,cDCC Minimum Variance,Copper,1.7258567401462162e-17
 2023-04-03,Equal Weight,Japan Equity,0.05555555555555555
 2023-04-03,Equal Weight,US Equity,0.05555555555555555
 2023-04-03,Equal Weight,Europe Equity,0.05555555555555555
@@ -287,78 +287,78 @@ date,strategy,asset,weight
 2023-04-03,Equal Weight,Crude Oil,0.05555555555555555
 2023-04-03,Equal Weight,Gold,0.05555555555555555
 2023-04-03,Equal Weight,Copper,0.05555555555555555
-2023-04-03,Shrinkage Risk Parity,Japan Equity,0.060719307278874826
-2023-04-03,Shrinkage Risk Parity,US Equity,0.030582808673022224
-2023-04-03,Shrinkage Risk Parity,Europe Equity,0.028790166413682258
-2023-04-03,Shrinkage Risk Parity,Emerging Equity,0.03089308129181178
-2023-04-03,Shrinkage Risk Parity,Japan Government Bond,0.2
-2023-04-03,Shrinkage Risk Parity,US Treasury 7-10Y,0.06278160971170614
-2023-04-03,Shrinkage Risk Parity,Germany Government Bond,0.06839281219552087
-2023-04-03,Shrinkage Risk Parity,UK Gilt,0.05428321923989777
-2023-04-03,Shrinkage Risk Parity,US IG,0.050545284744316785
-2023-04-03,Shrinkage Risk Parity,US HY,0.04596816071594307
-2023-04-03,Shrinkage Risk Parity,Europe IG,0.057541568830484224
-2023-04-03,Shrinkage Risk Parity,Europe HY,0.0497295776862164
-2023-04-03,Shrinkage Risk Parity,US REIT,0.02792107429287694
-2023-04-03,Shrinkage Risk Parity,Japan REIT,0.09088386500738706
-2023-04-03,Shrinkage Risk Parity,Europe REIT,0.030759682521837552
-2023-04-03,Shrinkage Risk Parity,Crude Oil,0.029367209510488775
-2023-04-03,Shrinkage Risk Parity,Gold,0.046763775073712856
-2023-04-03,Shrinkage Risk Parity,Copper,0.034076796812220395
-2023-04-03,cDCC Risk Parity,Japan Equity,0.06161250644664445
-2023-04-03,cDCC Risk Parity,US Equity,0.037680541990257096
-2023-04-03,cDCC Risk Parity,Europe Equity,0.03353625251561568
-2023-04-03,cDCC Risk Parity,Emerging Equity,0.03617746323779911
-2023-04-03,cDCC Risk Parity,Japan Government Bond,0.19999999999999998
-2023-04-03,cDCC Risk Parity,US Treasury 7-10Y,0.04252554057258824
-2023-04-03,cDCC Risk Parity,Germany Government Bond,0.055415039895244454
-2023-04-03,cDCC Risk Parity,UK Gilt,0.06292258609042664
-2023-04-03,cDCC Risk Parity,US IG,0.04153622245512349
-2023-04-03,cDCC Risk Parity,US HY,0.03872042161746154
-2023-04-03,cDCC Risk Parity,Europe IG,0.049794459013786485
-2023-04-03,cDCC Risk Parity,Europe HY,0.05213118053095859
-2023-04-03,cDCC Risk Parity,US REIT,0.02655546367578676
-2023-04-03,cDCC Risk Parity,Japan REIT,0.11975976284380763
-2023-04-03,cDCC Risk Parity,Europe REIT,0.024251460389372658
-2023-04-03,cDCC Risk Parity,Crude Oil,0.029284745022738905
-2023-04-03,cDCC Risk Parity,Gold,0.048069766679937696
-2023-04-03,cDCC Risk Parity,Copper,0.040026587022450516
-2023-04-03,Shrinkage Minimum Variance,Japan Equity,0.0626278079453221
+2023-04-03,Shrinkage Risk Parity,Japan Equity,0.06071942350791422
+2023-04-03,Shrinkage Risk Parity,US Equity,0.030582792648238336
+2023-04-03,Shrinkage Risk Parity,Europe Equity,0.02879015404029861
+2023-04-03,Shrinkage Risk Parity,Emerging Equity,0.030893077395973564
+2023-04-03,Shrinkage Risk Parity,Japan Government Bond,0.19999999999999998
+2023-04-03,Shrinkage Risk Parity,US Treasury 7-10Y,0.06278147174340414
+2023-04-03,Shrinkage Risk Parity,Germany Government Bond,0.06839290921380953
+2023-04-03,Shrinkage Risk Parity,UK Gilt,0.054283219594698076
+2023-04-03,Shrinkage Risk Parity,US IG,0.050545195091835436
+2023-04-03,Shrinkage Risk Parity,US HY,0.04596820751924034
+2023-04-03,Shrinkage Risk Parity,Europe IG,0.05754159835766435
+2023-04-03,Shrinkage Risk Parity,Europe HY,0.04972953271805682
+2023-04-03,Shrinkage Risk Parity,US REIT,0.02792105769992235
+2023-04-03,Shrinkage Risk Parity,Japan REIT,0.09088387508751092
+2023-04-03,Shrinkage Risk Parity,Europe REIT,0.030759694968882225
+2023-04-03,Shrinkage Risk Parity,Crude Oil,0.02936722674922405
+2023-04-03,Shrinkage Risk Parity,Gold,0.04676376407059576
+2023-04-03,Shrinkage Risk Parity,Copper,0.03407679959273132
+2023-04-03,cDCC Risk Parity,Japan Equity,0.061612481859314325
+2023-04-03,cDCC Risk Parity,US Equity,0.03768210211851633
+2023-04-03,cDCC Risk Parity,Europe Equity,0.033535946170737525
+2023-04-03,cDCC Risk Parity,Emerging Equity,0.03617755112725831
+2023-04-03,cDCC Risk Parity,Japan Government Bond,0.19999999999999993
+2023-04-03,cDCC Risk Parity,US Treasury 7-10Y,0.04252582150013728
+2023-04-03,cDCC Risk Parity,Germany Government Bond,0.05541354720658226
+2023-04-03,cDCC Risk Parity,UK Gilt,0.06292273340504502
+2023-04-03,cDCC Risk Parity,US IG,0.041535921747313145
+2023-04-03,cDCC Risk Parity,US HY,0.03872032524763579
+2023-04-03,cDCC Risk Parity,Europe IG,0.04979441134865982
+2023-04-03,cDCC Risk Parity,Europe HY,0.052131283795928726
+2023-04-03,cDCC Risk Parity,US REIT,0.02655601337203477
+2023-04-03,cDCC Risk Parity,Japan REIT,0.11975911318832796
+2023-04-03,cDCC Risk Parity,Europe REIT,0.024251551453015927
+2023-04-03,cDCC Risk Parity,Crude Oil,0.02928475316439505
+2023-04-03,cDCC Risk Parity,Gold,0.04806980939969896
+2023-04-03,cDCC Risk Parity,Copper,0.04002663389539884
+2023-04-03,Shrinkage Minimum Variance,Japan Equity,0.06263477396741067
 2023-04-03,Shrinkage Minimum Variance,US Equity,0.0
-2023-04-03,Shrinkage Minimum Variance,Europe Equity,4.52939757368695e-18
-2023-04-03,Shrinkage Minimum Variance,Emerging Equity,8.396059395718653e-18
-2023-04-03,Shrinkage Minimum Variance,Japan Government Bond,0.20000000000000004
-2023-04-03,Shrinkage Minimum Variance,US Treasury 7-10Y,0.1892431235618053
-2023-04-03,Shrinkage Minimum Variance,Germany Government Bond,0.1264639218940726
-2023-04-03,Shrinkage Minimum Variance,UK Gilt,7.447382494793833e-18
-2023-04-03,Shrinkage Minimum Variance,US IG,0.0
-2023-04-03,Shrinkage Minimum Variance,US HY,0.10341608481580628
-2023-04-03,Shrinkage Minimum Variance,Europe IG,0.08573468928347852
-2023-04-03,Shrinkage Minimum Variance,Europe HY,0.01035071325561402
-2023-04-03,Shrinkage Minimum Variance,US REIT,7.782004091143464e-18
-2023-04-03,Shrinkage Minimum Variance,Japan REIT,0.18726601257740608
-2023-04-03,Shrinkage Minimum Variance,Europe REIT,0.0
-2023-04-03,Shrinkage Minimum Variance,Crude Oil,0.009938570492778366
-2023-04-03,Shrinkage Minimum Variance,Gold,0.013624104058764538
-2023-04-03,Shrinkage Minimum Variance,Copper,0.011334972114952086
-2023-04-03,cDCC Minimum Variance,Japan Equity,0.09966358681078466
-2023-04-03,cDCC Minimum Variance,US Equity,0.0684799301161904
-2023-04-03,cDCC Minimum Variance,Europe Equity,9.809264245483066e-18
-2023-04-03,cDCC Minimum Variance,Emerging Equity,0.0
-2023-04-03,cDCC Minimum Variance,Japan Government Bond,0.2
-2023-04-03,cDCC Minimum Variance,US Treasury 7-10Y,3.5686629657967635e-18
-2023-04-03,cDCC Minimum Variance,Germany Government Bond,0.008073356208667273
-2023-04-03,cDCC Minimum Variance,UK Gilt,0.17107594635031678
-2023-04-03,cDCC Minimum Variance,US IG,0.008924054976658604
+2023-04-03,Shrinkage Minimum Variance,Europe Equity,3.4036135031841724e-18
+2023-04-03,Shrinkage Minimum Variance,Emerging Equity,1.5567086040514265e-17
+2023-04-03,Shrinkage Minimum Variance,Japan Government Bond,0.19999999999999998
+2023-04-03,Shrinkage Minimum Variance,US Treasury 7-10Y,0.18925671140163883
+2023-04-03,Shrinkage Minimum Variance,Germany Government Bond,0.12645694595160542
+2023-04-03,Shrinkage Minimum Variance,UK Gilt,1.0621139471760858e-18
+2023-04-03,Shrinkage Minimum Variance,US IG,5.573791328808026e-18
+2023-04-03,Shrinkage Minimum Variance,US HY,0.10342523715370722
+2023-04-03,Shrinkage Minimum Variance,Europe IG,0.08573751911935304
+2023-04-03,Shrinkage Minimum Variance,Europe HY,0.010337566362110733
+2023-04-03,Shrinkage Minimum Variance,US REIT,0.0
+2023-04-03,Shrinkage Minimum Variance,Japan REIT,0.18725821138382337
+2023-04-03,Shrinkage Minimum Variance,Europe REIT,1.6770746269580015e-17
+2023-04-03,Shrinkage Minimum Variance,Crude Oil,0.009937995937289133
+2023-04-03,Shrinkage Minimum Variance,Gold,0.013621114092692217
+2023-04-03,Shrinkage Minimum Variance,Copper,0.011333924630369373
+2023-04-03,cDCC Minimum Variance,Japan Equity,0.09976988140861442
+2023-04-03,cDCC Minimum Variance,US Equity,0.0684421118046591
+2023-04-03,cDCC Minimum Variance,Europe Equity,2.6488072503841724e-17
+2023-04-03,cDCC Minimum Variance,Emerging Equity,1.710294744826408e-17
+2023-04-03,cDCC Minimum Variance,Japan Government Bond,0.19999999999999993
+2023-04-03,cDCC Minimum Variance,US Treasury 7-10Y,1.767980227394348e-17
+2023-04-03,cDCC Minimum Variance,Germany Government Bond,0.007973542611176186
+2023-04-03,cDCC Minimum Variance,UK Gilt,0.1710778924726328
+2023-04-03,cDCC Minimum Variance,US IG,0.009000145891404297
 2023-04-03,cDCC Minimum Variance,US HY,0.0
-2023-04-03,cDCC Minimum Variance,Europe IG,0.0
-2023-04-03,cDCC Minimum Variance,Europe HY,0.12169909667293041
+2023-04-03,cDCC Minimum Variance,Europe IG,1.841076631882472e-17
+2023-04-03,cDCC Minimum Variance,Europe HY,0.12173380325108546
 2023-04-03,cDCC Minimum Variance,US REIT,0.0
-2023-04-03,cDCC Minimum Variance,Japan REIT,0.2
+2023-04-03,cDCC Minimum Variance,Japan REIT,0.19999999999999996
 2023-04-03,cDCC Minimum Variance,Europe REIT,0.0
 2023-04-03,cDCC Minimum Variance,Crude Oil,0.0
-2023-04-03,cDCC Minimum Variance,Gold,0.08884155114654353
-2023-04-03,cDCC Minimum Variance,Copper,0.033242477717908246
+2023-04-03,cDCC Minimum Variance,Gold,0.08876060010336277
+2023-04-03,cDCC Minimum Variance,Copper,0.033242022457064806
 2023-07-03,Equal Weight,Japan Equity,0.05555555555555555
 2023-07-03,Equal Weight,US Equity,0.05555555555555555
 2023-07-03,Equal Weight,Europe Equity,0.05555555555555555
@@ -377,78 +377,78 @@ date,strategy,asset,weight
 2023-07-03,Equal Weight,Crude Oil,0.05555555555555555
 2023-07-03,Equal Weight,Gold,0.05555555555555555
 2023-07-03,Equal Weight,Copper,0.05555555555555555
-2023-07-03,Shrinkage Risk Parity,Japan Equity,0.06116024000325195
-2023-07-03,Shrinkage Risk Parity,US Equity,0.03104455031533575
-2023-07-03,Shrinkage Risk Parity,Europe Equity,0.029228444079016112
-2023-07-03,Shrinkage Risk Parity,Emerging Equity,0.031197421562577834
-2023-07-03,Shrinkage Risk Parity,Japan Government Bond,0.20000000000000004
-2023-07-03,Shrinkage Risk Parity,US Treasury 7-10Y,0.061866345349300314
-2023-07-03,Shrinkage Risk Parity,Germany Government Bond,0.06804660087284457
-2023-07-03,Shrinkage Risk Parity,UK Gilt,0.05420090922718207
-2023-07-03,Shrinkage Risk Parity,US IG,0.05023016689294241
-2023-07-03,Shrinkage Risk Parity,US HY,0.04597535745324812
-2023-07-03,Shrinkage Risk Parity,Europe IG,0.0575125604256327
-2023-07-03,Shrinkage Risk Parity,Europe HY,0.049715820234972466
-2023-07-03,Shrinkage Risk Parity,US REIT,0.028376215098267706
-2023-07-03,Shrinkage Risk Parity,Japan REIT,0.09066083333192466
-2023-07-03,Shrinkage Risk Parity,Europe REIT,0.031008742847461634
-2023-07-03,Shrinkage Risk Parity,Crude Oil,0.02938904462643957
-2023-07-03,Shrinkage Risk Parity,Gold,0.04616742661922543
-2023-07-03,Shrinkage Risk Parity,Copper,0.03421932106037676
-2023-07-03,cDCC Risk Parity,Japan Equity,0.057054572525995
-2023-07-03,cDCC Risk Parity,US Equity,0.04159994218914437
-2023-07-03,cDCC Risk Parity,Europe Equity,0.03714228036456018
-2023-07-03,cDCC Risk Parity,Emerging Equity,0.03549333234208323
+2023-07-03,Shrinkage Risk Parity,Japan Equity,0.06116037871172039
+2023-07-03,Shrinkage Risk Parity,US Equity,0.0310445328250488
+2023-07-03,Shrinkage Risk Parity,Europe Equity,0.029228436603003394
+2023-07-03,Shrinkage Risk Parity,Emerging Equity,0.031197422669052902
+2023-07-03,Shrinkage Risk Parity,Japan Government Bond,0.2
+2023-07-03,Shrinkage Risk Parity,US Treasury 7-10Y,0.061866223841098154
+2023-07-03,Shrinkage Risk Parity,Germany Government Bond,0.06804669552358988
+2023-07-03,Shrinkage Risk Parity,UK Gilt,0.05420092296772034
+2023-07-03,Shrinkage Risk Parity,US IG,0.0502300849390434
+2023-07-03,Shrinkage Risk Parity,US HY,0.04597537838998308
+2023-07-03,Shrinkage Risk Parity,Europe IG,0.057512578432236276
+2023-07-03,Shrinkage Risk Parity,Europe HY,0.04971579367220813
+2023-07-03,Shrinkage Risk Parity,US REIT,0.028376190367271237
+2023-07-03,Shrinkage Risk Parity,Japan REIT,0.09066080599035971
+2023-07-03,Shrinkage Risk Parity,Europe REIT,0.031008758637823586
+2023-07-03,Shrinkage Risk Parity,Crude Oil,0.029389059466104723
+2023-07-03,Shrinkage Risk Parity,Gold,0.04616741731108714
+2023-07-03,Shrinkage Risk Parity,Copper,0.03421931965264889
+2023-07-03,cDCC Risk Parity,Japan Equity,0.057054836683710725
+2023-07-03,cDCC Risk Parity,US Equity,0.04159873732430728
+2023-07-03,cDCC Risk Parity,Europe Equity,0.037142692231055416
+2023-07-03,cDCC Risk Parity,Emerging Equity,0.035493567713543984
 2023-07-03,cDCC Risk Parity,Japan Government Bond,0.2
-2023-07-03,cDCC Risk Parity,US Treasury 7-10Y,0.04854433252014991
-2023-07-03,cDCC Risk Parity,Germany Government Bond,0.058698566415386635
-2023-07-03,cDCC Risk Parity,UK Gilt,0.05471320329446148
-2023-07-03,cDCC Risk Parity,US IG,0.046182286821816895
-2023-07-03,cDCC Risk Parity,US HY,0.05124338114794306
-2023-07-03,cDCC Risk Parity,Europe IG,0.05307001422221799
-2023-07-03,cDCC Risk Parity,Europe HY,0.052956931341305684
-2023-07-03,cDCC Risk Parity,US REIT,0.033366120928775306
-2023-07-03,cDCC Risk Parity,Japan REIT,0.09435830074791589
-2023-07-03,cDCC Risk Parity,Europe REIT,0.0292198249664651
-2023-07-03,cDCC Risk Parity,Crude Oil,0.029743660318979907
-2023-07-03,cDCC Risk Parity,Gold,0.04419975771419097
-2023-07-03,cDCC Risk Parity,Copper,0.0324134921386084
-2023-07-03,Shrinkage Minimum Variance,Japan Equity,0.06718450396126484
-2023-07-03,Shrinkage Minimum Variance,US Equity,0.0
+2023-07-03,cDCC Risk Parity,US Treasury 7-10Y,0.0485442930004501
+2023-07-03,cDCC Risk Parity,Germany Government Bond,0.05869866458570408
+2023-07-03,cDCC Risk Parity,UK Gilt,0.054713554306428436
+2023-07-03,cDCC Risk Parity,US IG,0.046182222545332455
+2023-07-03,cDCC Risk Parity,US HY,0.051242827903726515
+2023-07-03,cDCC Risk Parity,Europe IG,0.05307029756694219
+2023-07-03,cDCC Risk Parity,Europe HY,0.05295745716831205
+2023-07-03,cDCC Risk Parity,US REIT,0.03336606082968815
+2023-07-03,cDCC Risk Parity,Japan REIT,0.09435786458484574
+2023-07-03,cDCC Risk Parity,Europe REIT,0.029219844979414468
+2023-07-03,cDCC Risk Parity,Crude Oil,0.029743679251198456
+2023-07-03,cDCC Risk Parity,Gold,0.044199861863985196
+2023-07-03,cDCC Risk Parity,Copper,0.03241353746135478
+2023-07-03,Shrinkage Minimum Variance,Japan Equity,0.06718266427406441
+2023-07-03,Shrinkage Minimum Variance,US Equity,9.553716603035504e-18
 2023-07-03,Shrinkage Minimum Variance,Europe Equity,0.0
-2023-07-03,Shrinkage Minimum Variance,Emerging Equity,5.447255927476258e-18
-2023-07-03,Shrinkage Minimum Variance,Japan Government Bond,0.2
-2023-07-03,Shrinkage Minimum Variance,US Treasury 7-10Y,0.17975014978063797
-2023-07-03,Shrinkage Minimum Variance,Germany Government Bond,0.1248178312265215
+2023-07-03,Shrinkage Minimum Variance,Emerging Equity,0.0
+2023-07-03,Shrinkage Minimum Variance,Japan Government Bond,0.19999999999999998
+2023-07-03,Shrinkage Minimum Variance,US Treasury 7-10Y,0.1797227907095489
+2023-07-03,Shrinkage Minimum Variance,Germany Government Bond,0.12482832175635186
 2023-07-03,Shrinkage Minimum Variance,UK Gilt,0.0
-2023-07-03,Shrinkage Minimum Variance,US IG,0.0
-2023-07-03,Shrinkage Minimum Variance,US HY,0.11170297333409974
-2023-07-03,Shrinkage Minimum Variance,Europe IG,0.0848250911398349
-2023-07-03,Shrinkage Minimum Variance,Europe HY,0.010318374533055232
-2023-07-03,Shrinkage Minimum Variance,US REIT,2.5078091513041922e-17
-2023-07-03,Shrinkage Minimum Variance,Japan REIT,0.18899049568613205
-2023-07-03,Shrinkage Minimum Variance,Europe REIT,0.0
-2023-07-03,Shrinkage Minimum Variance,Crude Oil,0.009071921001361524
-2023-07-03,Shrinkage Minimum Variance,Gold,0.008830692066428851
-2023-07-03,Shrinkage Minimum Variance,Copper,0.014507967270663478
-2023-07-03,cDCC Minimum Variance,Japan Equity,0.05237744953797642
-2023-07-03,cDCC Minimum Variance,US Equity,0.03345111681181427
-2023-07-03,cDCC Minimum Variance,Europe Equity,3.1326157754034675e-17
+2023-07-03,Shrinkage Minimum Variance,US IG,4.77419500278068e-18
+2023-07-03,Shrinkage Minimum Variance,US HY,0.11168672584741322
+2023-07-03,Shrinkage Minimum Variance,Europe IG,0.08483346660963842
+2023-07-03,Shrinkage Minimum Variance,Europe HY,0.01034131097089084
+2023-07-03,Shrinkage Minimum Variance,US REIT,0.0
+2023-07-03,Shrinkage Minimum Variance,Japan REIT,0.18898003832851526
+2023-07-03,Shrinkage Minimum Variance,Europe REIT,6.2718874488987165e-18
+2023-07-03,Shrinkage Minimum Variance,Crude Oil,0.009075600846135321
+2023-07-03,Shrinkage Minimum Variance,Gold,0.008841725554923303
+2023-07-03,Shrinkage Minimum Variance,Copper,0.014507355102518438
+2023-07-03,cDCC Minimum Variance,Japan Equity,0.05237752171086432
+2023-07-03,cDCC Minimum Variance,US Equity,0.03343580034643057
+2023-07-03,cDCC Minimum Variance,Europe Equity,9.677374487439424e-18
 2023-07-03,cDCC Minimum Variance,Emerging Equity,0.0
 2023-07-03,cDCC Minimum Variance,Japan Government Bond,0.2
-2023-07-03,cDCC Minimum Variance,US Treasury 7-10Y,0.018805403963400184
-2023-07-03,cDCC Minimum Variance,Germany Government Bond,0.09268188408481264
-2023-07-03,cDCC Minimum Variance,UK Gilt,0.023695800309218886
-2023-07-03,cDCC Minimum Variance,US IG,6.810737057383123e-18
-2023-07-03,cDCC Minimum Variance,US HY,0.2
-2023-07-03,cDCC Minimum Variance,Europe IG,2.83651844661633e-17
-2023-07-03,cDCC Minimum Variance,Europe HY,0.12863167108695142
+2023-07-03,cDCC Minimum Variance,US Treasury 7-10Y,0.01880877310558092
+2023-07-03,cDCC Minimum Variance,Germany Government Bond,0.09267361451931545
+2023-07-03,cDCC Minimum Variance,UK Gilt,0.023697827557232317
+2023-07-03,cDCC Minimum Variance,US IG,3.036869532296747e-17
+2023-07-03,cDCC Minimum Variance,US HY,0.19999999999999998
+2023-07-03,cDCC Minimum Variance,Europe IG,1.769474891873275e-18
+2023-07-03,cDCC Minimum Variance,Europe HY,0.1286477680153343
 2023-07-03,cDCC Minimum Variance,US REIT,0.0
-2023-07-03,cDCC Minimum Variance,Japan REIT,0.19999999999999998
-2023-07-03,cDCC Minimum Variance,Europe REIT,0.0
-2023-07-03,cDCC Minimum Variance,Crude Oil,0.0023017570256309125
-2023-07-03,cDCC Minimum Variance,Gold,0.04684899342361397
-2023-07-03,cDCC Minimum Variance,Copper,0.001205923756581237
+2023-07-03,cDCC Minimum Variance,Japan REIT,0.2
+2023-07-03,cDCC Minimum Variance,Europe REIT,3.45845858869835e-18
+2023-07-03,cDCC Minimum Variance,Crude Oil,0.002301715817006445
+2023-07-03,cDCC Minimum Variance,Gold,0.04684974357193633
+2023-07-03,cDCC Minimum Variance,Copper,0.001207235356299343
 2023-10-02,Equal Weight,Japan Equity,0.05555555555555555
 2023-10-02,Equal Weight,US Equity,0.05555555555555555
 2023-10-02,Equal Weight,Europe Equity,0.05555555555555555
@@ -467,77 +467,77 @@ date,strategy,asset,weight
 2023-10-02,Equal Weight,Crude Oil,0.05555555555555555
 2023-10-02,Equal Weight,Gold,0.05555555555555555
 2023-10-02,Equal Weight,Copper,0.05555555555555555
-2023-10-02,Shrinkage Risk Parity,Japan Equity,0.06182814318266761
-2023-10-02,Shrinkage Risk Parity,US Equity,0.031617809874415446
-2023-10-02,Shrinkage Risk Parity,Europe Equity,0.030025852345857387
-2023-10-02,Shrinkage Risk Parity,Emerging Equity,0.03153967731659484
+2023-10-02,Shrinkage Risk Parity,Japan Equity,0.06182827557324004
+2023-10-02,Shrinkage Risk Parity,US Equity,0.03161781361421088
+2023-10-02,Shrinkage Risk Parity,Europe Equity,0.030025838525690168
+2023-10-02,Shrinkage Risk Parity,Emerging Equity,0.03153968257209193
 2023-10-02,Shrinkage Risk Parity,Japan Government Bond,0.2
-2023-10-02,Shrinkage Risk Parity,US Treasury 7-10Y,0.05769685829011145
-2023-10-02,Shrinkage Risk Parity,Germany Government Bond,0.06422241375214938
-2023-10-02,Shrinkage Risk Parity,UK Gilt,0.05182881627523099
-2023-10-02,Shrinkage Risk Parity,US IG,0.04834265808958694
-2023-10-02,Shrinkage Risk Parity,US HY,0.04608189152770369
-2023-10-02,Shrinkage Risk Parity,Europe IG,0.05751140595075917
-2023-10-02,Shrinkage Risk Parity,Europe HY,0.051553545709916535
-2023-10-02,Shrinkage Risk Parity,US REIT,0.029246738743553952
-2023-10-02,Shrinkage Risk Parity,Japan REIT,0.10072673471108506
-2023-10-02,Shrinkage Risk Parity,Europe REIT,0.030375561902901842
-2023-10-02,Shrinkage Risk Parity,Crude Oil,0.030242450142121263
-2023-10-02,Shrinkage Risk Parity,Gold,0.04336239305316607
-2023-10-02,Shrinkage Risk Parity,Copper,0.03379704913217846
-2023-10-02,cDCC Risk Parity,Japan Equity,0.05383901017594158
-2023-10-02,cDCC Risk Parity,US Equity,0.036273103127581655
-2023-10-02,cDCC Risk Parity,Europe Equity,0.036770041834221286
-2023-10-02,cDCC Risk Parity,Emerging Equity,0.036020585481320914
+2023-10-02,Shrinkage Risk Parity,US Treasury 7-10Y,0.05769678639539475
+2023-10-02,Shrinkage Risk Parity,Germany Government Bond,0.064222490564817
+2023-10-02,Shrinkage Risk Parity,UK Gilt,0.051828827773557
+2023-10-02,Shrinkage Risk Parity,US IG,0.04834256498290385
+2023-10-02,Shrinkage Risk Parity,US HY,0.04608187772675405
+2023-10-02,Shrinkage Risk Parity,Europe IG,0.05751141508798055
+2023-10-02,Shrinkage Risk Parity,Europe HY,0.05155354659379503
+2023-10-02,Shrinkage Risk Parity,US REIT,0.02924669177196206
+2023-10-02,Shrinkage Risk Parity,Japan REIT,0.10072670367592901
+2023-10-02,Shrinkage Risk Parity,Europe REIT,0.03037558816635333
+2023-10-02,Shrinkage Risk Parity,Crude Oil,0.030242471898513125
+2023-10-02,Shrinkage Risk Parity,Gold,0.04336237855684242
+2023-10-02,Shrinkage Risk Parity,Copper,0.033797046519964846
+2023-10-02,cDCC Risk Parity,Japan Equity,0.05383980854047279
+2023-10-02,cDCC Risk Parity,US Equity,0.036273848872836884
+2023-10-02,cDCC Risk Parity,Europe Equity,0.03676845501872722
+2023-10-02,cDCC Risk Parity,Emerging Equity,0.036020749381935474
 2023-10-02,cDCC Risk Parity,Japan Government Bond,0.2
-2023-10-02,cDCC Risk Parity,US Treasury 7-10Y,0.0662033388062786
-2023-10-02,cDCC Risk Parity,Germany Government Bond,0.057549077281132476
-2023-10-02,cDCC Risk Parity,UK Gilt,0.04958978043672755
-2023-10-02,cDCC Risk Parity,US IG,0.05493224216050008
-2023-10-02,cDCC Risk Parity,US HY,0.059005722357278294
-2023-10-02,cDCC Risk Parity,Europe IG,0.051949156304174376
-2023-10-02,cDCC Risk Parity,Europe HY,0.054317566083232315
-2023-10-02,cDCC Risk Parity,US REIT,0.02886016085282409
-2023-10-02,cDCC Risk Parity,Japan REIT,0.07435304976972779
-2023-10-02,cDCC Risk Parity,Europe REIT,0.022344452875804742
-2023-10-02,cDCC Risk Parity,Crude Oil,0.03325503656749577
-2023-10-02,cDCC Risk Parity,Gold,0.052496617938171314
-2023-10-02,cDCC Risk Parity,Copper,0.03224105794758716
-2023-10-02,Shrinkage Minimum Variance,Japan Equity,0.06714844057166296
-2023-10-02,Shrinkage Minimum Variance,US Equity,1.0970352868178779e-17
+2023-10-02,cDCC Risk Parity,US Treasury 7-10Y,0.06620295896023251
+2023-10-02,cDCC Risk Parity,Germany Government Bond,0.05754935077571425
+2023-10-02,cDCC Risk Parity,UK Gilt,0.04958981443274458
+2023-10-02,cDCC Risk Parity,US IG,0.05493193517810032
+2023-10-02,cDCC Risk Parity,US HY,0.05900618570517056
+2023-10-02,cDCC Risk Parity,Europe IG,0.0519493112406366
+2023-10-02,cDCC Risk Parity,Europe HY,0.05431714364909672
+2023-10-02,cDCC Risk Parity,US REIT,0.028859773823296832
+2023-10-02,cDCC Risk Parity,Japan REIT,0.07435292226572168
+2023-10-02,cDCC Risk Parity,Europe REIT,0.02234458647245489
+2023-10-02,cDCC Risk Parity,Crude Oil,0.03325519124109532
+2023-10-02,cDCC Risk Parity,Gold,0.05249680709934844
+2023-10-02,cDCC Risk Parity,Copper,0.0322411573424149
+2023-10-02,Shrinkage Minimum Variance,Japan Equity,0.06715840602389095
+2023-10-02,Shrinkage Minimum Variance,US Equity,1.295674931278163e-17
 2023-10-02,Shrinkage Minimum Variance,Europe Equity,0.0
-2023-10-02,Shrinkage Minimum Variance,Emerging Equity,2.0193816651484417e-17
-2023-10-02,Shrinkage Minimum Variance,Japan Government Bond,0.19999999999999996
-2023-10-02,Shrinkage Minimum Variance,US Treasury 7-10Y,0.14872501066206062
-2023-10-02,Shrinkage Minimum Variance,Germany Government Bond,0.10130130740519501
-2023-10-02,Shrinkage Minimum Variance,UK Gilt,6.596350150863246e-18
-2023-10-02,Shrinkage Minimum Variance,US IG,0.0
-2023-10-02,Shrinkage Minimum Variance,US HY,0.12123755371353423
-2023-10-02,Shrinkage Minimum Variance,Europe IG,0.0877437940658524
-2023-10-02,Shrinkage Minimum Variance,Europe HY,0.04728068438800036
-2023-10-02,Shrinkage Minimum Variance,US REIT,1.119905176393744e-17
-2023-10-02,Shrinkage Minimum Variance,Japan REIT,0.19999999999999996
-2023-10-02,Shrinkage Minimum Variance,Europe REIT,0.0
-2023-10-02,Shrinkage Minimum Variance,Crude Oil,0.008038219043101555
-2023-10-02,Shrinkage Minimum Variance,Gold,0.002776434399599214
-2023-10-02,Shrinkage Minimum Variance,Copper,0.015748555750993598
-2023-10-02,cDCC Minimum Variance,Japan Equity,0.049424278720333004
-2023-10-02,cDCC Minimum Variance,US Equity,6.077118522588908e-18
-2023-10-02,cDCC Minimum Variance,Europe Equity,1.598744727605921e-18
-2023-10-02,cDCC Minimum Variance,Emerging Equity,6.781376567110167e-20
+2023-10-02,Shrinkage Minimum Variance,Emerging Equity,9.305696853376146e-18
+2023-10-02,Shrinkage Minimum Variance,Japan Government Bond,0.20000000000000004
+2023-10-02,Shrinkage Minimum Variance,US Treasury 7-10Y,0.14871193074626127
+2023-10-02,Shrinkage Minimum Variance,Germany Government Bond,0.10130575761857576
+2023-10-02,Shrinkage Minimum Variance,UK Gilt,3.9352204082697645e-18
+2023-10-02,Shrinkage Minimum Variance,US IG,7.966384428804852e-19
+2023-10-02,Shrinkage Minimum Variance,US HY,0.12121501665198436
+2023-10-02,Shrinkage Minimum Variance,Europe IG,0.08774950482655652
+2023-10-02,Shrinkage Minimum Variance,Europe HY,0.04729281005470748
+2023-10-02,Shrinkage Minimum Variance,US REIT,0.0
+2023-10-02,Shrinkage Minimum Variance,Japan REIT,0.20000000000000007
+2023-10-02,Shrinkage Minimum Variance,Europe REIT,8.28080980658267e-18
+2023-10-02,Shrinkage Minimum Variance,Crude Oil,0.00804068733282278
+2023-10-02,Shrinkage Minimum Variance,Gold,0.0027684731904523965
+2023-10-02,Shrinkage Minimum Variance,Copper,0.015757413554748374
+2023-10-02,cDCC Minimum Variance,Japan Equity,0.04942986900775954
+2023-10-02,cDCC Minimum Variance,US Equity,1.1963940393574534e-17
+2023-10-02,cDCC Minimum Variance,Europe Equity,5.0410561586089275e-19
+2023-10-02,cDCC Minimum Variance,Emerging Equity,1.1120911004137495e-17
 2023-10-02,cDCC Minimum Variance,Japan Government Bond,0.19999999999999998
-2023-10-02,cDCC Minimum Variance,US Treasury 7-10Y,0.2
-2023-10-02,cDCC Minimum Variance,Germany Government Bond,0.03267662437369893
-2023-10-02,cDCC Minimum Variance,UK Gilt,0.0
-2023-10-02,cDCC Minimum Variance,US IG,0.0
+2023-10-02,cDCC Minimum Variance,US Treasury 7-10Y,0.19999999999999998
+2023-10-02,cDCC Minimum Variance,Germany Government Bond,0.0326851937940593
+2023-10-02,cDCC Minimum Variance,UK Gilt,3.272343262177413e-17
+2023-10-02,cDCC Minimum Variance,US IG,2.1714424715686115e-17
 2023-10-02,cDCC Minimum Variance,US HY,0.2
 2023-10-02,cDCC Minimum Variance,Europe IG,0.0
-2023-10-02,cDCC Minimum Variance,Europe HY,0.1569841083437742
-2023-10-02,cDCC Minimum Variance,US REIT,8.004223820447459e-18
-2023-10-02,cDCC Minimum Variance,Japan REIT,0.11610613984043311
+2023-10-02,cDCC Minimum Variance,Europe HY,0.1569836501671065
+2023-10-02,cDCC Minimum Variance,US REIT,6.982665408016327e-18
+2023-10-02,cDCC Minimum Variance,Japan REIT,0.116108354837991
 2023-10-02,cDCC Minimum Variance,Europe REIT,0.0
-2023-10-02,cDCC Minimum Variance,Crude Oil,0.003473201111187631
-2023-10-02,cDCC Minimum Variance,Gold,0.041335647610573255
+2023-10-02,cDCC Minimum Variance,Crude Oil,0.003449432527844377
+2023-10-02,cDCC Minimum Variance,Gold,0.04134349966523926
 2023-10-02,cDCC Minimum Variance,Copper,0.0
 2024-01-04,Equal Weight,Japan Equity,0.05555555555555555
 2024-01-04,Equal Weight,US Equity,0.05555555555555555
@@ -557,78 +557,78 @@ date,strategy,asset,weight
 2024-01-04,Equal Weight,Crude Oil,0.05555555555555555
 2024-01-04,Equal Weight,Gold,0.05555555555555555
 2024-01-04,Equal Weight,Copper,0.05555555555555555
-2024-01-04,Shrinkage Risk Parity,Japan Equity,0.06039892057755277
-2024-01-04,Shrinkage Risk Parity,US Equity,0.032725167682554866
-2024-01-04,Shrinkage Risk Parity,Europe Equity,0.030870147203778363
-2024-01-04,Shrinkage Risk Parity,Emerging Equity,0.03255742015981179
+2024-01-04,Shrinkage Risk Parity,Japan Equity,0.06039901747283704
+2024-01-04,Shrinkage Risk Parity,US Equity,0.032725164491776225
+2024-01-04,Shrinkage Risk Parity,Europe Equity,0.030870140165156046
+2024-01-04,Shrinkage Risk Parity,Emerging Equity,0.03255742320352399
 2024-01-04,Shrinkage Risk Parity,Japan Government Bond,0.2
-2024-01-04,Shrinkage Risk Parity,US Treasury 7-10Y,0.05527490024842995
-2024-01-04,Shrinkage Risk Parity,Germany Government Bond,0.06296128529079136
-2024-01-04,Shrinkage Risk Parity,UK Gilt,0.05069432383382285
-2024-01-04,Shrinkage Risk Parity,US IG,0.04721006684645085
-2024-01-04,Shrinkage Risk Parity,US HY,0.046046814624446916
-2024-01-04,Shrinkage Risk Parity,Europe IG,0.05693666116474668
-2024-01-04,Shrinkage Risk Parity,Europe HY,0.051680657941453434
-2024-01-04,Shrinkage Risk Parity,US REIT,0.029433821737096858
-2024-01-04,Shrinkage Risk Parity,Japan REIT,0.1031306051298077
-2024-01-04,Shrinkage Risk Parity,Europe REIT,0.029982848997533604
-2024-01-04,Shrinkage Risk Parity,Crude Oil,0.031641276684239654
-2024-01-04,Shrinkage Risk Parity,Gold,0.04448914517541104
-2024-01-04,Shrinkage Risk Parity,Copper,0.033965936702071285
-2024-01-04,cDCC Risk Parity,Japan Equity,0.06534200628810814
-2024-01-04,cDCC Risk Parity,US Equity,0.04456770002068558
-2024-01-04,cDCC Risk Parity,Europe Equity,0.03872455834184756
-2024-01-04,cDCC Risk Parity,Emerging Equity,0.03873358886052224
+2024-01-04,Shrinkage Risk Parity,US Treasury 7-10Y,0.05527485810086591
+2024-01-04,Shrinkage Risk Parity,Germany Government Bond,0.06296132695704862
+2024-01-04,Shrinkage Risk Parity,UK Gilt,0.050694308743601285
+2024-01-04,Shrinkage Risk Parity,US IG,0.04721000573403417
+2024-01-04,Shrinkage Risk Parity,US HY,0.04604679700298673
+2024-01-04,Shrinkage Risk Parity,Europe IG,0.05693669717504232
+2024-01-04,Shrinkage Risk Parity,Europe HY,0.051680684958106134
+2024-01-04,Shrinkage Risk Parity,US REIT,0.029433786542345304
+2024-01-04,Shrinkage Risk Parity,Japan REIT,0.10313056947614792
+2024-01-04,Shrinkage Risk Parity,Europe REIT,0.02998288613117217
+2024-01-04,Shrinkage Risk Parity,Crude Oil,0.03164128923932361
+2024-01-04,Shrinkage Risk Parity,Gold,0.04448911927058589
+2024-01-04,Shrinkage Risk Parity,Copper,0.03396592533544662
+2024-01-04,cDCC Risk Parity,Japan Equity,0.06534069494099962
+2024-01-04,cDCC Risk Parity,US Equity,0.04456769890030858
+2024-01-04,cDCC Risk Parity,Europe Equity,0.03872449819804894
+2024-01-04,cDCC Risk Parity,Emerging Equity,0.038733969267874424
 2024-01-04,cDCC Risk Parity,Japan Government Bond,0.2
-2024-01-04,cDCC Risk Parity,US Treasury 7-10Y,0.04327765574719746
-2024-01-04,cDCC Risk Parity,Germany Government Bond,0.052901297154088776
-2024-01-04,cDCC Risk Parity,UK Gilt,0.0447109595357038
-2024-01-04,cDCC Risk Parity,US IG,0.03915069350188277
-2024-01-04,cDCC Risk Parity,US HY,0.04198764384908575
-2024-01-04,cDCC Risk Parity,Europe IG,0.05304490959832123
-2024-01-04,cDCC Risk Parity,Europe HY,0.05477830868761404
-2024-01-04,cDCC Risk Parity,US REIT,0.03176416299079552
-2024-01-04,cDCC Risk Parity,Japan REIT,0.1081180620866981
-2024-01-04,cDCC Risk Parity,Europe REIT,0.028425202139280736
-2024-01-04,cDCC Risk Parity,Crude Oil,0.0376996373063938
-2024-01-04,cDCC Risk Parity,Gold,0.0413322644071664
-2024-01-04,cDCC Risk Parity,Copper,0.03544134948460808
-2024-01-04,Shrinkage Minimum Variance,Japan Equity,0.06552483383478366
-2024-01-04,Shrinkage Minimum Variance,US Equity,0.0
+2024-01-04,cDCC Risk Parity,US Treasury 7-10Y,0.043276948329216185
+2024-01-04,cDCC Risk Parity,Germany Government Bond,0.052901198865441326
+2024-01-04,cDCC Risk Parity,UK Gilt,0.04471106190996913
+2024-01-04,cDCC Risk Parity,US IG,0.03915087800813272
+2024-01-04,cDCC Risk Parity,US HY,0.04198752412761836
+2024-01-04,cDCC Risk Parity,Europe IG,0.053045201694363865
+2024-01-04,cDCC Risk Parity,Europe HY,0.05477870590328814
+2024-01-04,cDCC Risk Parity,US REIT,0.031764105258318936
+2024-01-04,cDCC Risk Parity,Japan REIT,0.10811901304332955
+2024-01-04,cDCC Risk Parity,Europe REIT,0.028425324007174263
+2024-01-04,cDCC Risk Parity,Crude Oil,0.03769965242372068
+2024-01-04,cDCC Risk Parity,Gold,0.041332170499616
+2024-01-04,cDCC Risk Parity,Copper,0.03544135462257934
+2024-01-04,Shrinkage Minimum Variance,Japan Equity,0.06551434469856134
+2024-01-04,Shrinkage Minimum Variance,US Equity,4.595558533309562e-19
 2024-01-04,Shrinkage Minimum Variance,Europe Equity,0.0
 2024-01-04,Shrinkage Minimum Variance,Emerging Equity,0.0
 2024-01-04,Shrinkage Minimum Variance,Japan Government Bond,0.2
-2024-01-04,Shrinkage Minimum Variance,US Treasury 7-10Y,0.12410959220882165
-2024-01-04,Shrinkage Minimum Variance,Germany Government Bond,0.10009536124288575
-2024-01-04,Shrinkage Minimum Variance,UK Gilt,3.3329972031974353e-18
+2024-01-04,Shrinkage Minimum Variance,US Treasury 7-10Y,0.12407791810175096
+2024-01-04,Shrinkage Minimum Variance,Germany Government Bond,0.10010553101039957
+2024-01-04,Shrinkage Minimum Variance,UK Gilt,0.0
 2024-01-04,Shrinkage Minimum Variance,US IG,0.0
-2024-01-04,Shrinkage Minimum Variance,US HY,0.12625309478588467
-2024-01-04,Shrinkage Minimum Variance,Europe IG,0.08670121033708564
-2024-01-04,Shrinkage Minimum Variance,Europe HY,0.05863731609114796
-2024-01-04,Shrinkage Minimum Variance,US REIT,1.6844137394051624e-17
+2024-01-04,Shrinkage Minimum Variance,US HY,0.12621756550099156
+2024-01-04,Shrinkage Minimum Variance,Europe IG,0.08671393429899549
+2024-01-04,Shrinkage Minimum Variance,Europe HY,0.05867375139550493
+2024-01-04,Shrinkage Minimum Variance,US REIT,0.0
 2024-01-04,Shrinkage Minimum Variance,Japan REIT,0.2
-2024-01-04,Shrinkage Minimum Variance,Europe REIT,1.0244786052792526e-17
-2024-01-04,Shrinkage Minimum Variance,Crude Oil,0.010506075145054306
-2024-01-04,Shrinkage Minimum Variance,Gold,0.01745330893548925
-2024-01-04,Shrinkage Minimum Variance,Copper,0.010719207418847115
-2024-01-04,cDCC Minimum Variance,Japan Equity,0.08143642028616399
-2024-01-04,cDCC Minimum Variance,US Equity,0.1291580361234005
-2024-01-04,cDCC Minimum Variance,Europe Equity,8.897194422443084e-18
-2024-01-04,cDCC Minimum Variance,Emerging Equity,0.0
-2024-01-04,cDCC Minimum Variance,Japan Government Bond,0.19999999999999996
-2024-01-04,cDCC Minimum Variance,US Treasury 7-10Y,0.059660514488424986
-2024-01-04,cDCC Minimum Variance,Germany Government Bond,0.05496815691267931
-2024-01-04,cDCC Minimum Variance,UK Gilt,0.0
-2024-01-04,cDCC Minimum Variance,US IG,0.0
-2024-01-04,cDCC Minimum Variance,US HY,1.3158682916213716e-17
-2024-01-04,cDCC Minimum Variance,Europe IG,0.005876252027492456
-2024-01-04,cDCC Minimum Variance,Europe HY,0.19999999999999996
-2024-01-04,cDCC Minimum Variance,US REIT,2.1087895560126125e-18
-2024-01-04,cDCC Minimum Variance,Japan REIT,0.19999999999999996
+2024-01-04,Shrinkage Minimum Variance,Europe REIT,4.231678022432236e-18
+2024-01-04,Shrinkage Minimum Variance,Crude Oil,0.010517367746844773
+2024-01-04,Shrinkage Minimum Variance,Gold,0.01745579452320841
+2024-01-04,Shrinkage Minimum Variance,Copper,0.010723792723742947
+2024-01-04,cDCC Minimum Variance,Japan Equity,0.08142892733833385
+2024-01-04,cDCC Minimum Variance,US Equity,0.12916056863435632
+2024-01-04,cDCC Minimum Variance,Europe Equity,0.0
+2024-01-04,cDCC Minimum Variance,Emerging Equity,8.266321300868161e-19
+2024-01-04,cDCC Minimum Variance,Japan Government Bond,0.2
+2024-01-04,cDCC Minimum Variance,US Treasury 7-10Y,0.05964945523812614
+2024-01-04,cDCC Minimum Variance,Germany Government Bond,0.054965623512499034
+2024-01-04,cDCC Minimum Variance,UK Gilt,7.085871623186859e-18
+2024-01-04,cDCC Minimum Variance,US IG,2.1079020964382695e-18
+2024-01-04,cDCC Minimum Variance,US HY,0.0
+2024-01-04,cDCC Minimum Variance,Europe IG,0.005891906229974823
+2024-01-04,cDCC Minimum Variance,Europe HY,0.2
+2024-01-04,cDCC Minimum Variance,US REIT,6.420214388569712e-18
+2024-01-04,cDCC Minimum Variance,Japan REIT,0.2
 2024-01-04,cDCC Minimum Variance,Europe REIT,0.0
-2024-01-04,cDCC Minimum Variance,Crude Oil,0.0217093623065627
-2024-01-04,cDCC Minimum Variance,Gold,0.04719125785527607
-2024-01-04,cDCC Minimum Variance,Copper,0.0
+2024-01-04,cDCC Minimum Variance,Crude Oil,0.021709364928626067
+2024-01-04,cDCC Minimum Variance,Gold,0.04719415411808379
+2024-01-04,cDCC Minimum Variance,Copper,2.2372648674975024e-17
 2024-04-02,Equal Weight,Japan Equity,0.05555555555555555
 2024-04-02,Equal Weight,US Equity,0.05555555555555555
 2024-04-02,Equal Weight,Europe Equity,0.05555555555555555
@@ -647,78 +647,78 @@ date,strategy,asset,weight
 2024-04-02,Equal Weight,Crude Oil,0.05555555555555555
 2024-04-02,Equal Weight,Gold,0.05555555555555555
 2024-04-02,Equal Weight,Copper,0.05555555555555555
-2024-04-02,Shrinkage Risk Parity,Japan Equity,0.06110315027201229
-2024-04-02,Shrinkage Risk Parity,US Equity,0.032889494520729694
-2024-04-02,Shrinkage Risk Parity,Europe Equity,0.03128844346412297
-2024-04-02,Shrinkage Risk Parity,Emerging Equity,0.03265314727089787
+2024-04-02,Shrinkage Risk Parity,Japan Equity,0.061103280506438956
+2024-04-02,Shrinkage Risk Parity,US Equity,0.03288948651175518
+2024-04-02,Shrinkage Risk Parity,Europe Equity,0.03128843604803702
+2024-04-02,Shrinkage Risk Parity,Emerging Equity,0.032653155539139625
 2024-04-02,Shrinkage Risk Parity,Japan Government Bond,0.2
-2024-04-02,Shrinkage Risk Parity,US Treasury 7-10Y,0.05348575981497815
-2024-04-02,Shrinkage Risk Parity,Germany Government Bond,0.06285209483940074
-2024-04-02,Shrinkage Risk Parity,UK Gilt,0.05019988322350725
-2024-04-02,Shrinkage Risk Parity,US IG,0.0460302542796261
-2024-04-02,Shrinkage Risk Parity,US HY,0.04513796917533517
-2024-04-02,Shrinkage Risk Parity,Europe IG,0.05654033848938392
-2024-04-02,Shrinkage Risk Parity,Europe HY,0.05161260924331409
-2024-04-02,Shrinkage Risk Parity,US REIT,0.02932332955882355
-2024-04-02,Shrinkage Risk Parity,Japan REIT,0.10584608610802168
-2024-04-02,Shrinkage Risk Parity,Europe REIT,0.030588500208606508
-2024-04-02,Shrinkage Risk Parity,Crude Oil,0.03296623163632589
-2024-04-02,Shrinkage Risk Parity,Gold,0.04393635714148522
-2024-04-02,Shrinkage Risk Parity,Copper,0.03354635075342884
-2024-04-02,cDCC Risk Parity,Japan Equity,0.04463230910494079
-2024-04-02,cDCC Risk Parity,US Equity,0.03709782138734839
-2024-04-02,cDCC Risk Parity,Europe Equity,0.03880492153147464
-2024-04-02,cDCC Risk Parity,Emerging Equity,0.036723885278555385
-2024-04-02,cDCC Risk Parity,Japan Government Bond,0.2
-2024-04-02,cDCC Risk Parity,US Treasury 7-10Y,0.04960470428111386
-2024-04-02,cDCC Risk Parity,Germany Government Bond,0.05917809030133759
-2024-04-02,cDCC Risk Parity,UK Gilt,0.05446053502400433
-2024-04-02,cDCC Risk Parity,US IG,0.04664368800632239
-2024-04-02,cDCC Risk Parity,US HY,0.047268096877217204
-2024-04-02,cDCC Risk Parity,Europe IG,0.057544528420683874
-2024-04-02,cDCC Risk Parity,Europe HY,0.0651805348603534
-2024-04-02,cDCC Risk Parity,US REIT,0.028378712481231253
-2024-04-02,cDCC Risk Parity,Japan REIT,0.0940279954743611
-2024-04-02,cDCC Risk Parity,Europe REIT,0.030509675787929347
-2024-04-02,cDCC Risk Parity,Crude Oil,0.03369597431869211
-2024-04-02,cDCC Risk Parity,Gold,0.04412153387814419
-2024-04-02,cDCC Risk Parity,Copper,0.03212699298629015
-2024-04-02,Shrinkage Minimum Variance,Japan Equity,0.06677897416351194
+2024-04-02,Shrinkage Risk Parity,US Treasury 7-10Y,0.05348572921813057
+2024-04-02,Shrinkage Risk Parity,Germany Government Bond,0.06285212673008916
+2024-04-02,Shrinkage Risk Parity,UK Gilt,0.05019984339619809
+2024-04-02,Shrinkage Risk Parity,US IG,0.046030189362732524
+2024-04-02,Shrinkage Risk Parity,US HY,0.045137985589110335
+2024-04-02,Shrinkage Risk Parity,Europe IG,0.05654037141727575
+2024-04-02,Shrinkage Risk Parity,Europe HY,0.05161263480946035
+2024-04-02,Shrinkage Risk Parity,US REIT,0.029323295153784578
+2024-04-02,Shrinkage Risk Parity,Japan REIT,0.1058460048111909
+2024-04-02,Shrinkage Risk Parity,Europe REIT,0.03058853305197006
+2024-04-02,Shrinkage Risk Parity,Crude Oil,0.03296624160069236
+2024-04-02,Shrinkage Risk Parity,Gold,0.04393634671739675
+2024-04-02,Shrinkage Risk Parity,Copper,0.03354633953659778
+2024-04-02,cDCC Risk Parity,Japan Equity,0.04463263135662066
+2024-04-02,cDCC Risk Parity,US Equity,0.0370966289407906
+2024-04-02,cDCC Risk Parity,Europe Equity,0.03880406178698212
+2024-04-02,cDCC Risk Parity,Emerging Equity,0.03672370608441218
+2024-04-02,cDCC Risk Parity,Japan Government Bond,0.20000000000000004
+2024-04-02,cDCC Risk Parity,US Treasury 7-10Y,0.04960566629560238
+2024-04-02,cDCC Risk Parity,Germany Government Bond,0.05917844254722143
+2024-04-02,cDCC Risk Parity,UK Gilt,0.05446047723983681
+2024-04-02,cDCC Risk Parity,US IG,0.0466432377208321
+2024-04-02,cDCC Risk Parity,US HY,0.04726900988918253
+2024-04-02,cDCC Risk Parity,Europe IG,0.057544628235790395
+2024-04-02,cDCC Risk Parity,Europe HY,0.0651805358493643
+2024-04-02,cDCC Risk Parity,US REIT,0.02837832825545309
+2024-04-02,cDCC Risk Parity,Japan REIT,0.0940280996940062
+2024-04-02,cDCC Risk Parity,Europe REIT,0.030509669284502498
+2024-04-02,cDCC Risk Parity,Crude Oil,0.033696079518399154
+2024-04-02,cDCC Risk Parity,Gold,0.044121713539518534
+2024-04-02,cDCC Risk Parity,Copper,0.0321270837614851
+2024-04-02,Shrinkage Minimum Variance,Japan Equity,0.06677895601232597
 2024-04-02,Shrinkage Minimum Variance,US Equity,0.0
 2024-04-02,Shrinkage Minimum Variance,Europe Equity,0.0
-2024-04-02,Shrinkage Minimum Variance,Emerging Equity,6.104422191628048e-19
+2024-04-02,Shrinkage Minimum Variance,Emerging Equity,0.0
 2024-04-02,Shrinkage Minimum Variance,Japan Government Bond,0.2
-2024-04-02,Shrinkage Minimum Variance,US Treasury 7-10Y,0.11153462557880739
-2024-04-02,Shrinkage Minimum Variance,Germany Government Bond,0.1112848889768658
+2024-04-02,Shrinkage Minimum Variance,US Treasury 7-10Y,0.11153810006814345
+2024-04-02,Shrinkage Minimum Variance,Germany Government Bond,0.11128480241863777
 2024-04-02,Shrinkage Minimum Variance,UK Gilt,0.0
-2024-04-02,Shrinkage Minimum Variance,US IG,6.6030413590437465e-18
-2024-04-02,Shrinkage Minimum Variance,US HY,0.11922153176236046
-2024-04-02,Shrinkage Minimum Variance,Europe IG,0.08243097564185195
-2024-04-02,Shrinkage Minimum Variance,Europe HY,0.06229655894989068
-2024-04-02,Shrinkage Minimum Variance,US REIT,1.5487477298565497e-17
+2024-04-02,Shrinkage Minimum Variance,US IG,7.115856306087813e-18
+2024-04-02,Shrinkage Minimum Variance,US HY,0.11923004008681652
+2024-04-02,Shrinkage Minimum Variance,Europe IG,0.0824274689261402
+2024-04-02,Shrinkage Minimum Variance,Europe HY,0.06229173027756136
+2024-04-02,Shrinkage Minimum Variance,US REIT,8.973439100992586e-18
 2024-04-02,Shrinkage Minimum Variance,Japan REIT,0.2
-2024-04-02,Shrinkage Minimum Variance,Europe REIT,2.1363719303758035e-18
-2024-04-02,Shrinkage Minimum Variance,Crude Oil,0.015000334464783868
-2024-04-02,Shrinkage Minimum Variance,Gold,0.02021741456624331
-2024-04-02,Shrinkage Minimum Variance,Copper,0.011234695895684477
-2024-04-02,cDCC Minimum Variance,Japan Equity,0.0
-2024-04-02,cDCC Minimum Variance,US Equity,3.3104870834083166e-17
-2024-04-02,cDCC Minimum Variance,Europe Equity,0.04255159364168688
-2024-04-02,cDCC Minimum Variance,Emerging Equity,0.0
-2024-04-02,cDCC Minimum Variance,Japan Government Bond,0.2
-2024-04-02,cDCC Minimum Variance,US Treasury 7-10Y,0.05582337065866902
-2024-04-02,cDCC Minimum Variance,Germany Government Bond,0.07972400714047183
-2024-04-02,cDCC Minimum Variance,UK Gilt,0.0
-2024-04-02,cDCC Minimum Variance,US IG,2.6092053103639553e-17
-2024-04-02,cDCC Minimum Variance,US HY,0.11042238702617435
-2024-04-02,cDCC Minimum Variance,Europe IG,0.07174261568861895
-2024-04-02,cDCC Minimum Variance,Europe HY,0.2
-2024-04-02,cDCC Minimum Variance,US REIT,1.274628559545544e-18
-2024-04-02,cDCC Minimum Variance,Japan REIT,0.18009241241125928
-2024-04-02,cDCC Minimum Variance,Europe REIT,3.561547032988964e-18
-2024-04-02,cDCC Minimum Variance,Crude Oil,0.013181353586172728
-2024-04-02,cDCC Minimum Variance,Gold,0.046462259846946824
-2024-04-02,cDCC Minimum Variance,Copper,0.0
+2024-04-02,Shrinkage Minimum Variance,Europe REIT,0.0
+2024-04-02,Shrinkage Minimum Variance,Crude Oil,0.015000651514537338
+2024-04-02,Shrinkage Minimum Variance,Gold,0.02021483056631809
+2024-04-02,Shrinkage Minimum Variance,Copper,0.011233420129519295
+2024-04-02,cDCC Minimum Variance,Japan Equity,7.450881610631587e-18
+2024-04-02,cDCC Minimum Variance,US Equity,0.0
+2024-04-02,cDCC Minimum Variance,Europe Equity,0.0425334022039285
+2024-04-02,cDCC Minimum Variance,Emerging Equity,9.0085796962615e-19
+2024-04-02,cDCC Minimum Variance,Japan Government Bond,0.1999999999999999
+2024-04-02,cDCC Minimum Variance,US Treasury 7-10Y,0.0558341119270146
+2024-04-02,cDCC Minimum Variance,Germany Government Bond,0.07971325324007131
+2024-04-02,cDCC Minimum Variance,UK Gilt,6.012904237585835e-18
+2024-04-02,cDCC Minimum Variance,US IG,0.0
+2024-04-02,cDCC Minimum Variance,US HY,0.11042845182823519
+2024-04-02,cDCC Minimum Variance,Europe IG,0.07174538231132951
+2024-04-02,cDCC Minimum Variance,Europe HY,0.19999999999999996
+2024-04-02,cDCC Minimum Variance,US REIT,9.571284917114175e-19
+2024-04-02,cDCC Minimum Variance,Japan REIT,0.1800975798637837
+2024-04-02,cDCC Minimum Variance,Europe REIT,2.1591368873803043e-18
+2024-04-02,cDCC Minimum Variance,Crude Oil,0.013177894479766583
+2024-04-02,cDCC Minimum Variance,Gold,0.04646992414587063
+2024-04-02,cDCC Minimum Variance,Copper,9.306466894302443e-19
 2024-07-01,Equal Weight,Japan Equity,0.05555555555555555
 2024-07-01,Equal Weight,US Equity,0.05555555555555555
 2024-07-01,Equal Weight,Europe Equity,0.05555555555555555
@@ -737,78 +737,78 @@ date,strategy,asset,weight
 2024-07-01,Equal Weight,Crude Oil,0.05555555555555555
 2024-07-01,Equal Weight,Gold,0.05555555555555555
 2024-07-01,Equal Weight,Copper,0.05555555555555555
-2024-07-01,Shrinkage Risk Parity,Japan Equity,0.06416068927607856
-2024-07-01,Shrinkage Risk Parity,US Equity,0.03339663771936125
-2024-07-01,Shrinkage Risk Parity,Europe Equity,0.031236359792025662
-2024-07-01,Shrinkage Risk Parity,Emerging Equity,0.033613161598374366
-2024-07-01,Shrinkage Risk Parity,Japan Government Bond,0.20000000000000004
-2024-07-01,Shrinkage Risk Parity,US Treasury 7-10Y,0.05172394982416164
-2024-07-01,Shrinkage Risk Parity,Germany Government Bond,0.06174611403983821
-2024-07-01,Shrinkage Risk Parity,UK Gilt,0.04925420541046299
-2024-07-01,Shrinkage Risk Parity,US IG,0.04488635441833208
-2024-07-01,Shrinkage Risk Parity,US HY,0.044835876613860084
-2024-07-01,Shrinkage Risk Parity,Europe IG,0.056132725448615625
-2024-07-01,Shrinkage Risk Parity,Europe HY,0.051502902105121685
-2024-07-01,Shrinkage Risk Parity,US REIT,0.028964394260966447
-2024-07-01,Shrinkage Risk Parity,Japan REIT,0.10938742478252111
-2024-07-01,Shrinkage Risk Parity,Europe REIT,0.0296164071127037
-2024-07-01,Shrinkage Risk Parity,Crude Oil,0.033873908493787186
-2024-07-01,Shrinkage Risk Parity,Gold,0.04268973226661759
-2024-07-01,Shrinkage Risk Parity,Copper,0.03297915683717189
-2024-07-01,cDCC Risk Parity,Japan Equity,0.05725707665147185
-2024-07-01,cDCC Risk Parity,US Equity,0.04822390876233986
-2024-07-01,cDCC Risk Parity,Europe Equity,0.03107676989147476
-2024-07-01,cDCC Risk Parity,Emerging Equity,0.03475944508494506
-2024-07-01,cDCC Risk Parity,Japan Government Bond,0.19999999999999993
-2024-07-01,cDCC Risk Parity,US Treasury 7-10Y,0.05065156500621521
-2024-07-01,cDCC Risk Parity,Germany Government Bond,0.061742474909925155
-2024-07-01,cDCC Risk Parity,UK Gilt,0.0514516023471666
-2024-07-01,cDCC Risk Parity,US IG,0.04740949313541855
-2024-07-01,cDCC Risk Parity,US HY,0.054471704027279334
-2024-07-01,cDCC Risk Parity,Europe IG,0.06178962093203242
-2024-07-01,cDCC Risk Parity,Europe HY,0.06607756517463602
-2024-07-01,cDCC Risk Parity,US REIT,0.02965001950563733
-2024-07-01,cDCC Risk Parity,Japan REIT,0.0935814552671861
-2024-07-01,cDCC Risk Parity,Europe REIT,0.024186818866109495
-2024-07-01,cDCC Risk Parity,Crude Oil,0.03342457777457571
-2024-07-01,cDCC Risk Parity,Gold,0.028502354553362863
-2024-07-01,cDCC Risk Parity,Copper,0.02574354811022351
-2024-07-01,Shrinkage Minimum Variance,Japan Equity,0.07697320639623383
-2024-07-01,Shrinkage Minimum Variance,US Equity,6.638510247568223e-18
+2024-07-01,Shrinkage Risk Parity,Japan Equity,0.0641608102392444
+2024-07-01,Shrinkage Risk Parity,US Equity,0.033396624005058904
+2024-07-01,Shrinkage Risk Parity,Europe Equity,0.03123635498595218
+2024-07-01,Shrinkage Risk Parity,Emerging Equity,0.03361315920210526
+2024-07-01,Shrinkage Risk Parity,Japan Government Bond,0.19999999999999996
+2024-07-01,Shrinkage Risk Parity,US Treasury 7-10Y,0.051723929001049954
+2024-07-01,Shrinkage Risk Parity,Germany Government Bond,0.06174613806385547
+2024-07-01,Shrinkage Risk Parity,UK Gilt,0.04925417069747024
+2024-07-01,Shrinkage Risk Parity,US IG,0.0448862788213925
+2024-07-01,Shrinkage Risk Parity,US HY,0.044835955065450954
+2024-07-01,Shrinkage Risk Parity,Europe IG,0.056132747629341166
+2024-07-01,Shrinkage Risk Parity,Europe HY,0.051502920266243174
+2024-07-01,Shrinkage Risk Parity,US REIT,0.02896436398978225
+2024-07-01,Shrinkage Risk Parity,Japan REIT,0.1093873117796012
+2024-07-01,Shrinkage Risk Parity,Europe REIT,0.029616441302836506
+2024-07-01,Shrinkage Risk Parity,Crude Oil,0.0338739159354565
+2024-07-01,Shrinkage Risk Parity,Gold,0.04268972341062338
+2024-07-01,Shrinkage Risk Parity,Copper,0.03297915560453583
+2024-07-01,cDCC Risk Parity,Japan Equity,0.05725765891942638
+2024-07-01,cDCC Risk Parity,US Equity,0.048222552183870546
+2024-07-01,cDCC Risk Parity,Europe Equity,0.031076283941766543
+2024-07-01,cDCC Risk Parity,Emerging Equity,0.034759677904751804
+2024-07-01,cDCC Risk Parity,Japan Government Bond,0.19999999999999996
+2024-07-01,cDCC Risk Parity,US Treasury 7-10Y,0.05065155949585751
+2024-07-01,cDCC Risk Parity,Germany Government Bond,0.061741134595819105
+2024-07-01,cDCC Risk Parity,UK Gilt,0.05145168081933491
+2024-07-01,cDCC Risk Parity,US IG,0.047409466062823855
+2024-07-01,cDCC Risk Parity,US HY,0.05447298118537144
+2024-07-01,cDCC Risk Parity,Europe IG,0.06178996928482474
+2024-07-01,cDCC Risk Parity,Europe HY,0.06607773840367935
+2024-07-01,cDCC Risk Parity,US REIT,0.029650075677460964
+2024-07-01,cDCC Risk Parity,Japan REIT,0.0935815304203914
+2024-07-01,cDCC Risk Parity,Europe REIT,0.02418705530309878
+2024-07-01,cDCC Risk Parity,Crude Oil,0.033424624675548076
+2024-07-01,cDCC Risk Parity,Gold,0.02850240191018365
+2024-07-01,cDCC Risk Parity,Copper,0.025743609215791073
+2024-07-01,Shrinkage Minimum Variance,Japan Equity,0.07697367080025729
+2024-07-01,Shrinkage Minimum Variance,US Equity,0.0
 2024-07-01,Shrinkage Minimum Variance,Europe Equity,0.0
-2024-07-01,Shrinkage Minimum Variance,Emerging Equity,0.0
+2024-07-01,Shrinkage Minimum Variance,Emerging Equity,3.0577196192876556e-17
 2024-07-01,Shrinkage Minimum Variance,Japan Government Bond,0.2
-2024-07-01,Shrinkage Minimum Variance,US Treasury 7-10Y,0.0928067775312992
-2024-07-01,Shrinkage Minimum Variance,Germany Government Bond,0.10752696408444239
+2024-07-01,Shrinkage Minimum Variance,US Treasury 7-10Y,0.09280592370480334
+2024-07-01,Shrinkage Minimum Variance,Germany Government Bond,0.10752727944545916
 2024-07-01,Shrinkage Minimum Variance,UK Gilt,0.0
-2024-07-01,Shrinkage Minimum Variance,US IG,0.0
-2024-07-01,Shrinkage Minimum Variance,US HY,0.12825327022799013
-2024-07-01,Shrinkage Minimum Variance,Europe IG,0.08449129755677917
-2024-07-01,Shrinkage Minimum Variance,Europe HY,0.06366602525440272
+2024-07-01,Shrinkage Minimum Variance,US IG,6.566424735386286e-19
+2024-07-01,Shrinkage Minimum Variance,US HY,0.1282544798427229
+2024-07-01,Shrinkage Minimum Variance,Europe IG,0.08449065316953513
+2024-07-01,Shrinkage Minimum Variance,Europe HY,0.06366615893255576
 2024-07-01,Shrinkage Minimum Variance,US REIT,0.0
 2024-07-01,Shrinkage Minimum Variance,Japan REIT,0.2
-2024-07-01,Shrinkage Minimum Variance,Europe REIT,6.722617350029488e-18
-2024-07-01,Shrinkage Minimum Variance,Crude Oil,0.016822619492173976
-2024-07-01,Shrinkage Minimum Variance,Gold,0.020569118260619596
-2024-07-01,Shrinkage Minimum Variance,Copper,0.0088907211960589
-2024-07-01,cDCC Minimum Variance,Japan Equity,0.016095553748086123
-2024-07-01,cDCC Minimum Variance,US Equity,0.044677520251644516
+2024-07-01,Shrinkage Minimum Variance,Europe REIT,8.111608754283056e-18
+2024-07-01,Shrinkage Minimum Variance,Crude Oil,0.016822550231704654
+2024-07-01,Shrinkage Minimum Variance,Gold,0.02056858930169904
+2024-07-01,Shrinkage Minimum Variance,Copper,0.008890694571262767
+2024-07-01,cDCC Minimum Variance,Japan Equity,0.016094883468994417
+2024-07-01,cDCC Minimum Variance,US Equity,0.04467262592265689
 2024-07-01,cDCC Minimum Variance,Europe Equity,0.0
-2024-07-01,cDCC Minimum Variance,Emerging Equity,2.882276636193074e-18
-2024-07-01,cDCC Minimum Variance,Japan Government Bond,0.20000000000000007
-2024-07-01,cDCC Minimum Variance,US Treasury 7-10Y,0.03040071635253014
-2024-07-01,cDCC Minimum Variance,Germany Government Bond,0.042354999024948346
-2024-07-01,cDCC Minimum Variance,UK Gilt,3.3159444039863384e-17
-2024-07-01,cDCC Minimum Variance,US IG,0.0
-2024-07-01,cDCC Minimum Variance,US HY,0.20000000000000007
-2024-07-01,cDCC Minimum Variance,Europe IG,0.08556810039536443
-2024-07-01,cDCC Minimum Variance,Europe HY,0.20000000000000007
-2024-07-01,cDCC Minimum Variance,US REIT,7.903096646099e-19
-2024-07-01,cDCC Minimum Variance,Japan REIT,0.17310497682933293
+2024-07-01,cDCC Minimum Variance,Emerging Equity,3.271514237696199e-18
+2024-07-01,cDCC Minimum Variance,Japan Government Bond,0.19999999999999998
+2024-07-01,cDCC Minimum Variance,US Treasury 7-10Y,0.030393963588354934
+2024-07-01,cDCC Minimum Variance,Germany Government Bond,0.04234016351232541
+2024-07-01,cDCC Minimum Variance,UK Gilt,0.0
+2024-07-01,cDCC Minimum Variance,US IG,1.0629411749416177e-18
+2024-07-01,cDCC Minimum Variance,US HY,0.2
+2024-07-01,cDCC Minimum Variance,Europe IG,0.0855947585860339
+2024-07-01,cDCC Minimum Variance,Europe HY,0.2
+2024-07-01,cDCC Minimum Variance,US REIT,0.0
+2024-07-01,cDCC Minimum Variance,Japan REIT,0.17310525475864116
 2024-07-01,cDCC Minimum Variance,Europe REIT,0.0
-2024-07-01,cDCC Minimum Variance,Crude Oil,0.007798133398093416
-2024-07-01,cDCC Minimum Variance,Gold,4.851219229087412e-18
-2024-07-01,cDCC Minimum Variance,Copper,5.641476552610322e-18
+2024-07-01,cDCC Minimum Variance,Crude Oil,0.007798350162993377
+2024-07-01,cDCC Minimum Variance,Gold,0.0
+2024-07-01,cDCC Minimum Variance,Copper,0.0
 2024-10-01,Equal Weight,Japan Equity,0.05555555555555555
 2024-10-01,Equal Weight,US Equity,0.05555555555555555
 2024-10-01,Equal Weight,Europe Equity,0.05555555555555555
@@ -827,78 +827,78 @@ date,strategy,asset,weight
 2024-10-01,Equal Weight,Crude Oil,0.05555555555555555
 2024-10-01,Equal Weight,Gold,0.05555555555555555
 2024-10-01,Equal Weight,Copper,0.05555555555555555
-2024-10-01,Shrinkage Risk Parity,Japan Equity,0.051691895934260074
-2024-10-01,Shrinkage Risk Parity,US Equity,0.033782087921556486
-2024-10-01,Shrinkage Risk Parity,Europe Equity,0.031838878654479444
-2024-10-01,Shrinkage Risk Parity,Emerging Equity,0.033487877802113666
-2024-10-01,Shrinkage Risk Parity,Japan Government Bond,0.20000000000000004
-2024-10-01,Shrinkage Risk Parity,US Treasury 7-10Y,0.0525398815550907
-2024-10-01,Shrinkage Risk Parity,Germany Government Bond,0.06341415181299022
-2024-10-01,Shrinkage Risk Parity,UK Gilt,0.050728197503491966
-2024-10-01,Shrinkage Risk Parity,US IG,0.04590933683556436
-2024-10-01,Shrinkage Risk Parity,US HY,0.04539227672632558
-2024-10-01,Shrinkage Risk Parity,Europe IG,0.056663999060291605
-2024-10-01,Shrinkage Risk Parity,Europe HY,0.052010222690649636
-2024-10-01,Shrinkage Risk Parity,US REIT,0.03039028607059622
-2024-10-01,Shrinkage Risk Parity,Japan REIT,0.1095709974529793
-2024-10-01,Shrinkage Risk Parity,Europe REIT,0.03169272853434589
-2024-10-01,Shrinkage Risk Parity,Crude Oil,0.03518400308298515
-2024-10-01,Shrinkage Risk Parity,Gold,0.04219009944762654
-2024-10-01,Shrinkage Risk Parity,Copper,0.03351307891465329
-2024-10-01,cDCC Risk Parity,Japan Equity,0.028822822522394896
-2024-10-01,cDCC Risk Parity,US Equity,0.04376290515689492
-2024-10-01,cDCC Risk Parity,Europe Equity,0.032659189139255834
-2024-10-01,cDCC Risk Parity,Emerging Equity,0.027931531356175557
-2024-10-01,cDCC Risk Parity,Japan Government Bond,0.19999999999999865
-2024-10-01,cDCC Risk Parity,US Treasury 7-10Y,0.0571731320553706
-2024-10-01,cDCC Risk Parity,Germany Government Bond,0.0697094469733567
-2024-10-01,cDCC Risk Parity,UK Gilt,0.05508211063011457
-2024-10-01,cDCC Risk Parity,US IG,0.05275382284279385
-2024-10-01,cDCC Risk Parity,US HY,0.050899258209379086
-2024-10-01,cDCC Risk Parity,Europe IG,0.05907550667414341
-2024-10-01,cDCC Risk Parity,Europe HY,0.05213812149725281
-2024-10-01,cDCC Risk Parity,US REIT,0.04691272693568548
-2024-10-01,cDCC Risk Parity,Japan REIT,0.0662296483338651
-2024-10-01,cDCC Risk Parity,Europe REIT,0.04390743233607921
-2024-10-01,cDCC Risk Parity,Crude Oil,0.04066850491779002
-2024-10-01,cDCC Risk Parity,Gold,0.041029015066952015
-2024-10-01,cDCC Risk Parity,Copper,0.03124482535249733
-2024-10-01,Shrinkage Minimum Variance,Japan Equity,0.032418989805278076
-2024-10-01,Shrinkage Minimum Variance,US Equity,1.757001997719765e-17
+2024-10-01,Shrinkage Risk Parity,Japan Equity,0.0516919774800608
+2024-10-01,Shrinkage Risk Parity,US Equity,0.033782088940113114
+2024-10-01,Shrinkage Risk Parity,Europe Equity,0.031838877607923054
+2024-10-01,Shrinkage Risk Parity,Emerging Equity,0.03348787306674318
+2024-10-01,Shrinkage Risk Parity,Japan Government Bond,0.19999999999999998
+2024-10-01,Shrinkage Risk Parity,US Treasury 7-10Y,0.05253982759596547
+2024-10-01,Shrinkage Risk Parity,Germany Government Bond,0.06341415870919695
+2024-10-01,Shrinkage Risk Parity,UK Gilt,0.050728204438008344
+2024-10-01,Shrinkage Risk Parity,US IG,0.04590930163843952
+2024-10-01,Shrinkage Risk Parity,US HY,0.04539234609526324
+2024-10-01,Shrinkage Risk Parity,Europe IG,0.05666403486345459
+2024-10-01,Shrinkage Risk Parity,Europe HY,0.0520102093780266
+2024-10-01,Shrinkage Risk Parity,US REIT,0.03039025503582967
+2024-10-01,Shrinkage Risk Parity,Japan REIT,0.10957090929781217
+2024-10-01,Shrinkage Risk Parity,Europe REIT,0.03169276168744354
+2024-10-01,Shrinkage Risk Parity,Crude Oil,0.03518400523998268
+2024-10-01,Shrinkage Risk Parity,Gold,0.04219009439701282
+2024-10-01,Shrinkage Risk Parity,Copper,0.03351307452872432
+2024-10-01,cDCC Risk Parity,Japan Equity,0.028822728944129357
+2024-10-01,cDCC Risk Parity,US Equity,0.04376331808610725
+2024-10-01,cDCC Risk Parity,Europe Equity,0.03265897762245996
+2024-10-01,cDCC Risk Parity,Emerging Equity,0.02793148792142978
+2024-10-01,cDCC Risk Parity,Japan Government Bond,0.1999999999999984
+2024-10-01,cDCC Risk Parity,US Treasury 7-10Y,0.057172606672941204
+2024-10-01,cDCC Risk Parity,Germany Government Bond,0.06970909503346763
+2024-10-01,cDCC Risk Parity,UK Gilt,0.05508236700810418
+2024-10-01,cDCC Risk Parity,US IG,0.05275407215889028
+2024-10-01,cDCC Risk Parity,US HY,0.05089932444533461
+2024-10-01,cDCC Risk Parity,Europe IG,0.05907585371524716
+2024-10-01,cDCC Risk Parity,Europe HY,0.05213803404102924
+2024-10-01,cDCC Risk Parity,US REIT,0.04691241708512512
+2024-10-01,cDCC Risk Parity,Japan REIT,0.06623029951382937
+2024-10-01,cDCC Risk Parity,Europe REIT,0.043907328960361
+2024-10-01,cDCC Risk Parity,Crude Oil,0.040668406935790304
+2024-10-01,cDCC Risk Parity,Gold,0.041028944521500466
+2024-10-01,cDCC Risk Parity,Copper,0.031244737334254823
+2024-10-01,Shrinkage Minimum Variance,Japan Equity,0.03241935999911789
+2024-10-01,Shrinkage Minimum Variance,US Equity,1.2355543260144966e-17
 2024-10-01,Shrinkage Minimum Variance,Europe Equity,0.0
-2024-10-01,Shrinkage Minimum Variance,Emerging Equity,2.6424644023299106e-17
+2024-10-01,Shrinkage Minimum Variance,Emerging Equity,0.0
 2024-10-01,Shrinkage Minimum Variance,Japan Government Bond,0.19999999999999996
-2024-10-01,Shrinkage Minimum Variance,US Treasury 7-10Y,0.10121712334343819
-2024-10-01,Shrinkage Minimum Variance,Germany Government Bond,0.13459041751634782
-2024-10-01,Shrinkage Minimum Variance,UK Gilt,8.642292713137324e-18
-2024-10-01,Shrinkage Minimum Variance,US IG,3.576658857932635e-18
-2024-10-01,Shrinkage Minimum Variance,US HY,0.1332837744067973
-2024-10-01,Shrinkage Minimum Variance,Europe IG,0.09287008712313356
-2024-10-01,Shrinkage Minimum Variance,Europe HY,0.07226360124720563
+2024-10-01,Shrinkage Minimum Variance,US Treasury 7-10Y,0.10121501908091138
+2024-10-01,Shrinkage Minimum Variance,Germany Government Bond,0.1345913261598082
+2024-10-01,Shrinkage Minimum Variance,UK Gilt,0.0
+2024-10-01,Shrinkage Minimum Variance,US IG,1.6448406461277746e-17
+2024-10-01,Shrinkage Minimum Variance,US HY,0.1332858420385406
+2024-10-01,Shrinkage Minimum Variance,Europe IG,0.09287015043607393
+2024-10-01,Shrinkage Minimum Variance,Europe HY,0.07226252625949288
 2024-10-01,Shrinkage Minimum Variance,US REIT,0.0
-2024-10-01,Shrinkage Minimum Variance,Japan REIT,0.2
-2024-10-01,Shrinkage Minimum Variance,Europe REIT,2.1523750515933687e-17
-2024-10-01,Shrinkage Minimum Variance,Crude Oil,0.023450903134743486
-2024-10-01,Shrinkage Minimum Variance,Gold,0.00010961571910358936
-2024-10-01,Shrinkage Minimum Variance,Copper,0.009795487703952412
-2024-10-01,cDCC Minimum Variance,Japan Equity,3.3967091118439296e-18
-2024-10-01,cDCC Minimum Variance,US Equity,0.056934448509659265
+2024-10-01,Shrinkage Minimum Variance,Japan REIT,0.19999999999999996
+2024-10-01,Shrinkage Minimum Variance,Europe REIT,1.7806139386231418e-17
+2024-10-01,Shrinkage Minimum Variance,Crude Oil,0.023450738634038737
+2024-10-01,Shrinkage Minimum Variance,Gold,0.00010947783071157029
+2024-10-01,Shrinkage Minimum Variance,Copper,0.009795559561304758
+2024-10-01,cDCC Minimum Variance,Japan Equity,0.0
+2024-10-01,cDCC Minimum Variance,US Equity,0.056944515300065474
 2024-10-01,cDCC Minimum Variance,Europe Equity,0.0
-2024-10-01,cDCC Minimum Variance,Emerging Equity,0.0
-2024-10-01,cDCC Minimum Variance,Japan Government Bond,0.2
-2024-10-01,cDCC Minimum Variance,US Treasury 7-10Y,0.12149562612046036
+2024-10-01,cDCC Minimum Variance,Emerging Equity,2.3538502523653088e-18
+2024-10-01,cDCC Minimum Variance,Japan Government Bond,0.19999999999999996
+2024-10-01,cDCC Minimum Variance,US Treasury 7-10Y,0.1214784285088392
 2024-10-01,cDCC Minimum Variance,Germany Government Bond,0.2
-2024-10-01,cDCC Minimum Variance,UK Gilt,1.1967020605148353e-17
-2024-10-01,cDCC Minimum Variance,US IG,1.5783117291384646e-17
-2024-10-01,cDCC Minimum Variance,US HY,0.1243437062459661
-2024-10-01,cDCC Minimum Variance,Europe IG,0.144343593960898
-2024-10-01,cDCC Minimum Variance,Europe HY,0.0
-2024-10-01,cDCC Minimum Variance,US REIT,0.01050279401448949
-2024-10-01,cDCC Minimum Variance,Japan REIT,0.1113064365458077
+2024-10-01,cDCC Minimum Variance,UK Gilt,0.0
+2024-10-01,cDCC Minimum Variance,US IG,1.9163100414488433e-17
+2024-10-01,cDCC Minimum Variance,US HY,0.12434737281101758
+2024-10-01,cDCC Minimum Variance,Europe IG,0.14435612703654782
+2024-10-01,cDCC Minimum Variance,Europe HY,2.0656734893043658e-17
+2024-10-01,cDCC Minimum Variance,US REIT,0.010493750163247944
+2024-10-01,cDCC Minimum Variance,Japan REIT,0.11130819936641334
 2024-10-01,cDCC Minimum Variance,Europe REIT,0.0
-2024-10-01,cDCC Minimum Variance,Crude Oil,0.031073394602719042
+2024-10-01,cDCC Minimum Variance,Crude Oil,0.03107160681386855
 2024-10-01,cDCC Minimum Variance,Gold,0.0
-2024-10-01,cDCC Minimum Variance,Copper,1.4777394051168615e-17
+2024-10-01,cDCC Minimum Variance,Copper,0.0
 2025-01-06,Equal Weight,Japan Equity,0.05555555555555555
 2025-01-06,Equal Weight,US Equity,0.05555555555555555
 2025-01-06,Equal Weight,Europe Equity,0.05555555555555555
@@ -917,78 +917,78 @@ date,strategy,asset,weight
 2025-01-06,Equal Weight,Crude Oil,0.05555555555555555
 2025-01-06,Equal Weight,Gold,0.05555555555555555
 2025-01-06,Equal Weight,Copper,0.05555555555555555
-2025-01-06,Shrinkage Risk Parity,Japan Equity,0.05232719342503945
-2025-01-06,Shrinkage Risk Parity,US Equity,0.03404107220971485
-2025-01-06,Shrinkage Risk Parity,Europe Equity,0.03210009027119894
-2025-01-06,Shrinkage Risk Parity,Emerging Equity,0.033126612480854446
-2025-01-06,Shrinkage Risk Parity,Japan Government Bond,0.20000000000000004
-2025-01-06,Shrinkage Risk Parity,US Treasury 7-10Y,0.050885589503630604
-2025-01-06,Shrinkage Risk Parity,Germany Government Bond,0.06134963277972693
-2025-01-06,Shrinkage Risk Parity,UK Gilt,0.05009597947355269
-2025-01-06,Shrinkage Risk Parity,US IG,0.04478549521526346
-2025-01-06,Shrinkage Risk Parity,US HY,0.04479024133627905
-2025-01-06,Shrinkage Risk Parity,Europe IG,0.056035036036998394
-2025-01-06,Shrinkage Risk Parity,Europe HY,0.05134111712679577
-2025-01-06,Shrinkage Risk Parity,US REIT,0.029966234240413947
-2025-01-06,Shrinkage Risk Parity,Japan REIT,0.11791071218964883
-2025-01-06,Shrinkage Risk Parity,Europe REIT,0.0315074400142639
-2025-01-06,Shrinkage Risk Parity,Crude Oil,0.03533487330256272
-2025-01-06,Shrinkage Risk Parity,Gold,0.041118380799765965
-2025-01-06,Shrinkage Risk Parity,Copper,0.03328429959429014
-2025-01-06,cDCC Risk Parity,Japan Equity,0.06607434699604604
-2025-01-06,cDCC Risk Parity,US Equity,0.029186449540140325
-2025-01-06,cDCC Risk Parity,Europe Equity,0.03665956059511041
-2025-01-06,cDCC Risk Parity,Emerging Equity,0.03342690959762042
-2025-01-06,cDCC Risk Parity,Japan Government Bond,0.20000000000000004
-2025-01-06,cDCC Risk Parity,US Treasury 7-10Y,0.04489290680245414
-2025-01-06,cDCC Risk Parity,Germany Government Bond,0.05759541531454876
-2025-01-06,cDCC Risk Parity,UK Gilt,0.05130605952276532
-2025-01-06,cDCC Risk Parity,US IG,0.0401638065616672
-2025-01-06,cDCC Risk Parity,US HY,0.039702998717986965
-2025-01-06,cDCC Risk Parity,Europe IG,0.05595285456254092
-2025-01-06,cDCC Risk Parity,Europe HY,0.05257525229071359
-2025-01-06,cDCC Risk Parity,US REIT,0.025142364266597647
-2025-01-06,cDCC Risk Parity,Japan REIT,0.12740809832804703
-2025-01-06,cDCC Risk Parity,Europe REIT,0.03155781870811274
-2025-01-06,cDCC Risk Parity,Crude Oil,0.03987898213339058
-2025-01-06,cDCC Risk Parity,Gold,0.03254468143207815
-2025-01-06,cDCC Risk Parity,Copper,0.03593149463017983
-2025-01-06,Shrinkage Minimum Variance,Japan Equity,0.03882486395017406
+2025-01-06,Shrinkage Risk Parity,Japan Equity,0.052327287406480905
+2025-01-06,Shrinkage Risk Parity,US Equity,0.03404106922046867
+2025-01-06,Shrinkage Risk Parity,Europe Equity,0.03210008372428125
+2025-01-06,Shrinkage Risk Parity,Emerging Equity,0.03312660654020159
+2025-01-06,Shrinkage Risk Parity,Japan Government Bond,0.19999999999999996
+2025-01-06,Shrinkage Risk Parity,US Treasury 7-10Y,0.05088553091020091
+2025-01-06,Shrinkage Risk Parity,Germany Government Bond,0.06134964303563396
+2025-01-06,Shrinkage Risk Parity,UK Gilt,0.05009597929539081
+2025-01-06,Shrinkage Risk Parity,US IG,0.044785471258258165
+2025-01-06,Shrinkage Risk Parity,US HY,0.04479032232968813
+2025-01-06,Shrinkage Risk Parity,Europe IG,0.05603507329891914
+2025-01-06,Shrinkage Risk Parity,Europe HY,0.051341108723123696
+2025-01-06,Shrinkage Risk Parity,US REIT,0.029966204421188625
+2025-01-06,Shrinkage Risk Parity,Japan REIT,0.11791059192190025
+2025-01-06,Shrinkage Risk Parity,Europe REIT,0.0315074734360614
+2025-01-06,Shrinkage Risk Parity,Crude Oil,0.03533488151664478
+2025-01-06,Shrinkage Risk Parity,Gold,0.041118374676978396
+2025-01-06,Shrinkage Risk Parity,Copper,0.03328429828457919
+2025-01-06,cDCC Risk Parity,Japan Equity,0.06607444735486213
+2025-01-06,cDCC Risk Parity,US Equity,0.02918648736095331
+2025-01-06,cDCC Risk Parity,Europe Equity,0.036659566272832095
+2025-01-06,cDCC Risk Parity,Emerging Equity,0.03342683951707407
+2025-01-06,cDCC Risk Parity,Japan Government Bond,0.2
+2025-01-06,cDCC Risk Parity,US Treasury 7-10Y,0.04489289204112853
+2025-01-06,cDCC Risk Parity,Germany Government Bond,0.05759539093877244
+2025-01-06,cDCC Risk Parity,UK Gilt,0.0513060393327989
+2025-01-06,cDCC Risk Parity,US IG,0.04016402157730193
+2025-01-06,cDCC Risk Parity,US HY,0.03970348820354192
+2025-01-06,cDCC Risk Parity,Europe IG,0.055952920119123443
+2025-01-06,cDCC Risk Parity,Europe HY,0.05257527417945947
+2025-01-06,cDCC Risk Parity,US REIT,0.025142339187103176
+2025-01-06,cDCC Risk Parity,Japan REIT,0.1274075304888806
+2025-01-06,cDCC Risk Parity,Europe REIT,0.03155777467030123
+2025-01-06,cDCC Risk Parity,Crude Oil,0.03987891488014328
+2025-01-06,cDCC Risk Parity,Gold,0.032544629913177345
+2025-01-06,cDCC Risk Parity,Copper,0.035931443962546064
+2025-01-06,Shrinkage Minimum Variance,Japan Equity,0.0388254799323486
 2025-01-06,Shrinkage Minimum Variance,US Equity,0.0
-2025-01-06,Shrinkage Minimum Variance,Europe Equity,1.2790369926216133e-17
-2025-01-06,Shrinkage Minimum Variance,Emerging Equity,1.167906269941849e-17
-2025-01-06,Shrinkage Minimum Variance,Japan Government Bond,0.19999999999999996
-2025-01-06,Shrinkage Minimum Variance,US Treasury 7-10Y,0.09816168289472713
-2025-01-06,Shrinkage Minimum Variance,Germany Government Bond,0.1232484037370151
-2025-01-06,Shrinkage Minimum Variance,UK Gilt,2.25703858200764e-17
-2025-01-06,Shrinkage Minimum Variance,US IG,3.791491894586449e-18
-2025-01-06,Shrinkage Minimum Variance,US HY,0.1328991046136552
-2025-01-06,Shrinkage Minimum Variance,Europe IG,0.10442423859937662
-2025-01-06,Shrinkage Minimum Variance,Europe HY,0.06867158511365076
-2025-01-06,Shrinkage Minimum Variance,US REIT,7.49942151219428e-18
-2025-01-06,Shrinkage Minimum Variance,Japan REIT,0.19999999999999993
+2025-01-06,Shrinkage Minimum Variance,Europe Equity,4.9289943396278036e-17
+2025-01-06,Shrinkage Minimum Variance,Emerging Equity,4.575564511158233e-19
+2025-01-06,Shrinkage Minimum Variance,Japan Government Bond,0.20000000000000004
+2025-01-06,Shrinkage Minimum Variance,US Treasury 7-10Y,0.09815926189395976
+2025-01-06,Shrinkage Minimum Variance,Germany Government Bond,0.12324892761279424
+2025-01-06,Shrinkage Minimum Variance,UK Gilt,1.2698120074892259e-17
+2025-01-06,Shrinkage Minimum Variance,US IG,2.574382289308859e-18
+2025-01-06,Shrinkage Minimum Variance,US HY,0.13290162889012258
+2025-01-06,Shrinkage Minimum Variance,Europe IG,0.10442441791838568
+2025-01-06,Shrinkage Minimum Variance,Europe HY,0.06867034949183935
+2025-01-06,Shrinkage Minimum Variance,US REIT,1.3953124267308729e-18
+2025-01-06,Shrinkage Minimum Variance,Japan REIT,0.20000000000000004
 2025-01-06,Shrinkage Minimum Variance,Europe REIT,0.0
-2025-01-06,Shrinkage Minimum Variance,Crude Oil,0.023190199893874157
-2025-01-06,Shrinkage Minimum Variance,Gold,0.0
-2025-01-06,Shrinkage Minimum Variance,Copper,0.010579921197526957
-2025-01-06,cDCC Minimum Variance,Japan Equity,0.0993522195413872
-2025-01-06,cDCC Minimum Variance,US Equity,0.0
-2025-01-06,cDCC Minimum Variance,Europe Equity,0.05945647262269802
-2025-01-06,cDCC Minimum Variance,Emerging Equity,0.0
-2025-01-06,cDCC Minimum Variance,Japan Government Bond,0.2
-2025-01-06,cDCC Minimum Variance,US Treasury 7-10Y,0.09311787587749408
-2025-01-06,cDCC Minimum Variance,Germany Government Bond,0.08554467525919526
-2025-01-06,cDCC Minimum Variance,UK Gilt,0.0
-2025-01-06,cDCC Minimum Variance,US IG,6.395212962878646e-19
-2025-01-06,cDCC Minimum Variance,US HY,0.0
+2025-01-06,Shrinkage Minimum Variance,Crude Oil,0.02318991832524102
+2025-01-06,Shrinkage Minimum Variance,Gold,1.1004652050727872e-17
+2025-01-06,Shrinkage Minimum Variance,Copper,0.010580015935308688
+2025-01-06,cDCC Minimum Variance,Japan Equity,0.09935425720637545
+2025-01-06,cDCC Minimum Variance,US Equity,1.3325703680981623e-18
+2025-01-06,cDCC Minimum Variance,Europe Equity,0.05944307951806642
+2025-01-06,cDCC Minimum Variance,Emerging Equity,1.1652819797444558e-17
+2025-01-06,cDCC Minimum Variance,Japan Government Bond,0.19999999999999998
+2025-01-06,cDCC Minimum Variance,US Treasury 7-10Y,0.09312427898927286
+2025-01-06,cDCC Minimum Variance,Germany Government Bond,0.08554670489585521
+2025-01-06,cDCC Minimum Variance,UK Gilt,4.472098605825244e-17
+2025-01-06,cDCC Minimum Variance,US IG,2.3328321942397834e-17
+2025-01-06,cDCC Minimum Variance,US HY,7.728211075521618e-18
 2025-01-06,cDCC Minimum Variance,Europe IG,0.2
-2025-01-06,cDCC Minimum Variance,Europe HY,0.01562081414596516
+2025-01-06,cDCC Minimum Variance,Europe HY,0.015616627370578548
 2025-01-06,cDCC Minimum Variance,US REIT,0.0
 2025-01-06,cDCC Minimum Variance,Japan REIT,0.2
-2025-01-06,cDCC Minimum Variance,Europe REIT,1.1423944780729618e-17
-2025-01-06,cDCC Minimum Variance,Crude Oil,0.030354638893380862
-2025-01-06,cDCC Minimum Variance,Gold,2.3954091748351614e-18
-2025-01-06,cDCC Minimum Variance,Copper,0.016553303659879313
+2025-01-06,cDCC Minimum Variance,Europe REIT,4.348007660323472e-18
+2025-01-06,cDCC Minimum Variance,Crude Oil,0.030353467636794407
+2025-01-06,cDCC Minimum Variance,Gold,9.825582188149884e-19
+2025-01-06,cDCC Minimum Variance,Copper,0.01656158438305707
 2025-04-01,Equal Weight,Japan Equity,0.05555555555555555
 2025-04-01,Equal Weight,US Equity,0.05555555555555555
 2025-04-01,Equal Weight,Europe Equity,0.05555555555555555
@@ -1007,78 +1007,78 @@ date,strategy,asset,weight
 2025-04-01,Equal Weight,Crude Oil,0.05555555555555555
 2025-04-01,Equal Weight,Gold,0.05555555555555555
 2025-04-01,Equal Weight,Copper,0.05555555555555555
-2025-04-01,Shrinkage Risk Parity,Japan Equity,0.05354730515865896
-2025-04-01,Shrinkage Risk Parity,US Equity,0.033600586392245585
-2025-04-01,Shrinkage Risk Parity,Europe Equity,0.0317409645283862
-2025-04-01,Shrinkage Risk Parity,Emerging Equity,0.03311861063673365
-2025-04-01,Shrinkage Risk Parity,Japan Government Bond,0.19999999999999996
-2025-04-01,Shrinkage Risk Parity,US Treasury 7-10Y,0.0500735940670648
-2025-04-01,Shrinkage Risk Parity,Germany Government Bond,0.061134479466545516
-2025-04-01,Shrinkage Risk Parity,UK Gilt,0.050156782851508375
-2025-04-01,Shrinkage Risk Parity,US IG,0.04424335697495663
-2025-04-01,Shrinkage Risk Parity,US HY,0.04434753196731831
-2025-04-01,Shrinkage Risk Parity,Europe IG,0.05564197587155657
-2025-04-01,Shrinkage Risk Parity,Europe HY,0.05091138180809383
-2025-04-01,Shrinkage Risk Parity,US REIT,0.030138935045476434
-2025-04-01,Shrinkage Risk Parity,Japan REIT,0.11839003057915802
-2025-04-01,Shrinkage Risk Parity,Europe REIT,0.032026854555291986
-2025-04-01,Shrinkage Risk Parity,Crude Oil,0.036796198367231796
-2025-04-01,Shrinkage Risk Parity,Gold,0.04087297883033199
-2025-04-01,Shrinkage Risk Parity,Copper,0.033258432899441207
-2025-04-01,cDCC Risk Parity,Japan Equity,0.03869178015845248
-2025-04-01,cDCC Risk Parity,US Equity,0.0318662657406857
-2025-04-01,cDCC Risk Parity,Europe Equity,0.031308678219356414
-2025-04-01,cDCC Risk Parity,Emerging Equity,0.037358638371731395
-2025-04-01,cDCC Risk Parity,Japan Government Bond,0.19999999999999993
-2025-04-01,cDCC Risk Parity,US Treasury 7-10Y,0.056340006940125004
-2025-04-01,cDCC Risk Parity,Germany Government Bond,0.05727350028046808
-2025-04-01,cDCC Risk Parity,UK Gilt,0.053592296002269606
-2025-04-01,cDCC Risk Parity,US IG,0.05051732943565305
-2025-04-01,cDCC Risk Parity,US HY,0.052028858838174784
-2025-04-01,cDCC Risk Parity,Europe IG,0.06066573057370498
-2025-04-01,cDCC Risk Parity,Europe HY,0.0541619218146701
-2025-04-01,cDCC Risk Parity,US REIT,0.035808087308101956
-2025-04-01,cDCC Risk Parity,Japan REIT,0.0661623297527015
-2025-04-01,cDCC Risk Parity,Europe REIT,0.04169779613114801
-2025-04-01,cDCC Risk Parity,Crude Oil,0.05519236218262303
-2025-04-01,cDCC Risk Parity,Gold,0.04621310733813711
-2025-04-01,cDCC Risk Parity,Copper,0.031121310911996953
-2025-04-01,Shrinkage Minimum Variance,Japan Equity,0.04571596836997235
-2025-04-01,Shrinkage Minimum Variance,US Equity,3.342909787669874e-17
-2025-04-01,Shrinkage Minimum Variance,Europe Equity,6.010756033357287e-17
-2025-04-01,Shrinkage Minimum Variance,Emerging Equity,0.0
-2025-04-01,Shrinkage Minimum Variance,Japan Government Bond,0.2
-2025-04-01,Shrinkage Minimum Variance,US Treasury 7-10Y,0.0953916375442891
-2025-04-01,Shrinkage Minimum Variance,Germany Government Bond,0.13179229702821085
+2025-04-01,Shrinkage Risk Parity,Japan Equity,0.05354741243463455
+2025-04-01,Shrinkage Risk Parity,US Equity,0.033600587740460715
+2025-04-01,Shrinkage Risk Parity,Europe Equity,0.03174096445257809
+2025-04-01,Shrinkage Risk Parity,Emerging Equity,0.03311860472982234
+2025-04-01,Shrinkage Risk Parity,Japan Government Bond,0.20000000000000004
+2025-04-01,Shrinkage Risk Parity,US Treasury 7-10Y,0.0500735289261271
+2025-04-01,Shrinkage Risk Parity,Germany Government Bond,0.06113449313960032
+2025-04-01,Shrinkage Risk Parity,UK Gilt,0.05015679049303515
+2025-04-01,Shrinkage Risk Parity,US IG,0.044243328082444036
+2025-04-01,Shrinkage Risk Parity,US HY,0.044347590428656956
+2025-04-01,Shrinkage Risk Parity,Europe IG,0.055642028694651464
+2025-04-01,Shrinkage Risk Parity,Europe HY,0.0509113759466905
+2025-04-01,Shrinkage Risk Parity,US REIT,0.030138911005905447
+2025-04-01,Shrinkage Risk Parity,Japan REIT,0.11838986393573724
+2025-04-01,Shrinkage Risk Parity,Europe REIT,0.03202689132009655
+2025-04-01,Shrinkage Risk Parity,Crude Oil,0.03679620911800548
+2025-04-01,Shrinkage Risk Parity,Gold,0.04087298320621175
+2025-04-01,Shrinkage Risk Parity,Copper,0.0332584363453424
+2025-04-01,cDCC Risk Parity,Japan Equity,0.038691770294625054
+2025-04-01,cDCC Risk Parity,US Equity,0.031866438639949084
+2025-04-01,cDCC Risk Parity,Europe Equity,0.031308634744060544
+2025-04-01,cDCC Risk Parity,Emerging Equity,0.037358539026456694
+2025-04-01,cDCC Risk Parity,Japan Government Bond,0.19999999999999998
+2025-04-01,cDCC Risk Parity,US Treasury 7-10Y,0.05633987854559602
+2025-04-01,cDCC Risk Parity,Germany Government Bond,0.05727346583539379
+2025-04-01,cDCC Risk Parity,UK Gilt,0.05359214426678552
+2025-04-01,cDCC Risk Parity,US IG,0.05051740652640724
+2025-04-01,cDCC Risk Parity,US HY,0.05202886022380063
+2025-04-01,cDCC Risk Parity,Europe IG,0.06066583333456912
+2025-04-01,cDCC Risk Parity,Europe HY,0.054161800753551086
+2025-04-01,cDCC Risk Parity,US REIT,0.03580795118350602
+2025-04-01,cDCC Risk Parity,Japan REIT,0.06616269029535231
+2025-04-01,cDCC Risk Parity,Europe REIT,0.04169788159959496
+2025-04-01,cDCC Risk Parity,Crude Oil,0.055192346701767064
+2025-04-01,cDCC Risk Parity,Gold,0.04621307381834352
+2025-04-01,cDCC Risk Parity,Copper,0.03112128421024135
+2025-04-01,Shrinkage Minimum Variance,Japan Equity,0.04553463021970569
+2025-04-01,Shrinkage Minimum Variance,US Equity,9.823548594978328e-18
+2025-04-01,Shrinkage Minimum Variance,Europe Equity,1.2488715076848551e-17
+2025-04-01,Shrinkage Minimum Variance,Emerging Equity,1.6527368169357057e-17
+2025-04-01,Shrinkage Minimum Variance,Japan Government Bond,0.20000000000000004
+2025-04-01,Shrinkage Minimum Variance,US Treasury 7-10Y,0.07463487172363556
+2025-04-01,Shrinkage Minimum Variance,Germany Government Bond,0.1502744609321149
 2025-04-01,Shrinkage Minimum Variance,UK Gilt,0.0
 2025-04-01,Shrinkage Minimum Variance,US IG,0.0
-2025-04-01,Shrinkage Minimum Variance,US HY,0.12625012350112802
-2025-04-01,Shrinkage Minimum Variance,Europe IG,0.09797679234597162
-2025-04-01,Shrinkage Minimum Variance,Europe HY,0.0640284807838752
-2025-04-01,Shrinkage Minimum Variance,US REIT,1.927624930956093e-18
-2025-04-01,Shrinkage Minimum Variance,Japan REIT,0.2
+2025-04-01,Shrinkage Minimum Variance,US HY,0.13854230977284668
+2025-04-01,Shrinkage Minimum Variance,Europe IG,0.10627972778715632
+2025-04-01,Shrinkage Minimum Variance,Europe HY,0.04193036094938614
+2025-04-01,Shrinkage Minimum Variance,US REIT,0.0
+2025-04-01,Shrinkage Minimum Variance,Japan REIT,0.20000000000000004
 2025-04-01,Shrinkage Minimum Variance,Europe REIT,0.0
-2025-04-01,Shrinkage Minimum Variance,Crude Oil,0.025040378854372478
-2025-04-01,Shrinkage Minimum Variance,Gold,0.006364598281205532
-2025-04-01,Shrinkage Minimum Variance,Copper,0.007439723290974862
+2025-04-01,Shrinkage Minimum Variance,Crude Oil,0.02536536234545599
+2025-04-01,Shrinkage Minimum Variance,Gold,0.00899683042013836
+2025-04-01,Shrinkage Minimum Variance,Copper,0.008441445849560456
 2025-04-01,cDCC Minimum Variance,Japan Equity,0.0
-2025-04-01,cDCC Minimum Variance,US Equity,3.687110007872746e-18
-2025-04-01,cDCC Minimum Variance,Europe Equity,2.662360679927561e-17
+2025-04-01,cDCC Minimum Variance,US Equity,1.1841122301376454e-19
+2025-04-01,cDCC Minimum Variance,Europe Equity,3.0456408880771314e-17
 2025-04-01,cDCC Minimum Variance,Emerging Equity,0.0
 2025-04-01,cDCC Minimum Variance,Japan Government Bond,0.2
-2025-04-01,cDCC Minimum Variance,US Treasury 7-10Y,0.12748326062735305
-2025-04-01,cDCC Minimum Variance,Germany Government Bond,0.011271540755337641
+2025-04-01,cDCC Minimum Variance,US Treasury 7-10Y,0.1274797756134426
+2025-04-01,cDCC Minimum Variance,Germany Government Bond,0.01127282419897505
 2025-04-01,cDCC Minimum Variance,UK Gilt,0.0
 2025-04-01,cDCC Minimum Variance,US IG,0.0
-2025-04-01,cDCC Minimum Variance,US HY,0.19776401505774635
-2025-04-01,cDCC Minimum Variance,Europe IG,0.19999999999999998
-2025-04-01,cDCC Minimum Variance,Europe HY,0.09237047192793665
+2025-04-01,cDCC Minimum Variance,US HY,0.19776709543039303
+2025-04-01,cDCC Minimum Variance,Europe IG,0.2
+2025-04-01,cDCC Minimum Variance,Europe HY,0.0923680296727599
 2025-04-01,cDCC Minimum Variance,US REIT,0.0
-2025-04-01,cDCC Minimum Variance,Japan REIT,0.10476560161867857
+2025-04-01,cDCC Minimum Variance,Japan REIT,0.10476726600394717
 2025-04-01,cDCC Minimum Variance,Europe REIT,0.0
-2025-04-01,cDCC Minimum Variance,Crude Oil,0.06634511001294771
-2025-04-01,cDCC Minimum Variance,Gold,7.123677045384569e-18
-2025-04-01,cDCC Minimum Variance,Copper,2.4814884323408535e-18
+2025-04-01,cDCC Minimum Variance,Crude Oil,0.06634500908048228
+2025-04-01,cDCC Minimum Variance,Gold,0.0
+2025-04-01,cDCC Minimum Variance,Copper,0.0
 2025-07-01,Equal Weight,Japan Equity,0.05555555555555555
 2025-07-01,Equal Weight,US Equity,0.05555555555555555
 2025-07-01,Equal Weight,Europe Equity,0.05555555555555555
@@ -1097,78 +1097,78 @@ date,strategy,asset,weight
 2025-07-01,Equal Weight,Crude Oil,0.05555555555555555
 2025-07-01,Equal Weight,Gold,0.05555555555555555
 2025-07-01,Equal Weight,Copper,0.05555555555555555
-2025-07-01,Shrinkage Risk Parity,Japan Equity,0.051453057751609556
-2025-07-01,Shrinkage Risk Parity,US Equity,0.033286101953744485
-2025-07-01,Shrinkage Risk Parity,Europe Equity,0.030865854993205342
-2025-07-01,Shrinkage Risk Parity,Emerging Equity,0.03259024788876331
-2025-07-01,Shrinkage Risk Parity,Japan Government Bond,0.19999999999999998
-2025-07-01,Shrinkage Risk Parity,US Treasury 7-10Y,0.04949059375547193
-2025-07-01,Shrinkage Risk Parity,Germany Government Bond,0.06368638508120489
-2025-07-01,Shrinkage Risk Parity,UK Gilt,0.05092678126542348
-2025-07-01,Shrinkage Risk Parity,US IG,0.04411298820773878
-2025-07-01,Shrinkage Risk Parity,US HY,0.04370790424266679
-2025-07-01,Shrinkage Risk Parity,Europe IG,0.05607308991474684
-2025-07-01,Shrinkage Risk Parity,Europe HY,0.05068747459594271
-2025-07-01,Shrinkage Risk Parity,US REIT,0.029767465013613836
-2025-07-01,Shrinkage Risk Parity,Japan REIT,0.12428703693710286
-2025-07-01,Shrinkage Risk Parity,Europe REIT,0.032732794499532904
-2025-07-01,Shrinkage Risk Parity,Crude Oil,0.035728887723721674
-2025-07-01,Shrinkage Risk Parity,Gold,0.03888517509953963
-2025-07-01,Shrinkage Risk Parity,Copper,0.031718161075971134
-2025-07-01,cDCC Risk Parity,Japan Equity,0.058164724652330024
-2025-07-01,cDCC Risk Parity,US Equity,0.03738834997870993
-2025-07-01,cDCC Risk Parity,Europe Equity,0.030292921976281927
-2025-07-01,cDCC Risk Parity,Emerging Equity,0.028502425067251667
-2025-07-01,cDCC Risk Parity,Japan Government Bond,0.19999999999999998
-2025-07-01,cDCC Risk Parity,US Treasury 7-10Y,0.04849980003477006
-2025-07-01,cDCC Risk Parity,Germany Government Bond,0.06770846378582628
-2025-07-01,cDCC Risk Parity,UK Gilt,0.05420331310211816
-2025-07-01,cDCC Risk Parity,US IG,0.04041475180221267
-2025-07-01,cDCC Risk Parity,US HY,0.041870612918856194
-2025-07-01,cDCC Risk Parity,Europe IG,0.05858005642153341
-2025-07-01,cDCC Risk Parity,Europe HY,0.05542898642670099
-2025-07-01,cDCC Risk Parity,US REIT,0.027510401935075528
-2025-07-01,cDCC Risk Parity,Japan REIT,0.12477873729510286
-2025-07-01,cDCC Risk Parity,Europe REIT,0.03313604906373543
-2025-07-01,cDCC Risk Parity,Crude Oil,0.029576922215833763
-2025-07-01,cDCC Risk Parity,Gold,0.03377030821355028
-2025-07-01,cDCC Risk Parity,Copper,0.03017317511011084
-2025-07-01,Shrinkage Minimum Variance,Japan Equity,0.0421972444354564
-2025-07-01,Shrinkage Minimum Variance,US Equity,0.0
-2025-07-01,Shrinkage Minimum Variance,Europe Equity,0.0
-2025-07-01,Shrinkage Minimum Variance,Emerging Equity,4.028430951192063e-17
-2025-07-01,Shrinkage Minimum Variance,Japan Government Bond,0.19999999999999996
-2025-07-01,Shrinkage Minimum Variance,US Treasury 7-10Y,0.04213236914140647
-2025-07-01,Shrinkage Minimum Variance,Germany Government Bond,0.19786405839854115
+2025-07-01,Shrinkage Risk Parity,Japan Equity,0.051453152796608975
+2025-07-01,Shrinkage Risk Parity,US Equity,0.03328612675519153
+2025-07-01,Shrinkage Risk Parity,Europe Equity,0.030865871893308347
+2025-07-01,Shrinkage Risk Parity,Emerging Equity,0.03259024545790302
+2025-07-01,Shrinkage Risk Parity,Japan Government Bond,0.20000000000000004
+2025-07-01,Shrinkage Risk Parity,US Treasury 7-10Y,0.04949057236515792
+2025-07-01,Shrinkage Risk Parity,Germany Government Bond,0.06368640234791972
+2025-07-01,Shrinkage Risk Parity,UK Gilt,0.05092675967134583
+2025-07-01,Shrinkage Risk Parity,US IG,0.04411294376748851
+2025-07-01,Shrinkage Risk Parity,US HY,0.04370794114138853
+2025-07-01,Shrinkage Risk Parity,Europe IG,0.056073132397201284
+2025-07-01,Shrinkage Risk Parity,Europe HY,0.050687502038568304
+2025-07-01,Shrinkage Risk Parity,US REIT,0.02976744287148028
+2025-07-01,Shrinkage Risk Parity,Japan REIT,0.12428684521550616
+2025-07-01,Shrinkage Risk Parity,Europe REIT,0.03273282327606991
+2025-07-01,Shrinkage Risk Parity,Crude Oil,0.035728897834018565
+2025-07-01,Shrinkage Risk Parity,Gold,0.03888517750101354
+2025-07-01,Shrinkage Risk Parity,Copper,0.03171816266982958
+2025-07-01,cDCC Risk Parity,Japan Equity,0.05816486479730276
+2025-07-01,cDCC Risk Parity,US Equity,0.03738847086205056
+2025-07-01,cDCC Risk Parity,Europe Equity,0.030292924587963323
+2025-07-01,cDCC Risk Parity,Emerging Equity,0.028503064700467217
+2025-07-01,cDCC Risk Parity,Japan Government Bond,0.2
+2025-07-01,cDCC Risk Parity,US Treasury 7-10Y,0.04849964907855535
+2025-07-01,cDCC Risk Parity,Germany Government Bond,0.06770859583113145
+2025-07-01,cDCC Risk Parity,UK Gilt,0.054203432893336755
+2025-07-01,cDCC Risk Parity,US IG,0.04041448241884878
+2025-07-01,cDCC Risk Parity,US HY,0.041870125643888985
+2025-07-01,cDCC Risk Parity,Europe IG,0.058580041203985744
+2025-07-01,cDCC Risk Parity,Europe HY,0.05542887263094414
+2025-07-01,cDCC Risk Parity,US REIT,0.0275103997187083
+2025-07-01,cDCC Risk Parity,Japan REIT,0.12477860663096499
+2025-07-01,cDCC Risk Parity,Europe REIT,0.03313607213300873
+2025-07-01,cDCC Risk Parity,Crude Oil,0.02957690939576661
+2025-07-01,cDCC Risk Parity,Gold,0.03377031250519553
+2025-07-01,cDCC Risk Parity,Copper,0.030173174967880818
+2025-07-01,Shrinkage Minimum Variance,Japan Equity,0.042195104019326586
+2025-07-01,Shrinkage Minimum Variance,US Equity,5.277694358789216e-18
+2025-07-01,Shrinkage Minimum Variance,Europe Equity,1.3554932577300371e-17
+2025-07-01,Shrinkage Minimum Variance,Emerging Equity,2.1754798298416656e-17
+2025-07-01,Shrinkage Minimum Variance,Japan Government Bond,0.2
+2025-07-01,Shrinkage Minimum Variance,US Treasury 7-10Y,0.042142312301481695
+2025-07-01,Shrinkage Minimum Variance,Germany Government Bond,0.19785883042083424
 2025-07-01,Shrinkage Minimum Variance,UK Gilt,0.0
-2025-07-01,Shrinkage Minimum Variance,US IG,0.0
-2025-07-01,Shrinkage Minimum Variance,US HY,0.15475350942300897
-2025-07-01,Shrinkage Minimum Variance,Europe IG,0.1224641454927378
-2025-07-01,Shrinkage Minimum Variance,Europe HY,6.503037706595501e-17
-2025-07-01,Shrinkage Minimum Variance,US REIT,2.492033297641646e-17
-2025-07-01,Shrinkage Minimum Variance,Japan REIT,0.19999999999999996
-2025-07-01,Shrinkage Minimum Variance,Europe REIT,0.0
-2025-07-01,Shrinkage Minimum Variance,Crude Oil,0.029462078816018308
-2025-07-01,Shrinkage Minimum Variance,Gold,0.0
-2025-07-01,Shrinkage Minimum Variance,Copper,0.01112659429283075
-2025-07-01,cDCC Minimum Variance,Japan Equity,0.060769574112270804
-2025-07-01,cDCC Minimum Variance,US Equity,0.03117497180108912
+2025-07-01,Shrinkage Minimum Variance,US IG,1.0781746707989792e-17
+2025-07-01,Shrinkage Minimum Variance,US HY,0.15475522989409152
+2025-07-01,Shrinkage Minimum Variance,Europe IG,0.12246151780903856
+2025-07-01,Shrinkage Minimum Variance,Europe HY,4.6376056162561945e-17
+2025-07-01,Shrinkage Minimum Variance,US REIT,8.79688827132037e-18
+2025-07-01,Shrinkage Minimum Variance,Japan REIT,0.2
+2025-07-01,Shrinkage Minimum Variance,Europe REIT,1.742052764269455e-18
+2025-07-01,Shrinkage Minimum Variance,Crude Oil,0.02946162692951971
+2025-07-01,Shrinkage Minimum Variance,Gold,7.755857181534001e-18
+2025-07-01,Shrinkage Minimum Variance,Copper,0.011125378625707685
+2025-07-01,cDCC Minimum Variance,Japan Equity,0.06078848428958371
+2025-07-01,cDCC Minimum Variance,US Equity,0.03121483634458879
 2025-07-01,cDCC Minimum Variance,Europe Equity,0.0
-2025-07-01,cDCC Minimum Variance,Emerging Equity,1.0675476433105268e-17
+2025-07-01,cDCC Minimum Variance,Emerging Equity,6.5369968990115544e-18
 2025-07-01,cDCC Minimum Variance,Japan Government Bond,0.2
-2025-07-01,cDCC Minimum Variance,US Treasury 7-10Y,0.08145884006560467
+2025-07-01,cDCC Minimum Variance,US Treasury 7-10Y,0.08146041261222668
 2025-07-01,cDCC Minimum Variance,Germany Government Bond,0.2
-2025-07-01,cDCC Minimum Variance,UK Gilt,1.2339466746127197e-17
-2025-07-01,cDCC Minimum Variance,US IG,1.0606641771251056e-17
-2025-07-01,cDCC Minimum Variance,US HY,0.03929671968890938
-2025-07-01,cDCC Minimum Variance,Europe IG,0.08908619387250877
-2025-07-01,cDCC Minimum Variance,Europe HY,0.0762509164712161
-2025-07-01,cDCC Minimum Variance,US REIT,0.0
+2025-07-01,cDCC Minimum Variance,UK Gilt,2.6421051254002583e-18
+2025-07-01,cDCC Minimum Variance,US IG,5.400639516658604e-18
+2025-07-01,cDCC Minimum Variance,US HY,0.03928298124023502
+2025-07-01,cDCC Minimum Variance,Europe IG,0.08906146688031893
+2025-07-01,cDCC Minimum Variance,Europe HY,0.07622729267358536
+2025-07-01,cDCC Minimum Variance,US REIT,3.0622253900892134e-19
 2025-07-01,cDCC Minimum Variance,Japan REIT,0.2
-2025-07-01,cDCC Minimum Variance,Europe REIT,1.950806171400216e-18
-2025-07-01,cDCC Minimum Variance,Crude Oil,0.014469039126625635
-2025-07-01,cDCC Minimum Variance,Gold,1.089733032933279e-17
-2025-07-01,cDCC Minimum Variance,Copper,0.0074937448617755165
+2025-07-01,cDCC Minimum Variance,Europe REIT,7.365160839290237e-18
+2025-07-01,cDCC Minimum Variance,Crude Oil,0.01446873305345342
+2025-07-01,cDCC Minimum Variance,Gold,0.0
+2025-07-01,cDCC Minimum Variance,Copper,0.007495792906008074
 2025-10-01,Equal Weight,Japan Equity,0.05555555555555555
 2025-10-01,Equal Weight,US Equity,0.05555555555555555
 2025-10-01,Equal Weight,Europe Equity,0.05555555555555555
@@ -1187,78 +1187,78 @@ date,strategy,asset,weight
 2025-10-01,Equal Weight,Crude Oil,0.05555555555555555
 2025-10-01,Equal Weight,Gold,0.05555555555555555
 2025-10-01,Equal Weight,Copper,0.05555555555555555
-2025-10-01,Shrinkage Risk Parity,Japan Equity,0.05131040477220487
-2025-10-01,Shrinkage Risk Parity,US Equity,0.034405992503277416
-2025-10-01,Shrinkage Risk Parity,Europe Equity,0.03135917788492644
-2025-10-01,Shrinkage Risk Parity,Emerging Equity,0.03258341148218039
-2025-10-01,Shrinkage Risk Parity,Japan Government Bond,0.19999999999999993
-2025-10-01,Shrinkage Risk Parity,US Treasury 7-10Y,0.0481563247030392
-2025-10-01,Shrinkage Risk Parity,Germany Government Bond,0.0639597458171052
-2025-10-01,Shrinkage Risk Parity,UK Gilt,0.05106976250143496
-2025-10-01,Shrinkage Risk Parity,US IG,0.04334779007574327
-2025-10-01,Shrinkage Risk Parity,US HY,0.04383293452656511
-2025-10-01,Shrinkage Risk Parity,Europe IG,0.05735011835879979
-2025-10-01,Shrinkage Risk Parity,Europe HY,0.0519709238430601
-2025-10-01,Shrinkage Risk Parity,US REIT,0.03041394397782198
-2025-10-01,Shrinkage Risk Parity,Japan REIT,0.12125497289178604
-2025-10-01,Shrinkage Risk Parity,Europe REIT,0.033923993775497624
-2025-10-01,Shrinkage Risk Parity,Crude Oil,0.0372815587378074
-2025-10-01,Shrinkage Risk Parity,Gold,0.037812363118059494
-2025-10-01,Shrinkage Risk Parity,Copper,0.029966581030690668
-2025-10-01,cDCC Risk Parity,Japan Equity,0.057907708740924574
-2025-10-01,cDCC Risk Parity,US Equity,0.04018700605004235
-2025-10-01,cDCC Risk Parity,Europe Equity,0.032125688596840056
-2025-10-01,cDCC Risk Parity,Emerging Equity,0.036223371090786716
-2025-10-01,cDCC Risk Parity,Japan Government Bond,0.1999999999999999
-2025-10-01,cDCC Risk Parity,US Treasury 7-10Y,0.04090207199361535
-2025-10-01,cDCC Risk Parity,Germany Government Bond,0.058511749774713274
-2025-10-01,cDCC Risk Parity,UK Gilt,0.05110472289318689
-2025-10-01,cDCC Risk Parity,US IG,0.039061821437458205
-2025-10-01,cDCC Risk Parity,US HY,0.04451513012653072
-2025-10-01,cDCC Risk Parity,Europe IG,0.07141063412942093
-2025-10-01,cDCC Risk Parity,Europe HY,0.06489503345949797
-2025-10-01,cDCC Risk Parity,US REIT,0.02883314062737934
-2025-10-01,cDCC Risk Parity,Japan REIT,0.09913513399342237
-2025-10-01,cDCC Risk Parity,Europe REIT,0.04364770683794701
-2025-10-01,cDCC Risk Parity,Crude Oil,0.03355006652519411
-2025-10-01,cDCC Risk Parity,Gold,0.03156807479854773
-2025-10-01,cDCC Risk Parity,Copper,0.026420938924492363
-2025-10-01,Shrinkage Minimum Variance,Japan Equity,0.03656312411683658
-2025-10-01,Shrinkage Minimum Variance,US Equity,2.0759185784059016e-17
-2025-10-01,Shrinkage Minimum Variance,Europe Equity,0.0
-2025-10-01,Shrinkage Minimum Variance,Emerging Equity,0.0
+2025-10-01,Shrinkage Risk Parity,Japan Equity,0.05131048581928885
+2025-10-01,Shrinkage Risk Parity,US Equity,0.03440600234065466
+2025-10-01,Shrinkage Risk Parity,Europe Equity,0.031359184851254086
+2025-10-01,Shrinkage Risk Parity,Emerging Equity,0.03258340747693986
+2025-10-01,Shrinkage Risk Parity,Japan Government Bond,0.2
+2025-10-01,Shrinkage Risk Parity,US Treasury 7-10Y,0.04815630808457631
+2025-10-01,Shrinkage Risk Parity,Germany Government Bond,0.06395977646396055
+2025-10-01,Shrinkage Risk Parity,UK Gilt,0.0510697617083846
+2025-10-01,Shrinkage Risk Parity,US IG,0.04334777131958358
+2025-10-01,Shrinkage Risk Parity,US HY,0.04383295444477446
+2025-10-01,Shrinkage Risk Parity,Europe IG,0.05735014539640206
+2025-10-01,Shrinkage Risk Parity,Europe HY,0.05197095949042043
+2025-10-01,Shrinkage Risk Parity,US REIT,0.030413906887460332
+2025-10-01,Shrinkage Risk Parity,Japan REIT,0.12125480297311536
+2025-10-01,Shrinkage Risk Parity,Europe REIT,0.03392402213050366
+2025-10-01,Shrinkage Risk Parity,Crude Oil,0.03728156515092635
+2025-10-01,Shrinkage Risk Parity,Gold,0.03781236232863902
+2025-10-01,Shrinkage Risk Parity,Copper,0.02996658313311581
+2025-10-01,cDCC Risk Parity,Japan Equity,0.05790773606838712
+2025-10-01,cDCC Risk Parity,US Equity,0.04018685043457309
+2025-10-01,cDCC Risk Parity,Europe Equity,0.032125774270624186
+2025-10-01,cDCC Risk Parity,Emerging Equity,0.03622336475081107
+2025-10-01,cDCC Risk Parity,Japan Government Bond,0.19999999999999996
+2025-10-01,cDCC Risk Parity,US Treasury 7-10Y,0.0409018343731171
+2025-10-01,cDCC Risk Parity,Germany Government Bond,0.05851164869373939
+2025-10-01,cDCC Risk Parity,UK Gilt,0.05110456625136869
+2025-10-01,cDCC Risk Parity,US IG,0.039061848386185656
+2025-10-01,cDCC Risk Parity,US HY,0.044515221084893745
+2025-10-01,cDCC Risk Parity,Europe IG,0.0714116661961981
+2025-10-01,cDCC Risk Parity,Europe HY,0.06489504816178349
+2025-10-01,cDCC Risk Parity,US REIT,0.02883303482629461
+2025-10-01,cDCC Risk Parity,Japan REIT,0.09913488139981592
+2025-10-01,cDCC Risk Parity,Europe REIT,0.04364759201291029
+2025-10-01,cDCC Risk Parity,Crude Oil,0.03355001655094251
+2025-10-01,cDCC Risk Parity,Gold,0.03156799695615937
+2025-10-01,cDCC Risk Parity,Copper,0.02642091958219564
+2025-10-01,Shrinkage Minimum Variance,Japan Equity,0.036563462202079726
+2025-10-01,Shrinkage Minimum Variance,US Equity,0.0
+2025-10-01,Shrinkage Minimum Variance,Europe Equity,2.6776117342408733e-17
+2025-10-01,Shrinkage Minimum Variance,Emerging Equity,1.0500289152447213e-17
 2025-10-01,Shrinkage Minimum Variance,Japan Government Bond,0.19999999999999998
-2025-10-01,Shrinkage Minimum Variance,US Treasury 7-10Y,0.023774351436358705
-2025-10-01,Shrinkage Minimum Variance,Germany Government Bond,0.19567936341606249
-2025-10-01,Shrinkage Minimum Variance,UK Gilt,7.04551060977508e-18
-2025-10-01,Shrinkage Minimum Variance,US IG,1.915130549193354e-17
-2025-10-01,Shrinkage Minimum Variance,US HY,0.16083063641026035
-2025-10-01,Shrinkage Minimum Variance,Europe IG,0.14103614531856964
-2025-10-01,Shrinkage Minimum Variance,Europe HY,0.002273865595706422
+2025-10-01,Shrinkage Minimum Variance,US Treasury 7-10Y,0.02377773810725396
+2025-10-01,Shrinkage Minimum Variance,Germany Government Bond,0.19567881148440688
+2025-10-01,Shrinkage Minimum Variance,UK Gilt,0.0
+2025-10-01,Shrinkage Minimum Variance,US IG,1.8246811415871636e-17
+2025-10-01,Shrinkage Minimum Variance,US HY,0.16082763151474325
+2025-10-01,Shrinkage Minimum Variance,Europe IG,0.14103321922782813
+2025-10-01,Shrinkage Minimum Variance,Europe HY,0.0022765205544579793
 2025-10-01,Shrinkage Minimum Variance,US REIT,0.0
-2025-10-01,Shrinkage Minimum Variance,Japan REIT,0.19999999999999998
-2025-10-01,Shrinkage Minimum Variance,Europe REIT,2.3138768815148803e-17
-2025-10-01,Shrinkage Minimum Variance,Crude Oil,0.03138819259243724
-2025-10-01,Shrinkage Minimum Variance,Gold,2.2010362892639808e-17
-2025-10-01,Shrinkage Minimum Variance,Copper,0.008454321113768606
-2025-10-01,cDCC Minimum Variance,Japan Equity,0.020304030786970004
-2025-10-01,cDCC Minimum Variance,US Equity,0.009337423838581526
+2025-10-01,Shrinkage Minimum Variance,Japan REIT,0.2
+2025-10-01,Shrinkage Minimum Variance,Europe REIT,1.115578020440184e-17
+2025-10-01,Shrinkage Minimum Variance,Crude Oil,0.03138818007907753
+2025-10-01,Shrinkage Minimum Variance,Gold,0.0
+2025-10-01,Shrinkage Minimum Variance,Copper,0.008454436830152469
+2025-10-01,cDCC Minimum Variance,Japan Equity,0.022234277124726493
+2025-10-01,cDCC Minimum Variance,US Equity,0.03009215494704202
 2025-10-01,cDCC Minimum Variance,Europe Equity,0.0
-2025-10-01,cDCC Minimum Variance,Emerging Equity,5.318736895354197e-18
-2025-10-01,cDCC Minimum Variance,Japan Government Bond,0.20000000000000007
-2025-10-01,cDCC Minimum Variance,US Treasury 7-10Y,4.67066344790759e-18
-2025-10-01,cDCC Minimum Variance,Germany Government Bond,0.0254664094140982
-2025-10-01,cDCC Minimum Variance,UK Gilt,1.0565878801934227e-19
+2025-10-01,cDCC Minimum Variance,Emerging Equity,3.0462018991078832e-18
+2025-10-01,cDCC Minimum Variance,Japan Government Bond,0.2
+2025-10-01,cDCC Minimum Variance,US Treasury 7-10Y,0.0
+2025-10-01,cDCC Minimum Variance,Germany Government Bond,0.02530128666198703
+2025-10-01,cDCC Minimum Variance,UK Gilt,0.0
 2025-10-01,cDCC Minimum Variance,US IG,0.0
-2025-10-01,cDCC Minimum Variance,US HY,0.14620636657177982
-2025-10-01,cDCC Minimum Variance,Europe IG,0.20000000000000007
-2025-10-01,cDCC Minimum Variance,Europe HY,0.20000000000000007
-2025-10-01,cDCC Minimum Variance,US REIT,3.30152793146808e-18
-2025-10-01,cDCC Minimum Variance,Japan REIT,0.19117379964761125
-2025-10-01,cDCC Minimum Variance,Europe REIT,0.0
-2025-10-01,cDCC Minimum Variance,Crude Oil,0.0007415688208257834
-2025-10-01,cDCC Minimum Variance,Gold,3.5130552521029204e-17
-2025-10-01,cDCC Minimum Variance,Copper,0.006770400920133235
+2025-10-01,cDCC Minimum Variance,US HY,0.12239367794838163
+2025-10-01,cDCC Minimum Variance,Europe IG,0.2
+2025-10-01,cDCC Minimum Variance,Europe HY,0.2
+2025-10-01,cDCC Minimum Variance,US REIT,0.0
+2025-10-01,cDCC Minimum Variance,Japan REIT,0.19234329519932403
+2025-10-01,cDCC Minimum Variance,Europe REIT,8.280018480192205e-18
+2025-10-01,cDCC Minimum Variance,Crude Oil,0.0007266489853594863
+2025-10-01,cDCC Minimum Variance,Gold,0.0
+2025-10-01,cDCC Minimum Variance,Copper,0.006908659133179395
 2026-01-05,Equal Weight,Japan Equity,0.05555555555555555
 2026-01-05,Equal Weight,US Equity,0.05555555555555555
 2026-01-05,Equal Weight,Europe Equity,0.05555555555555555
@@ -1277,78 +1277,78 @@ date,strategy,asset,weight
 2026-01-05,Equal Weight,Crude Oil,0.05555555555555555
 2026-01-05,Equal Weight,Gold,0.05555555555555555
 2026-01-05,Equal Weight,Copper,0.05555555555555555
-2026-01-05,Shrinkage Risk Parity,Japan Equity,0.047787023332891226
-2026-01-05,Shrinkage Risk Parity,US Equity,0.0347804754453747
-2026-01-05,Shrinkage Risk Parity,Europe Equity,0.03209730829938273
-2026-01-05,Shrinkage Risk Parity,Emerging Equity,0.03190545439872483
-2026-01-05,Shrinkage Risk Parity,Japan Government Bond,0.1999999999999996
-2026-01-05,Shrinkage Risk Parity,US Treasury 7-10Y,0.04814211429854815
-2026-01-05,Shrinkage Risk Parity,Germany Government Bond,0.0653385551991533
-2026-01-05,Shrinkage Risk Parity,UK Gilt,0.05408776958843278
-2026-01-05,Shrinkage Risk Parity,US IG,0.043882983069603226
-2026-01-05,Shrinkage Risk Parity,US HY,0.0446225800752842
-2026-01-05,Shrinkage Risk Parity,Europe IG,0.05769775206431706
-2026-01-05,Shrinkage Risk Parity,Europe HY,0.0536422479414729
-2026-01-05,Shrinkage Risk Parity,US REIT,0.030649207348743723
-2026-01-05,Shrinkage Risk Parity,Japan REIT,0.1167998673088741
-2026-01-05,Shrinkage Risk Parity,Europe REIT,0.03622312909657995
-2026-01-05,Shrinkage Risk Parity,Crude Oil,0.03694449928741485
-2026-01-05,Shrinkage Risk Parity,Gold,0.03623224077792309
-2026-01-05,Shrinkage Risk Parity,Copper,0.02916679246727957
-2026-01-05,cDCC Risk Parity,Japan Equity,0.05946253185889438
-2026-01-05,cDCC Risk Parity,US Equity,0.03518417196714549
-2026-01-05,cDCC Risk Parity,Europe Equity,0.03215604162916817
-2026-01-05,cDCC Risk Parity,Emerging Equity,0.031251897769427564
-2026-01-05,cDCC Risk Parity,Japan Government Bond,0.20000000000000004
-2026-01-05,cDCC Risk Parity,US Treasury 7-10Y,0.046123615270882316
-2026-01-05,cDCC Risk Parity,Germany Government Bond,0.06516332717406138
-2026-01-05,cDCC Risk Parity,UK Gilt,0.051588177253306465
-2026-01-05,cDCC Risk Parity,US IG,0.04353793186434759
-2026-01-05,cDCC Risk Parity,US HY,0.0485622274965745
-2026-01-05,cDCC Risk Parity,Europe IG,0.06002423530807296
-2026-01-05,cDCC Risk Parity,Europe HY,0.05952463627588909
-2026-01-05,cDCC Risk Parity,US REIT,0.03089064521135179
-2026-01-05,cDCC Risk Parity,Japan REIT,0.11497461541182082
-2026-01-05,cDCC Risk Parity,Europe REIT,0.05123246212576445
-2026-01-05,cDCC Risk Parity,Crude Oil,0.029279882852397434
-2026-01-05,cDCC Risk Parity,Gold,0.019811842873962555
-2026-01-05,cDCC Risk Parity,Copper,0.02123175765693313
-2026-01-05,Shrinkage Minimum Variance,Japan Equity,0.017125819448626508
+2026-01-05,Shrinkage Risk Parity,Japan Equity,0.04778707910816567
+2026-01-05,Shrinkage Risk Parity,US Equity,0.034780484480258334
+2026-01-05,Shrinkage Risk Parity,Europe Equity,0.03209730392197607
+2026-01-05,Shrinkage Risk Parity,Emerging Equity,0.03190545277893612
+2026-01-05,Shrinkage Risk Parity,Japan Government Bond,0.1999999999999999
+2026-01-05,Shrinkage Risk Parity,US Treasury 7-10Y,0.048142119993791366
+2026-01-05,Shrinkage Risk Parity,Germany Government Bond,0.06533857437809011
+2026-01-05,Shrinkage Risk Parity,UK Gilt,0.054087756219356145
+2026-01-05,Shrinkage Risk Parity,US IG,0.04388297581086214
+2026-01-05,Shrinkage Risk Parity,US HY,0.04462259138796039
+2026-01-05,Shrinkage Risk Parity,Europe IG,0.05769778528516652
+2026-01-05,Shrinkage Risk Parity,Europe HY,0.05364226928399344
+2026-01-05,Shrinkage Risk Parity,US REIT,0.030649165829610945
+2026-01-05,Shrinkage Risk Parity,Japan REIT,0.11679976716430138
+2026-01-05,Shrinkage Risk Parity,Europe REIT,0.03622316492515104
+2026-01-05,Shrinkage Risk Parity,Crude Oil,0.03694449736905996
+2026-01-05,Shrinkage Risk Parity,Gold,0.03623223079417142
+2026-01-05,Shrinkage Risk Parity,Copper,0.029166781269149032
+2026-01-05,cDCC Risk Parity,Japan Equity,0.05946249106002617
+2026-01-05,cDCC Risk Parity,US Equity,0.035184121375012256
+2026-01-05,cDCC Risk Parity,Europe Equity,0.03215598165637502
+2026-01-05,cDCC Risk Parity,Emerging Equity,0.03125182541317824
+2026-01-05,cDCC Risk Parity,Japan Government Bond,0.19999999999999993
+2026-01-05,cDCC Risk Parity,US Treasury 7-10Y,0.04612465896611592
+2026-01-05,cDCC Risk Parity,Germany Government Bond,0.0651632065013457
+2026-01-05,cDCC Risk Parity,UK Gilt,0.051587957959926774
+2026-01-05,cDCC Risk Parity,US IG,0.04353762591378506
+2026-01-05,cDCC Risk Parity,US HY,0.04856223362039441
+2026-01-05,cDCC Risk Parity,Europe IG,0.060024213390472016
+2026-01-05,cDCC Risk Parity,Europe HY,0.05952476492050604
+2026-01-05,cDCC Risk Parity,US REIT,0.03089096167324994
+2026-01-05,cDCC Risk Parity,Japan REIT,0.11497438826652717
+2026-01-05,cDCC Risk Parity,Europe REIT,0.051232252699232934
+2026-01-05,cDCC Risk Parity,Crude Oil,0.029279797082276657
+2026-01-05,cDCC Risk Parity,Gold,0.019811795430702724
+2026-01-05,cDCC Risk Parity,Copper,0.021231724070872832
+2026-01-05,Shrinkage Minimum Variance,Japan Equity,0.01713945532114201
 2026-01-05,Shrinkage Minimum Variance,US Equity,0.0
 2026-01-05,Shrinkage Minimum Variance,Europe Equity,0.0
-2026-01-05,Shrinkage Minimum Variance,Emerging Equity,0.0
+2026-01-05,Shrinkage Minimum Variance,Emerging Equity,9.331226038587661e-18
 2026-01-05,Shrinkage Minimum Variance,Japan Government Bond,0.2
-2026-01-05,Shrinkage Minimum Variance,US Treasury 7-10Y,0.012031967931884059
+2026-01-05,Shrinkage Minimum Variance,US Treasury 7-10Y,0.012004858535131821
 2026-01-05,Shrinkage Minimum Variance,Germany Government Bond,0.2
-2026-01-05,Shrinkage Minimum Variance,UK Gilt,0.0
-2026-01-05,Shrinkage Minimum Variance,US IG,0.0
-2026-01-05,Shrinkage Minimum Variance,US HY,0.17061146881638062
-2026-01-05,Shrinkage Minimum Variance,Europe IG,0.11330876889015672
-2026-01-05,Shrinkage Minimum Variance,Europe HY,0.05431890081838786
-2026-01-05,Shrinkage Minimum Variance,US REIT,3.3939384425693736e-18
-2026-01-05,Shrinkage Minimum Variance,Japan REIT,0.2
-2026-01-05,Shrinkage Minimum Variance,Europe REIT,0.0
-2026-01-05,Shrinkage Minimum Variance,Crude Oil,0.027146292361501293
-2026-01-05,Shrinkage Minimum Variance,Gold,6.314207105307182e-18
-2026-01-05,Shrinkage Minimum Variance,Copper,0.005456781733063026
-2026-01-05,cDCC Minimum Variance,Japan Equity,0.03412772048830876
+2026-01-05,Shrinkage Minimum Variance,UK Gilt,9.839090981135244e-18
+2026-01-05,Shrinkage Minimum Variance,US IG,2.581028390034216e-18
+2026-01-05,Shrinkage Minimum Variance,US HY,0.1705951178735022
+2026-01-05,Shrinkage Minimum Variance,Europe IG,0.11331628749584018
+2026-01-05,Shrinkage Minimum Variance,Europe HY,0.05432396386945018
+2026-01-05,Shrinkage Minimum Variance,US REIT,8.739724258968888e-19
+2026-01-05,Shrinkage Minimum Variance,Japan REIT,0.19999999999999998
+2026-01-05,Shrinkage Minimum Variance,Europe REIT,4.53965925557595e-19
+2026-01-05,Shrinkage Minimum Variance,Crude Oil,0.027155239836146816
+2026-01-05,Shrinkage Minimum Variance,Gold,1.0445610305540032e-17
+2026-01-05,Shrinkage Minimum Variance,Copper,0.005465077068786762
+2026-01-05,cDCC Minimum Variance,Japan Equity,0.034127216890620954
 2026-01-05,cDCC Minimum Variance,US Equity,0.0
-2026-01-05,cDCC Minimum Variance,Europe Equity,0.0
-2026-01-05,cDCC Minimum Variance,Emerging Equity,7.291690283662168e-19
-2026-01-05,cDCC Minimum Variance,Japan Government Bond,0.2
-2026-01-05,cDCC Minimum Variance,US Treasury 7-10Y,0.0
-2026-01-05,cDCC Minimum Variance,Germany Government Bond,0.10699956859111213
-2026-01-05,cDCC Minimum Variance,UK Gilt,6.713615420975232e-18
-2026-01-05,cDCC Minimum Variance,US IG,8.6821299539291e-18
-2026-01-05,cDCC Minimum Variance,US HY,0.19318334808056042
-2026-01-05,cDCC Minimum Variance,Europe IG,0.10487706347760091
-2026-01-05,cDCC Minimum Variance,Europe HY,0.16081229936241778
+2026-01-05,cDCC Minimum Variance,Europe Equity,4.972242667547394e-18
+2026-01-05,cDCC Minimum Variance,Emerging Equity,5.74812404684228e-19
+2026-01-05,cDCC Minimum Variance,Japan Government Bond,0.19999999999999996
+2026-01-05,cDCC Minimum Variance,US Treasury 7-10Y,1.0826988308657726e-17
+2026-01-05,cDCC Minimum Variance,Germany Government Bond,0.10699667607529073
+2026-01-05,cDCC Minimum Variance,UK Gilt,7.046971840210123e-18
+2026-01-05,cDCC Minimum Variance,US IG,0.0
+2026-01-05,cDCC Minimum Variance,US HY,0.19318103508421905
+2026-01-05,cDCC Minimum Variance,Europe IG,0.10487584154974233
+2026-01-05,cDCC Minimum Variance,Europe HY,0.1608192304001269
 2026-01-05,cDCC Minimum Variance,US REIT,0.0
-2026-01-05,cDCC Minimum Variance,Japan REIT,0.19999999999999998
-2026-01-05,cDCC Minimum Variance,Europe REIT,2.0519573671785133e-17
-2026-01-05,cDCC Minimum Variance,Crude Oil,0.0
-2026-01-05,cDCC Minimum Variance,Gold,1.6296875787967049e-18
-2026-01-05,cDCC Minimum Variance,Copper,0.0
+2026-01-05,cDCC Minimum Variance,Japan REIT,0.19999999999999993
+2026-01-05,cDCC Minimum Variance,Europe REIT,1.0158373575319618e-17
+2026-01-05,cDCC Minimum Variance,Crude Oil,8.185866198616005e-19
+2026-01-05,cDCC Minimum Variance,Gold,3.569556779886947e-18
+2026-01-05,cDCC Minimum Variance,Copper,9.780472823199854e-18
 2026-04-01,Equal Weight,Japan Equity,0.05555555555555555
 2026-04-01,Equal Weight,US Equity,0.05555555555555555
 2026-04-01,Equal Weight,Europe Equity,0.05555555555555555
@@ -1367,78 +1367,78 @@ date,strategy,asset,weight
 2026-04-01,Equal Weight,Crude Oil,0.05555555555555555
 2026-04-01,Equal Weight,Gold,0.05555555555555555
 2026-04-01,Equal Weight,Copper,0.05555555555555555
-2026-04-01,Shrinkage Risk Parity,Japan Equity,0.043040491642685204
-2026-04-01,Shrinkage Risk Parity,US Equity,0.03638146512675598
-2026-04-01,Shrinkage Risk Parity,Europe Equity,0.033489988683256026
-2026-04-01,Shrinkage Risk Parity,Emerging Equity,0.031926321850934324
-2026-04-01,Shrinkage Risk Parity,Japan Government Bond,0.20000000000000007
-2026-04-01,Shrinkage Risk Parity,US Treasury 7-10Y,0.04868225682621625
-2026-04-01,Shrinkage Risk Parity,Germany Government Bond,0.06290764481310447
-2026-04-01,Shrinkage Risk Parity,UK Gilt,0.05307197527257036
-2026-04-01,Shrinkage Risk Parity,US IG,0.045240922813390774
-2026-04-01,Shrinkage Risk Parity,US HY,0.046609836891051824
-2026-04-01,Shrinkage Risk Parity,Europe IG,0.05802668182152351
-2026-04-01,Shrinkage Risk Parity,Europe HY,0.054816669680869685
-2026-04-01,Shrinkage Risk Parity,US REIT,0.03266286457983201
-2026-04-01,Shrinkage Risk Parity,Japan REIT,0.11861724090880392
-2026-04-01,Shrinkage Risk Parity,Europe REIT,0.03637651634621899
-2026-04-01,Shrinkage Risk Parity,Crude Oil,0.03667127708965374
-2026-04-01,Shrinkage Risk Parity,Gold,0.03371540520109538
-2026-04-01,Shrinkage Risk Parity,Copper,0.027762440452037393
-2026-04-01,cDCC Risk Parity,Japan Equity,0.04767516425378601
-2026-04-01,cDCC Risk Parity,US Equity,0.03531710133133775
-2026-04-01,cDCC Risk Parity,Europe Equity,0.029586447930553726
-2026-04-01,cDCC Risk Parity,Emerging Equity,0.023112347405519495
-2026-04-01,cDCC Risk Parity,Japan Government Bond,0.1999999999999999
-2026-04-01,cDCC Risk Parity,US Treasury 7-10Y,0.05634735059336643
-2026-04-01,cDCC Risk Parity,Germany Government Bond,0.08399197917354928
-2026-04-01,cDCC Risk Parity,UK Gilt,0.05916960166828249
-2026-04-01,cDCC Risk Parity,US IG,0.05364499024239617
-2026-04-01,cDCC Risk Parity,US HY,0.058156263929395796
-2026-04-01,cDCC Risk Parity,Europe IG,0.06924567554907173
-2026-04-01,cDCC Risk Parity,Europe HY,0.06725346454103483
-2026-04-01,cDCC Risk Parity,US REIT,0.04015929372260701
-2026-04-01,cDCC Risk Parity,Japan REIT,0.06511435835715598
-2026-04-01,cDCC Risk Parity,Europe REIT,0.0326581910387604
-2026-04-01,cDCC Risk Parity,Crude Oil,0.02738464740537787
-2026-04-01,cDCC Risk Parity,Gold,0.019041883178562185
-2026-04-01,cDCC Risk Parity,Copper,0.03214123967924302
+2026-04-01,Shrinkage Risk Parity,Japan Equity,0.04304053057429015
+2026-04-01,Shrinkage Risk Parity,US Equity,0.036381463991156826
+2026-04-01,Shrinkage Risk Parity,Europe Equity,0.03348998771042981
+2026-04-01,Shrinkage Risk Parity,Emerging Equity,0.03192631704004628
+2026-04-01,Shrinkage Risk Parity,Japan Government Bond,0.19999999999999965
+2026-04-01,Shrinkage Risk Parity,US Treasury 7-10Y,0.048682255626946655
+2026-04-01,Shrinkage Risk Parity,Germany Government Bond,0.06290763842080274
+2026-04-01,Shrinkage Risk Parity,UK Gilt,0.05307199765463
+2026-04-01,Shrinkage Risk Parity,US IG,0.04524088888394439
+2026-04-01,Shrinkage Risk Parity,US HY,0.046609851057411056
+2026-04-01,Shrinkage Risk Parity,Europe IG,0.05802670803590621
+2026-04-01,Shrinkage Risk Parity,Europe HY,0.054816703517900696
+2026-04-01,Shrinkage Risk Parity,US REIT,0.03266282279428459
+2026-04-01,Shrinkage Risk Parity,Japan REIT,0.1186171869546776
+2026-04-01,Shrinkage Risk Parity,Europe REIT,0.036376545430890354
+2026-04-01,Shrinkage Risk Parity,Crude Oil,0.03667127767680062
+2026-04-01,Shrinkage Risk Parity,Gold,0.03371539571843688
+2026-04-01,Shrinkage Risk Parity,Copper,0.027762428911445487
+2026-04-01,cDCC Risk Parity,Japan Equity,0.04767525226761867
+2026-04-01,cDCC Risk Parity,US Equity,0.03531709774880156
+2026-04-01,cDCC Risk Parity,Europe Equity,0.029586456740935196
+2026-04-01,cDCC Risk Parity,Emerging Equity,0.023112421986528804
+2026-04-01,cDCC Risk Parity,Japan Government Bond,0.2
+2026-04-01,cDCC Risk Parity,US Treasury 7-10Y,0.05634794379908368
+2026-04-01,cDCC Risk Parity,Germany Government Bond,0.08399201323841922
+2026-04-01,cDCC Risk Parity,UK Gilt,0.05916957771568632
+2026-04-01,cDCC Risk Parity,US IG,0.05364397933494643
+2026-04-01,cDCC Risk Parity,US HY,0.05815646483815592
+2026-04-01,cDCC Risk Parity,Europe IG,0.0692457358379685
+2026-04-01,cDCC Risk Parity,Europe HY,0.06725330764887598
+2026-04-01,cDCC Risk Parity,US REIT,0.040159286425345254
+2026-04-01,cDCC Risk Parity,Japan REIT,0.06511441124402656
+2026-04-01,cDCC Risk Parity,Europe REIT,0.032658227819347546
+2026-04-01,cDCC Risk Parity,Crude Oil,0.027384715598054554
+2026-04-01,cDCC Risk Parity,Gold,0.01904187570822388
+2026-04-01,cDCC Risk Parity,Copper,0.03214123204798203
 2026-04-01,Shrinkage Minimum Variance,Japan Equity,0.0
-2026-04-01,Shrinkage Minimum Variance,US Equity,9.938104428931952e-18
+2026-04-01,Shrinkage Minimum Variance,US Equity,3.3205174048017827e-19
 2026-04-01,Shrinkage Minimum Variance,Europe Equity,0.0
-2026-04-01,Shrinkage Minimum Variance,Emerging Equity,7.714682435107371e-18
-2026-04-01,Shrinkage Minimum Variance,Japan Government Bond,0.19999999999999998
-2026-04-01,Shrinkage Minimum Variance,US Treasury 7-10Y,8.673617379884035e-18
-2026-04-01,Shrinkage Minimum Variance,Germany Government Bond,0.15335031049822057
-2026-04-01,Shrinkage Minimum Variance,UK Gilt,0.0
-2026-04-01,Shrinkage Minimum Variance,US IG,1.4353476811813108e-17
-2026-04-01,Shrinkage Minimum Variance,US HY,0.19985382628739626
-2026-04-01,Shrinkage Minimum Variance,Europe IG,0.13332905149416088
-2026-04-01,Shrinkage Minimum Variance,Europe HY,0.09081553166621684
-2026-04-01,Shrinkage Minimum Variance,US REIT,4.443117627879649e-18
-2026-04-01,Shrinkage Minimum Variance,Japan REIT,0.2
-2026-04-01,Shrinkage Minimum Variance,Europe REIT,3.155991416086845e-17
-2026-04-01,Shrinkage Minimum Variance,Crude Oil,0.020181543626028985
-2026-04-01,Shrinkage Minimum Variance,Gold,6.777534127455284e-18
-2026-04-01,Shrinkage Minimum Variance,Copper,0.002469736427976511
-2026-04-01,cDCC Minimum Variance,Japan Equity,0.0011251808108463037
-2026-04-01,cDCC Minimum Variance,US Equity,0.0
-2026-04-01,cDCC Minimum Variance,Europe Equity,0.0
-2026-04-01,cDCC Minimum Variance,Emerging Equity,2.285076915576421e-17
-2026-04-01,cDCC Minimum Variance,Japan Government Bond,0.2
-2026-04-01,cDCC Minimum Variance,US Treasury 7-10Y,0.020997031972367016
+2026-04-01,Shrinkage Minimum Variance,Emerging Equity,3.776010833904275e-17
+2026-04-01,Shrinkage Minimum Variance,Japan Government Bond,0.19999999999999996
+2026-04-01,Shrinkage Minimum Variance,US Treasury 7-10Y,5.017752652958756e-18
+2026-04-01,Shrinkage Minimum Variance,Germany Government Bond,0.1533674830558802
+2026-04-01,Shrinkage Minimum Variance,UK Gilt,8.363638673731647e-18
+2026-04-01,Shrinkage Minimum Variance,US IG,0.0
+2026-04-01,Shrinkage Minimum Variance,US HY,0.1998118695047248
+2026-04-01,Shrinkage Minimum Variance,Europe IG,0.13334449460652917
+2026-04-01,Shrinkage Minimum Variance,Europe HY,0.09083542821331571
+2026-04-01,Shrinkage Minimum Variance,US REIT,0.0
+2026-04-01,Shrinkage Minimum Variance,Japan REIT,0.19999999999999996
+2026-04-01,Shrinkage Minimum Variance,Europe REIT,0.0
+2026-04-01,Shrinkage Minimum Variance,Crude Oil,0.02017364759011353
+2026-04-01,Shrinkage Minimum Variance,Gold,0.0
+2026-04-01,Shrinkage Minimum Variance,Copper,0.002467077029436647
+2026-04-01,cDCC Minimum Variance,Japan Equity,0.0010944891524909542
+2026-04-01,cDCC Minimum Variance,US Equity,1.9748755437513234e-17
+2026-04-01,cDCC Minimum Variance,Europe Equity,1.3506122616249042e-17
+2026-04-01,cDCC Minimum Variance,Emerging Equity,0.0
+2026-04-01,cDCC Minimum Variance,Japan Government Bond,0.19999999999999998
+2026-04-01,cDCC Minimum Variance,US Treasury 7-10Y,0.020997346492278933
 2026-04-01,cDCC Minimum Variance,Germany Government Bond,0.19999999999999998
-2026-04-01,cDCC Minimum Variance,UK Gilt,4.300168416469169e-17
-2026-04-01,cDCC Minimum Variance,US IG,0.0007054788319285334
-2026-04-01,cDCC Minimum Variance,US HY,0.19999999999999998
-2026-04-01,cDCC Minimum Variance,Europe IG,0.14380333334016845
-2026-04-01,cDCC Minimum Variance,Europe HY,0.15989263813702148
-2026-04-01,cDCC Minimum Variance,US REIT,4.707532911511222e-18
-2026-04-01,cDCC Minimum Variance,Japan REIT,0.05892992332810949
-2026-04-01,cDCC Minimum Variance,Europe REIT,1.737415348014382e-18
-2026-04-01,cDCC Minimum Variance,Crude Oil,0.006633817863274677
-2026-04-01,cDCC Minimum Variance,Gold,0.0
-2026-04-01,cDCC Minimum Variance,Copper,0.007912595716283968
+2026-04-01,cDCC Minimum Variance,UK Gilt,0.0
+2026-04-01,cDCC Minimum Variance,US IG,0.0006178053227379333
+2026-04-01,cDCC Minimum Variance,US HY,0.2
+2026-04-01,cDCC Minimum Variance,Europe IG,0.14385354393554883
+2026-04-01,cDCC Minimum Variance,Europe HY,0.159952341509739
+2026-04-01,cDCC Minimum Variance,US REIT,2.7838898424665058e-18
+2026-04-01,cDCC Minimum Variance,Japan REIT,0.058932286205797685
+2026-04-01,cDCC Minimum Variance,Europe REIT,8.422230866828731e-18
+2026-04-01,cDCC Minimum Variance,Crude Oil,0.006634387911181102
+2026-04-01,cDCC Minimum Variance,Gold,2.625802136488331e-18
+2026-04-01,cDCC Minimum Variance,Copper,0.007917799470225488
 2026-07-01,Equal Weight,Japan Equity,0.05555555555555555
 2026-07-01,Equal Weight,US Equity,0.05555555555555555
 2026-07-01,Equal Weight,Europe Equity,0.05555555555555555
@@ -1457,75 +1457,75 @@ date,strategy,asset,weight
 2026-07-01,Equal Weight,Crude Oil,0.05555555555555555
 2026-07-01,Equal Weight,Gold,0.05555555555555555
 2026-07-01,Equal Weight,Copper,0.05555555555555555
-2026-07-01,Shrinkage Risk Parity,Japan Equity,0.041765408255106586
-2026-07-01,Shrinkage Risk Parity,US Equity,0.03627050645627522
-2026-07-01,Shrinkage Risk Parity,Europe Equity,0.032619852625861125
-2026-07-01,Shrinkage Risk Parity,Emerging Equity,0.03026590295613536
-2026-07-01,Shrinkage Risk Parity,Japan Government Bond,0.19999999999999965
-2026-07-01,Shrinkage Risk Parity,US Treasury 7-10Y,0.05136594718996786
-2026-07-01,Shrinkage Risk Parity,Germany Government Bond,0.0657960952830503
-2026-07-01,Shrinkage Risk Parity,UK Gilt,0.05345134377705044
-2026-07-01,Shrinkage Risk Parity,US IG,0.047177693016002914
-2026-07-01,Shrinkage Risk Parity,US HY,0.0486084443874526
-2026-07-01,Shrinkage Risk Parity,Europe IG,0.05932495812833722
-2026-07-01,Shrinkage Risk Parity,Europe HY,0.054942508168097814
-2026-07-01,Shrinkage Risk Parity,US REIT,0.03379355491370977
-2026-07-01,Shrinkage Risk Parity,Japan REIT,0.11082422430445295
-2026-07-01,Shrinkage Risk Parity,Europe REIT,0.03605055738037705
-2026-07-01,Shrinkage Risk Parity,Crude Oil,0.038207404870594534
-2026-07-01,Shrinkage Risk Parity,Gold,0.03292042392164755
-2026-07-01,Shrinkage Risk Parity,Copper,0.026615174365880997
-2026-07-01,cDCC Risk Parity,Japan Equity,0.049492348243918176
-2026-07-01,cDCC Risk Parity,US Equity,0.03329949270473722
-2026-07-01,cDCC Risk Parity,Europe Equity,0.03087425719035256
-2026-07-01,cDCC Risk Parity,Emerging Equity,0.016370935476025642
-2026-07-01,cDCC Risk Parity,Japan Government Bond,0.19999999999999993
-2026-07-01,cDCC Risk Parity,US Treasury 7-10Y,0.052750323380099495
-2026-07-01,cDCC Risk Parity,Germany Government Bond,0.07107737250172645
-2026-07-01,cDCC Risk Parity,UK Gilt,0.05599333785724109
-2026-07-01,cDCC Risk Parity,US IG,0.054768218563635424
-2026-07-01,cDCC Risk Parity,US HY,0.0668010960914265
-2026-07-01,cDCC Risk Parity,Europe IG,0.05986790189467939
-2026-07-01,cDCC Risk Parity,Europe HY,0.06427655456085636
-2026-07-01,cDCC Risk Parity,US REIT,0.031122443873181124
-2026-07-01,cDCC Risk Parity,Japan REIT,0.10401979499124223
-2026-07-01,cDCC Risk Parity,Europe REIT,0.034586631716525734
-2026-07-01,cDCC Risk Parity,Crude Oil,0.02691599211412425
-2026-07-01,cDCC Risk Parity,Gold,0.022504700544568008
-2026-07-01,cDCC Risk Parity,Copper,0.0252785982956605
-2026-07-01,Shrinkage Minimum Variance,Japan Equity,2.5428680503675816e-17
-2026-07-01,Shrinkage Minimum Variance,US Equity,0.0
-2026-07-01,Shrinkage Minimum Variance,Europe Equity,0.0
-2026-07-01,Shrinkage Minimum Variance,Emerging Equity,0.0
-2026-07-01,Shrinkage Minimum Variance,Japan Government Bond,0.19999999999999996
-2026-07-01,Shrinkage Minimum Variance,US Treasury 7-10Y,0.01910020603251872
-2026-07-01,Shrinkage Minimum Variance,Germany Government Bond,0.17419953508316424
-2026-07-01,Shrinkage Minimum Variance,UK Gilt,9.00609178205817e-19
-2026-07-01,Shrinkage Minimum Variance,US IG,0.0
+2026-07-01,Shrinkage Risk Parity,Japan Equity,0.04176541500834392
+2026-07-01,Shrinkage Risk Parity,US Equity,0.03627052051599276
+2026-07-01,Shrinkage Risk Parity,Europe Equity,0.0326198479013044
+2026-07-01,Shrinkage Risk Parity,Emerging Equity,0.030265888542714246
+2026-07-01,Shrinkage Risk Parity,Japan Government Bond,0.20000000000000007
+2026-07-01,Shrinkage Risk Parity,US Treasury 7-10Y,0.05136595598097283
+2026-07-01,Shrinkage Risk Parity,Germany Government Bond,0.06579604387320039
+2026-07-01,Shrinkage Risk Parity,UK Gilt,0.053451351646551265
+2026-07-01,Shrinkage Risk Parity,US IG,0.0471776940708723
+2026-07-01,Shrinkage Risk Parity,US HY,0.04860843377163074
+2026-07-01,Shrinkage Risk Parity,Europe IG,0.05932501131937967
+2026-07-01,Shrinkage Risk Parity,Europe HY,0.05494255514512038
+2026-07-01,Shrinkage Risk Parity,US REIT,0.03379350175349787
+2026-07-01,Shrinkage Risk Parity,Japan REIT,0.11082422451175285
+2026-07-01,Shrinkage Risk Parity,Europe REIT,0.03605058738733654
+2026-07-01,Shrinkage Risk Parity,Crude Oil,0.03820739671904953
+2026-07-01,Shrinkage Risk Parity,Gold,0.03292041030369734
+2026-07-01,Shrinkage Risk Parity,Copper,0.026615161548582986
+2026-07-01,cDCC Risk Parity,Japan Equity,0.04949229704440117
+2026-07-01,cDCC Risk Parity,US Equity,0.03329942390762834
+2026-07-01,cDCC Risk Parity,Europe Equity,0.030874108729180144
+2026-07-01,cDCC Risk Parity,Emerging Equity,0.01637089524469583
+2026-07-01,cDCC Risk Parity,Japan Government Bond,0.20000000000000004
+2026-07-01,cDCC Risk Parity,US Treasury 7-10Y,0.05275136075619273
+2026-07-01,cDCC Risk Parity,Germany Government Bond,0.07107730066449902
+2026-07-01,cDCC Risk Parity,UK Gilt,0.055993260494236044
+2026-07-01,cDCC Risk Parity,US IG,0.05476800155964271
+2026-07-01,cDCC Risk Parity,US HY,0.06680213699690181
+2026-07-01,cDCC Risk Parity,Europe IG,0.059867797008460226
+2026-07-01,cDCC Risk Parity,Europe HY,0.06427602217335428
+2026-07-01,cDCC Risk Parity,US REIT,0.0311223176404184
+2026-07-01,cDCC Risk Parity,Japan REIT,0.10401943353863757
+2026-07-01,cDCC Risk Parity,Europe REIT,0.0345865560261331
+2026-07-01,cDCC Risk Parity,Crude Oil,0.02691596883323578
+2026-07-01,cDCC Risk Parity,Gold,0.022504614191640755
+2026-07-01,cDCC Risk Parity,Copper,0.02527850519074219
+2026-07-01,Shrinkage Minimum Variance,Japan Equity,1.6136884918933417e-17
+2026-07-01,Shrinkage Minimum Variance,US Equity,1.2749504290712067e-18
+2026-07-01,Shrinkage Minimum Variance,Europe Equity,6.1355813838626516e-18
+2026-07-01,Shrinkage Minimum Variance,Emerging Equity,7.736244242181553e-19
+2026-07-01,Shrinkage Minimum Variance,Japan Government Bond,0.19999999999999998
+2026-07-01,Shrinkage Minimum Variance,US Treasury 7-10Y,0.01909411526935564
+2026-07-01,Shrinkage Minimum Variance,Germany Government Bond,0.1742006045660469
+2026-07-01,Shrinkage Minimum Variance,UK Gilt,0.0
+2026-07-01,Shrinkage Minimum Variance,US IG,6.937763768581001e-18
 2026-07-01,Shrinkage Minimum Variance,US HY,0.2
-2026-07-01,Shrinkage Minimum Variance,Europe IG,0.13850866285410227
-2026-07-01,Shrinkage Minimum Variance,Europe HY,0.04633524589768515
-2026-07-01,Shrinkage Minimum Variance,US REIT,1.2381924057680632e-17
+2026-07-01,Shrinkage Minimum Variance,Europe IG,0.13851286132094923
+2026-07-01,Shrinkage Minimum Variance,Europe HY,0.04633588217348261
+2026-07-01,Shrinkage Minimum Variance,US REIT,0.0
 2026-07-01,Shrinkage Minimum Variance,Japan REIT,0.2
-2026-07-01,Shrinkage Minimum Variance,Europe REIT,1.0201601567977948e-17
-2026-07-01,Shrinkage Minimum Variance,Crude Oil,0.02185635013252963
-2026-07-01,Shrinkage Minimum Variance,Gold,6.365927638968556e-18
-2026-07-01,Shrinkage Minimum Variance,Copper,0.0
-2026-07-01,cDCC Minimum Variance,Japan Equity,0.0206032106378414
-2026-07-01,cDCC Minimum Variance,US Equity,6.37894414701719e-19
-2026-07-01,cDCC Minimum Variance,Europe Equity,0.0
-2026-07-01,cDCC Minimum Variance,Emerging Equity,3.732658460099323e-18
-2026-07-01,cDCC Minimum Variance,Japan Government Bond,0.2
-2026-07-01,cDCC Minimum Variance,US Treasury 7-10Y,1.9765305508947458e-17
-2026-07-01,cDCC Minimum Variance,Germany Government Bond,0.14319099069361121
-2026-07-01,cDCC Minimum Variance,UK Gilt,2.7390102554240812e-17
-2026-07-01,cDCC Minimum Variance,US IG,0.07905303566626684
+2026-07-01,Shrinkage Minimum Variance,Europe REIT,0.0
+2026-07-01,Shrinkage Minimum Variance,Crude Oil,0.02185653667016567
+2026-07-01,Shrinkage Minimum Variance,Gold,0.0
+2026-07-01,Shrinkage Minimum Variance,Copper,3.2095627554167003e-17
+2026-07-01,cDCC Minimum Variance,Japan Equity,0.02060556101123445
+2026-07-01,cDCC Minimum Variance,US Equity,9.57148728934563e-18
+2026-07-01,cDCC Minimum Variance,Europe Equity,1.9094911034131624e-17
+2026-07-01,cDCC Minimum Variance,Emerging Equity,0.0
+2026-07-01,cDCC Minimum Variance,Japan Government Bond,0.19999999999999998
+2026-07-01,cDCC Minimum Variance,US Treasury 7-10Y,3.0850807634656596e-18
+2026-07-01,cDCC Minimum Variance,Germany Government Bond,0.14319479577596925
+2026-07-01,cDCC Minimum Variance,UK Gilt,6.016144927074679e-18
+2026-07-01,cDCC Minimum Variance,US IG,0.07905399011975611
 2026-07-01,cDCC Minimum Variance,US HY,0.19999999999999998
 2026-07-01,cDCC Minimum Variance,Europe IG,0.0
-2026-07-01,cDCC Minimum Variance,Europe HY,0.17215696771105837
-2026-07-01,cDCC Minimum Variance,US REIT,0.0
-2026-07-01,cDCC Minimum Variance,Japan REIT,0.1801560058568447
-2026-07-01,cDCC Minimum Variance,Europe REIT,1.6911322672878525e-18
-2026-07-01,cDCC Minimum Variance,Crude Oil,0.004839789434377453
+2026-07-01,cDCC Minimum Variance,Europe HY,0.17215200126787583
+2026-07-01,cDCC Minimum Variance,US REIT,7.770922731386114e-18
+2026-07-01,cDCC Minimum Variance,Japan REIT,0.18015391168576578
+2026-07-01,cDCC Minimum Variance,Europe REIT,0.0
+2026-07-01,cDCC Minimum Variance,Crude Oil,0.004839740139398538
 2026-07-01,cDCC Minimum Variance,Gold,0.0
-2026-07-01,cDCC Minimum Variance,Copper,0.0
+2026-07-01,cDCC Minimum Variance,Copper,2.09695531145013e-18
